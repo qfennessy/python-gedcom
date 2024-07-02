@@ -1,0 +1,6658 @@
+0 HEAD
+1 SOUR Reunion
+2 VERS V13.0
+2 CORP Leister Productions
+1 DEST Reunion
+1 DATE 28 JUN 2024
+1 SUBM @SUB1@
+1 FILE Fennessy Kelley upgraded from 12 18Dec2020 13
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @I3@ INDI
+1 _UID 53CA025F20684686857E793954FE84AA07E8
+1 NAME Charles Shepherdson /Abell/
+1 SEX M
+1 BIRT
+2 DATE 5 DEC 1969
+2 PLAC Bethesda, Maryland
+1 RESI
+2 DATE 2010
+2 PLAC Chevy Chase, Montgomery, Maryland
+1 RESI
+2 PLAC Odenton, Anne Arundel, Maryland, USA
+1 FAMS @F486@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I4@ INDI
+1 _UID 8AA2B9D00D764AE084C971EC11CBAC790D95
+1 NAME Claire McGill /Abell/
+1 SEX F
+1 BIRT
+2 DATE 12 JUL 2007
+2 PLAC Washington, DC
+1 FAMC @F486@
+0 @I5@ INDI
+1 _UID 89C3D15F6F954459846C869783463E9DCEC4
+1 NAME Thomas Shepherdson /Abell/
+1 SEX M
+1 BIRT
+2 DATE 6 JAN 2005
+2 PLAC Washington, DC
+1 FAMC @F486@
+0 @I6@ INDI
+1 _UID 9AB8824C8BD94E4F9931C5086993EEDF8107
+1 NAME William James /Abell/
+1 SEX M
+1 BIRT
+2 DATE 20 NOV 2002
+2 PLAC Washington, DC
+1 FAMC @F486@
+0 @I18@ INDI
+1 _UID B73B1D23150C482CB9343D50B87CFB34A4CE
+1 NAME Margaret /Aldridge/
+1 SEX F
+1 BIRT
+2 DATE 29 NOV 1864
+2 PLAC Hennessy's Road, Kilmacow, Waterford Ireland
+1 RESI
+2 DATE 1901
+2 PLAC Kilculliheen, Kilkenny, Ireland
+1 RESI
+2 DATE 2 APR 1911
+2 PLAC Waterford City, Waterford, Ireland
+1 DEAT
+2 DATE 1933
+2 PLAC Waterford Ireland
+1 NOTE @N235@
+1 FAMS @F130@
+1 CHAN
+2 DATE 7 MAY 2019
+0 @I96@ INDI
+1 _UID EB448EE5592D4740A7122670F0EE32AAB894
+1 NAME Eamon Peter /Bousa/
+1 SEX M
+1 BIRT
+2 DATE 29 AUG 1992
+2 PLAC Newton, Massachusetts
+2 NOTE Newton-Wellesley Hospital
+1 EDUC
+2 DATE 2011
+2 PLAC Wellesley High School
+2 NOTE prediction as of 2010
+1 FAMC @F311@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I97@ INDI
+1 _UID 19EF8A7FBA0D4D8FA03F79A5D2363F221A32
+1 NAME Edward Peter /Bousa/
+1 SEX M
+1 BIRT
+2 DATE 13 NOV 1958
+2 PLAC Hartford, Connecticut
+2 NOTE Hartford Hospital
+1 RESI
+2 DATE 1993
+2 PLAC Wellesley, Massachusetts
+1 RESI
+2 DATE 1998
+2 PLAC Wellesley, Massachusetts
+1 RESI
+2 PLAC Wellesley, Massachusetts
+1 RESI
+2 PLAC Wellesley Hills, Norfolk, Massachusetts, USA
+1 RESI
+2 PLAC Nantucket, Nantucket, Massachusetts, USA
+1 FAMC @F2573@
+1 FAMS @F311@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I98@ INDI
+1 _UID DB910F26DD5242F390B13B132B7D1C53ABB6
+1 NAME Marina Louise /Bousa/
+1 SEX F
+1 BIRT
+2 DATE 5 JAN 1990
+2 PLAC Newton, Massachusetts
+2 NOTE Newton-Wellesley Hospital
+1 EDUC
+2 DATE 2009
+2 PLAC Lawrence Academy
+1 EDUC
+2 DATE 2013
+2 PLAC Williams College
+2 NOTE prediction in 2010
+1 FAMC @F311@
+1 FAMS @F1015@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I176@ INDI
+1 _UID 092B25386BAB4DA2824857BEF01B1E2BC944
+1 NAME Edward J /Brown/
+1 SEX M
+1 FAMS @F321@
+0 @I177@ INDI
+1 _UID 6B93331C1F8F47019661E3FD0350B169874C
+1 NAME Edward J /Brown/
+1 SEX M
+1 BIRT
+2 DATE 1970
+2 PLAC Cape Cod, MA
+1 FAMC @F321@
+1 FAMS @F1065@
+0 @I181@ INDI
+1 _UID 29B320F10F2248ED84B5EFB961F28CC6D9DB
+1 NAME Jeffrey /Brown/
+1 SEX M
+1 BIRT
+2 DATE 1973
+1 RESI
+2 DATE 2010
+2 PLAC West Roxbury, Suffolk, Massachusetts
+1 OCCU
+2 DATE 2010
+2 PLAC West Roxbury, Suffolk, Massachusetts
+2 NOTE Computer industry
+1 FAMC @F321@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I207@ INDI
+1 _UID E834C2D5C0A0412BAF9D6776529C8892B01F
+1 NAME Brendan Christopher /Burke/
+1 SEX M
+1 BIRT
+2 DATE 9 DEC 1967
+2 PLAC Dorchester, MA
+1 RESI
+2 DATE 2010
+2 PLAC Rutland, Massachusetts
+2 NOTE 1 Crestview Drive 01543
+1 FAMC @F320@
+1 FAMS @F1074@
+1 CHAN
+2 DATE 31 JAN 2010
+0 @I208@ INDI
+1 _UID F6456A1F3EB54F7DBB69C1FA86FDBC1ABBB4
+1 NAME Kerin Patricia /Burke/
+1 SEX F
+1 BIRT
+2 DATE 5 DEC 1970
+2 PLAC Canton, MA
+1 OCCU
+2 DATE 2010
+2 NOTE Senior Executive Assistant in Communications for Liberty Mutual Group, starting in 2000
+1 RESI
+2 DATE 2010
+2 PLAC Canton, Massachusetts
+2 NOTE 2187 Washington Street 02021
+1 NOTE @N1879@
+1 FAMC @F320@
+1 FAMS @F1075@
+1 CHAN
+2 DATE 6 FEB 2010
+0 @I210@ INDI
+1 _UID 8967139BBC754C6A98532E56FDFD70F45291
+1 NAME William /Burke/
+1 SEX M
+1 BIRT
+2 DATE 26 FEB 1934
+2 PLAC Lawrence, MA
+1 OCCU
+2 PLAC Boston College High School
+2 NOTE Teacher, Latin and Greek
+1 DEAT
+2 DATE 4 JAN 2024
+2 PLAC Braintree, Norfolk, Massachusetts, United States of America
+1 FAMC @F2836@
+1 FAMS @F320@
+1 FAMS @F2599@
+1 CHAN
+2 DATE 6 JAN 2024
+0 @I211@ INDI
+1 _UID FE9FD05BDDB04008A22A9F0AF0F2FF2F22C9
+1 NAME Mary-Louise /Burns/
+1 SEX F
+1 BIRT
+2 DATE 8 MAY 1932
+2 PLAC New Jersey
+1 EVEN
+2 TYPE _PHOTO
+2 NOTE @@M2@@
+1 DEAT
+2 DATE 3 NOV 2019
+2 PLAC Charlotte, North Carolina, USA
+1 BURI
+2 DATE 16 SEP 2019
+2 PLAC West Roxbury, Boston, Massachusetts
+2 NOTE St Benedicts Cemetery
+1 NOTE @N335@
+1 FAMC @F7@
+1 FAMS @F164@
+1 CHAN
+2 DATE 10 NOV 2019
+0 @I213@ INDI
+1 _UID 458717D49A704BB0B2541CE950DD4FDF22CA
+1 NAME Robert Leo /Burns/
+1 SEX M
+1 BIRT
+2 DATE 1890
+2 PLAC Oswego, New York
+1 EDUC
+2 DATE ABT 1908
+2 PLAC Oswego, New York
+2 NOTE Oswego Normal School, teachers college, now Oswego State
+1 OCCU
+2 DATE 1920
+2 PLAC Cliffside Park, New York
+2 NOTE High school principal
+1 RESI
+2 DATE 1920
+2 PLAC Cliffside Park, Bergen, New Jersey
+1 OCCU
+2 DATE 1930
+2 PLAC Fort Lee, Bergen, New Jersey
+2 NOTE High school principal
+1 RESI
+2 DATE 1930
+2 PLAC Fort Lee, Bergen, New Jersey
+1 FAMS @F7@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I267@ INDI
+1 _UID FA51DDDA0E5348C8824D7F5708596E17FE8E
+1 NAME Marjorie Eileen /Carr/
+1 SEX F
+1 BIRT
+2 DATE 23 SEP 1930
+2 PLAC Brighton, Massachusetts
+1 RESI
+2 DATE 1940
+2 PLAC Roslindale, Massachusetts
+1 RESI
+2 DATE 1948
+2 PLAC Roslindale, Massachusetts
+2 NOTE 3940 Washington Street
+1 EDUC
+2 DATE 1951
+2 PLAC Boston, Massachusetts
+2 NOTE Emmanuel College, BA
+1 EDUC
+2 DATE 1954
+2 PLAC Boston, Massachusetts
+2 NOTE Boston College, M. Ed
+1 RESI
+2 DATE 1960
+2 PLAC Roslindale, Massachusetts
+2 NOTE 1 Meyer Court
+1 RESI
+2 DATE 2010
+2 PLAC Milton, Massachusetts
+2 NOTE 1372 Brush Hill Rd
+1 DEAT
+2 DATE 18 MAR 2022
+2 PLAC Framingham, Middlesex, Massachusetts
+2 NOTE St Patrick’s Manor
+1 BURI
+2 DATE 30 MAR 2022
+2 PLAC Roslindale, Boston, Suffolk, Massachusetts, USA
+1 FAMC @F122@
+1 FAMS @F77@
+1 CHAN
+2 DATE 31 MAR 2022
+0 @I268@ INDI
+1 _UID 1CF7EED87C7B4C1B9D728FD9EED971F0D6EB
+1 NAME Mark Francis /Carr/
+1 SEX M
+1 BIRT
+2 DATE 28 SEP 1889
+2 PLAC Moycullen, Galway, Ireland
+1 RESI
+2 DATE 31 MAR 1901
+2 PLAC Oghery, Slieveaneena, Moycullen, Galway, Ireland
+1 OCCU
+2 DATE BEF 1911
+2 PLAC Moycullen, Galway, Ireland
+2 NOTE Mark worked for Lord Killearnan as a gentleman's gentleman
+1 EVEN
+2 TYPE Arrival
+2 DATE 29 AUG 1911
+2 PLAC New York, New York
+2 NOTE via Oceanic
+1 EVEN
+2 TYPE Departure
+2 DATE BEF 30 AUG 1911
+2 PLAC Queenstown
+1 OCCU
+2 DATE JUL 1912
+2 PLAC Readville, MA
+2 NOTE Teamster
+1 RESI
+2 DATE JUL 1912
+2 PLAC Readville, MA
+2 NOTE 1 Manila Ave (no such address as of March 2021)
+1 RESI
+2 DATE 1917
+2 PLAC Boston, MA
+2 NOTE 75 Carolina Ave,, Jamaica Plain, Boston MA
+1 MILT
+2 DATE 1917
+2 PLAC Boston Navy Yard
+1 RESI
+2 DATE 1917
+2 PLAC Forest Hills, Boston, Massachusetts
+1 OCCU
+2 DATE BET 1917 AND 1950
+2 PLAC Boston, MA
+2 NOTE Bay State Street Railway, then Boston Elevated, then MTA at retirement
+1 CITN
+2 DATE 5 MAR 1917
+2 PLAC Boston, MA
+2 NOTE Naturalized as a US Citizen
+1 RESI
+2 DATE 1920
+2 PLAC Boston Ward 22, Suffolk, Massachusetts
+2 NOTE 75 Carolina Ave,, Jamaica Plain, Boston MA
+1 RESI
+2 DATE 1930
+2 PLAC Boston, Suffolk, Massachusetts
+2 NOTE 3940 Washington St
+1 OCCU
+2 DATE 1930
+2 PLAC Boston, MA
+2 NOTE Receiving Clerk, Boston Elevated
+1 RESI
+2 DATE 1935
+2 PLAC Roslindale, Massachusetts
+2 NOTE 3940 Washington St
+1 OCCU
+2 DATE 1940
+2 PLAC Boston, MA
+2 NOTE Receiving Clerk, Elevated Co
+1 RESI
+2 DATE 1940
+2 PLAC Roslindale, Boston, Suffolk, Massachusetts, USA
+2 NOTE 3940 Washington Street
+1 RESI
+2 DATE 1942
+2 PLAC Roslindale, Massachusetts
+2 NOTE 3940 Washington Street
+1 RESI
+2 DATE 1948
+2 PLAC Roslindale, Suffolk, Massachusetts, USA
+2 NOTE 3940 Washington Street
+1 RESI
+2 DATE 1958
+2 PLAC Forest Hills, Boston, Massachusetts
+2 NOTE 21 Wachusett St
+1 DEAT
+2 DATE 26 JUN 1959
+2 PLAC Boston, MA
+1 BURI
+2 DATE 1 JUL 1959
+2 PLAC Old Calvary Cemetery, Roslindale, Suffolk, Massachusetts
+2 NOTE Date approximate
+1 EYES blue
+1 HAIR brown
+1 WEIG 130 lbs
+1 NOTE @N73@
+1 FAMS @F122@
+1 CHAN
+2 DATE 7 MAY 2022
+0 @I333@ INDI
+1 _UID 3BC7C005E3C74FFBB3877C297451D13B6BD2
+1 NAME Karyn /Castrovinci/
+1 SEX F
+1 FAMS @F185@
+0 @I337@ INDI
+1 _UID 14841B62CDDF4092B63AEDDEFAD6C2F7D752
+1 NAME Brian Patrick /Cavanaugh/
+1 SEX M
+1 BIRT
+2 DATE 21 APR 1956
+1 RESI
+2 DATE JAN 2010
+2 PLAC Holden, Massachusetts
+2 NOTE Wachusett Extended Care
+1 DEAT
+2 DATE 15 JUL 2014
+2 PLAC Holden, Massachusetts
+1 FAMC @F298@
+1 CHAN
+2 DATE 16 JUL 2014
+0 @I338@ INDI
+1 _UID 77ED3AA19CFD4171A7359971F731866280B1
+1 NAME Deirdre Ellen /Cavanaugh/
+1 SEX F
+1 BIRT
+2 DATE 3 MAY 1961
+1 FAMC @F298@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @I339@ INDI
+1 _UID A371ED36659743B9B575D85F2EDE419F7C14
+1 NAME James Raymond /Cavanaugh/
+1 SEX M
+1 BIRT
+2 DATE 16 DEC 1958
+1 FAMC @F298@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @I340@ INDI
+1 _UID D61227706EF0414BBACE8569A60395C9E616
+1 NAME James Edward /Cavanaugh/
+1 SEX M
+1 BIRT
+2 DATE 25 JUL 1891
+2 PLAC Massachusetts
+1 RESI
+2 DATE 1930
+2 PLAC Worcester, Worcester, Massachusetts
+1 DEAT
+2 DATE 29 SEP 1956
+1 BURI
+2 DATE 29 SEP 1956
+2 PLAC Worcester, Massachusetts
+2 NOTE St. John's Cemetery
+1 FAMS @F463@
+1 CHAN
+2 DATE 21 JAN 2010
+0 @I341@ INDI
+1 _UID E0B6B8369E2B4472BBC09EF5C15B63C8589B
+1 NAME Kathleen Mary /Cavanaugh/
+1 SEX F
+1 BIRT
+2 DATE 14 MAY 1968
+2 PLAC Worcester, MA
+1 FAMC @F298@
+1 FAMS @F1143@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @I342@ INDI
+1 _UID 82DB904764064BE3A2858E2F635EDC6DBA08
+1 NAME Maureen Theresa /Cavanaugh/
+1 SEX F
+1 BIRT
+2 DATE 3 OCT 1957
+2 PLAC Worcester, Worcester, Massachusetts
+1 OCCU
+2 DATE JAN 2010
+2 PLAC New York-Presbyterian Hospital, New York, NY 
+2 NOTE Head Occupational Therapist
+1 RESI
+2 DATE JAN 2010
+2 PLAC New York, New York
+2 NOTE 535 West 110th St Apt 15-I
+1 FAMC @F298@
+1 FAMS @F1144@
+1 CHAN
+2 DATE 21 JAN 2010
+0 @I343@ INDI
+1 _UID DC8F76C7ED9F41DE90C358FEAD03C228963D
+1 NAME Neil Terence /Cavanaugh/
+1 SEX M
+1 BIRT
+2 DATE 1 FEB 1964
+1 FAMC @F298@
+1 FAMS @F1145@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @I344@ INDI
+1 _UID D7DC25E17850432BA5273E0263F834E87273
+1 NAME Raymond Francis /Cavanaugh/
+1 SEX M
+1 BIRT
+2 DATE 17 SEP 1926
+1 RESI
+2 DATE 1930
+2 PLAC Worcester, Worcester, Massachusetts
+1 DEAT
+2 DATE 20 FEB 2019
+2 PLAC Boston, Massachusetts, United States
+1 BURI
+2 DATE 2 MAR 2019
+2 PLAC Worcester, Massachusetts, United States
+2 NOTE St. John's Cemetery, 260 Cambridge Street, Worcester
+1 FAMC @F463@
+1 FAMS @F298@
+1 CHAN
+2 DATE 22 FEB 2019
+0 @I345@ INDI
+1 _UID 7A6EAA5DFB084EB8AD3876FB4561CE0ACC2F
+1 NAME Sheila Christine /Cavanaugh/
+1 SEX F
+1 BIRT
+2 DATE 31 DEC 1959
+1 RESI
+2 PLAC Belmont, Middlesex, Massachusetts, USA
+1 FAMC @F298@
+1 FAMS @F187@
+1 CHAN
+2 DATE 23 JUL 2015
+0 @I347@ INDI
+1 _UID A5A275628044454782C947D80367BCDAD84F
+1 NAME Albert /Choy/
+1 SEX M
+1 BIRT
+2 DATE OCT 1961
+2 PLAC Singapore
+1 RESI
+2 PLAC Belmont, Middlesex, Massachusetts, USA
+1 FAMS @F187@
+0 @I360@ INDI
+1 _UID 77FE243C99644340A64A98BAF54CF2501A00
+1 NAME Robert E /Coffey/
+1 SEX M
+1 BIRT
+2 DATE DEC 1958
+2 PLAC Kingston, MA
+1 FAMS @F323@
+0 @I361@ INDI
+1 _UID B59E5D1674324AA3B864ADB95B3F7E8A7DD1
+1 NAME Robert Edward /Coffey/
+2 NSFX  Jr.
+1 SEX M
+1 BIRT
+2 DATE 19 OCT 1989
+2 PLAC Plymouth, MA
+1 FAMC @F323@
+1 FAMS @F1151@
+1 FAMS @F2683@
+1 CHAN
+2 DATE 29 JUL 2014
+0 @I670@ INDI
+1 _UID DF945F5D0CB347C5862C87BEB7DE3E4206F3
+1 NAME Alana Mary /DiPlacido/
+1 SEX F
+1 BIRT
+2 DATE 2 DEC 2002
+2 PLAC Newton, Massachusetts, USA
+1 FAMC @F480@
+0 @I671@ INDI
+1 _UID 3B6E74556FF34713B58C8A013458334F082B
+1 NAME Daniel /DiPlacido/
+1 SEX M
+1 BIRT
+2 DATE 24 APR 1970
+2 PLAC Boston, MA
+1 FAMS @F480@
+0 @I672@ INDI
+1 _UID 4A2595AD86BA42ED8F7F33F758AE95F9EC6C
+1 NAME John Daniel /DiPlacido/
+1 SEX M
+1 BIRT
+2 DATE 10 JUN 2000
+2 PLAC Boston, MA
+1 FAMC @F480@
+0 @I738@ INDI
+1 _UID E3B66B2AE453480289F59452AD25C5731D26
+1 NAME Alice /Duane/
+1 SEX F
+1 BIRT
+2 DATE 8 FEB 1870
+2 PLAC Clonmel, Tipperary, Ireland
+1 EVEN
+2 TYPE Arrival
+2 DATE 1884
+1 IMMI
+2 DATE 1885
+1 RESI
+2 DATE 1900
+2 PLAC New York City, New York, New York
+1 RESI
+2 DATE 1905
+2 PLAC Manhattan, New York, New York
+1 RESI
+2 DATE 1910
+2 PLAC Manhattan Ward 21, New York, New York
+1 RESI
+2 DATE 1920
+2 PLAC Manhattan Assembly District 12, New York, New York
+1 RESI
+2 DATE 1 JUN 1925
+2 PLAC New York City, New York
+1 RESI
+2 DATE 1930
+2 PLAC Queens, New York City, New York
+2 NOTE 108-63 Roosevelt Ave
+1 RESI
+2 DATE 1930
+2 PLAC Queens, New York City, New York
+1 RESI
+2 DATE 1930
+2 PLAC Manhattan, New York, New York
+1 RESI
+2 DATE 1931
+2 PLAC Jackson Heights, New York, New York
+2 NOTE 40-44 76th St
+1 DEAT
+2 DATE 5 JUL 1940
+2 PLAC New York City, New York, New York
+2 NOTE 223 East 83rd St.  She died of injuries from a fall Nov 1939
+1 BURI
+2 DATE 8 JUL 1940
+2 PLAC Middle Village, Queens, New York
+2 NOTE St John's Cemetery Section: 34 Row: D Grave: 126
+1 NOTE @N708@
+1 FAMS @F272@
+1 CHAN
+2 DATE 16 AUG 2020
+0 @I739@ INDI
+1 _UID BE4F76E5131D4871B8E937C1A9052128E1CD
+1 NAME Jessica /Bateman/
+1 SEX F
+1 FAMS @F1530@
+1 CHAN
+2 DATE 5 DEC 2010
+0 @I745@ INDI
+1 _UID 997882DB77C941B0975A095807058138B645
+1 NAME Sarah /Guzman/
+1 SEX F
+1 BIRT
+2 DATE 13 JUN 1998
+2 PLAC Rochester, New York
+1 FAMC @F1530@
+1 CHAN
+2 DATE 19 APR 2013
+0 @I747@ INDI
+1 _UID 408B54015C3C4A54986A86CD6299529E96E6
+1 NAME Lucas /Justice/
+1 SEX M
+1 BIRT
+2 DATE 12 JUL 2008
+1 FAMC @F2683@
+1 CHAN
+2 DATE 5 JUL 2016
+0 @I782@ INDI
+1 _UID F8754ECED45944CBA12AAC36713EBFBF9FA2
+1 NAME Michael /Guzman/
+1 SEX M
+1 BIRT
+2 DATE 25 SEP 2001
+2 PLAC Charlotte, NC
+1 FAMC @F1530@
+1 CHAN
+2 DATE 19 APR 2013
+0 @I827@ INDI
+1 _UID 4894D45C88A44E389A996CDC89CDE778EE84
+1 NAME Anita Marie /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 29 MAY 1953
+2 PLAC Hartford Hospital, Hartford CT
+1 RESI
+2 DATE ABT 1985
+2 PLAC West Sheffield, CT
+2 NOTE 1324 Newgate Rd
+1 RESI
+2 DATE 1986
+2 PLAC West Sheffield, CT
+1 RESI
+2 DATE 1991
+2 PLAC Santa Cruz, CA
+1 OCCU
+2 DATE 2010
+2 PLAC Santa Cruz, California
+2 NOTE school teacher
+1 FAMC @F488@
+1 FAMS @F290@
+1 CHAN
+2 DATE 24 SEP 2011
+0 @I829@ INDI
+1 _UID EFBB553AB29F4CDD9E90C761AA4D10041489
+1 NAME Mark /Dansereau/
+1 SEX M
+1 BIRT
+2 DATE 14 JUN 1961
+2 PLAC Massachusetts
+1 FAMS @F1702@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I830@ INDI
+1 _UID E854B52074974754BF690E5A22480B520E4E
+1 NAME Brenda “Brendan” /Fennessy/
+1 SEX M
+1 BIRT
+2 DATE 8 MAY 1961
+1 EVEN
+2 TYPE Misc. Event
+2 DATE 8 MAY 2008
+2 PLAC Montana
+2 NOTE Sex change to female
+1 OCCU
+2 DATE 2010
+2 PLAC Florence, Montana
+2 NOTE owner, motorcycle salvage yard (bikeboneyard.com)
+1 FAMC @F488@
+1 CHAN
+2 DATE 16 NOV 2014
+0 @I834@ INDI
+1 _UID 5823721802EF41DDB6E2325A58002E37F56C
+1 NAME Colin Pierce /Fennessy/
+1 SEX M
+1 BIRT
+2 DATE 14 OCT 1965
+2 PLAC Lancaster, Lancaster County, Pennsylvania
+1 BAPM
+2 DATE 14 NOV 1965
+2 PLAC Lancaster, Lancaster County, Pennsysylvania
+1 ADOP
+2 DATE 18 DEC 1965
+2 PLAC Harrisburg, Pennsylvania
+2 NOTE via Catholic Charities
+1 BAPM
+2 DATE JAN 1966
+2 PLAC Oreland, Pennsylvania
+2 NOTE godparents: Earl and Dolores Gill
+1 BURI
+2 DATE JUN 1992
+2 PLAC West Roxbury, Suffolk, Massachusetts
+2 NOTE Mt Benedict Cemetery, Corey St
+1 DEAT
+2 DATE 9 JUN 1992
+2 PLAC West Roxbury, Suffolk, Massachusetts
+2 NOTE 9 Whittemore St
+1 NOTE @N1948@
+1 FAMC @F643@
+1 CHAN
+2 DATE 24 SEP 2011
+0 @I835@ INDI
+1 _UID DAADC5812F764FD0ACC168A53CE62E63BE73
+1 NAME Colleen Marie Kelley /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 10 JUL 1995
+2 PLAC Austin, Texas
+1 RESI
+2 DATE 10 JUL 1995
+2 PLAC Austin, Texas
+1 RESI
+2 DATE 15 SEP 2013
+2 PLAC Belmont, Massachusetts
+2 NOTE 34 Palfrey Road
+1 EDUC
+2 DATE MAY 2017
+2 PLAC Williamsburg, Virginia
+2 NOTE The College of William and Mary
+1 RESI
+2 DATE JUN 2017
+2 PLAC Charlottesville, Virginia
+1 FAMC @F419@
+1 FAMS @F1383@
+1 CHAN
+2 DATE 24 MAR 2018
+0 @I836@ INDI
+1 _UID 9FE5D080072E46A08944B1F92B9ED39597CD
+1 NAME Conor Gibson /Fennessy/
+1 SEX M
+1 BIRT
+2 DATE 12 OCT 1970
+2 PLAC Upper Saddle River, New Jersey
+1 FAMC @F164@
+1 FAMS @F1384@
+1 CHAN
+2 DATE 27 APR 2015
+0 @I839@ INDI
+1 _UID AA1C984D21E7463BB9799335AD30E2AD9A0C
+1 NAME Deirdre Ann /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 5 DEC 1947
+2 PLAC Boston, Massachusetts
+1 RESI
+2 DATE ABT 1985
+2 PLAC Honakaa HI
+1 OCCU
+2 DATE 2007
+2 PLAC Montessori Children’s Center at Burke
+2 NOTE found via Google,
+1 OCCU
+2 DATE 2010
+2 PLAC Hayward, California
+2 NOTE Head of Golden Oak Montessori School
+1 NOTE @N773@
+1 FAMC @F488@
+1 FAMS @F295@
+1 FAMS @F1702@
+1 CHAN
+2 DATE 24 SEP 2011
+0 @I840@ INDI
+1 _UID 3C55771443A14AF880762D0D7E4238CB356E
+1 NAME Duane Marie /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 16 MAR 1962
+2 PLAC Suffern, Rockland County, New York
+1 BAPM
+2 DATE 16 MAR 1962
+2 PLAC Suffern, New York
+2 NOTE Good Samaritan Hospital
+1 DEAT
+2 DATE 18 MAR 1962
+2 PLAC Suffern, Rockland County, New York
+2 NOTE Cause of death: Hyaline Membrane Disease
+1 BURI
+2 DATE 20 MAR 1962
+2 PLAC Mahwah, NJ
+1 BURI
+2 PLAC Mahwah, Bergen County, New Jersey
+1 FAMC @F643@
+0 @I841@ INDI
+1 _UID 909EE442EC554DAAB8278171AF9C84527EBD
+1 NAME Duane Patricia /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 14 AUG 1967
+2 PLAC Phoenix, Maricopa County, Arizona
+1 ADOP
+2 DATE 14 DEC 1967
+2 PLAC Delaware
+2 NOTE Bureau of Indian Affairs
+1 BAPM
+2 DATE JAN 1968
+2 PLAC Oreland, Pennsylvania
+2 NOTE Holy Martyr Church, Godparents: Mary Spillane and James Powers
+1 RESI
+2 DATE 1987
+2 PLAC Boston, MA
+1 FAMC @F643@
+1 FAMS @F296@
+1 CHAN
+2 DATE 2 SEP 2012
+0 @I842@ INDI
+1 _UID 43C7F8901A134ACEA4FF8100F20BB80BBB67
+1 NAME Eamon Terence /Fennessy/
+1 SEX M
+1 BIRT
+2 DATE 8 MAY 1932
+2 PLAC Dorchester, Massachusetts
+1 RESI
+2 DATE 1936
+2 PLAC Boston, Suffolk County, Massachusetts
+2 NOTE 225 Bowdoin Street
+1 RESI
+2 DATE 1940
+2 PLAC Boston, Suffolk, Massachusetts
+2 NOTE Harvard Avenue
+1 OCCU
+2 DATE 1948
+2 PLAC Washington, DC
+2 NOTE Page to US Rep. Christian Herter
+1 GRAD
+2 DATE 1949
+2 PLAC Boston, MA
+2 NOTE Boston Latin School
+1 GRAD
+2 DATE 1953
+2 PLAC Washington, DC
+2 NOTE BS, Georgetown University School of Foreign Service
+1 RESI
+2 DATE 1961
+2 PLAC Upper Saddle River, New Jersey
+1 GRAD
+2 DATE 1962
+2 PLAC Teaneck, NJ
+2 NOTE MBA, Fairleigh Dickenson University
+1 RESI
+2 DATE 1991
+2 PLAC Prides Crossing, Essex, Massachusetts, USA
+2 NOTE 11 Paine Ave
+1 DEAT
+2 DATE 5 FEB 2016
+2 PLAC Danvers, MA
+2 NOTE Funeral at St Margarets Parish Church, Beverly Farms MA
+1 BURI
+2 DATE 13 FEB 2016
+2 PLAC West Roxbury, Suffolk, Massachusetts
+2 NOTE Mt Benedict Cemetery, Corey St
+1 CAUS Prostate Cancer
+1 NOTE @N775@
+1 FAMC @F738@
+1 FAMS @F164@
+1 CHAN
+2 DATE 16 MAY 2016
+0 @I848@ INDI
+1 _UID AA3E68A3BC38486FB418541C1639B91AFC83
+1 NAME Laurie /Burkland/
+1 SEX F
+1 BIRT
+2 DATE 23 JUN 1972
+2 PLAC Mountain Lakes, NJ
+1 RESI
+2 DATE JAN 2010
+2 PLAC Atlanta, Georgia
+1 FAMS @F2490@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I856@ INDI
+1 _UID 9570446F5C0C4F90BD2EC582059C9E67D712
+1 NAME Emma /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 7 JAN 1997
+2 PLAC Newton, Massachusetts
+2 NOTE Newton-Wellesley Hospital
+1 RESI
+2 DATE 8 JAN 1997
+2 PLAC North Andover, Massachusetts
+1 FAMC @F313@
+1 FAMS @F1398@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I857@ INDI
+1 _UID 1510C8571A1C4F019DABB9CC3F0FC1E18799
+1 NAME Frances /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 23 JAN 1991
+2 PLAC Boston, MA
+1 FAMC @F296@
+1 CHAN
+2 DATE 21 JAN 2011
+0 @I858@ INDI
+1 _UID 21D15EB610C842EDB9C1C46C144762FB6F99
+1 NAME Helen Monica /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 9 OCT 1928
+2 PLAC 10 Levant St, Dorchester MA
+1 RESI
+2 DATE 1930
+2 PLAC Boston, Suffolk, Massachusetts
+1 RESI
+2 DATE 1930
+2 PLAC Boston, Suffolk, Massachusetts
+1 RESI
+2 DATE 1936
+2 PLAC Boston, Suffolk County, Massachusetts
+2 NOTE 225 Bowdoin Street
+1 RESI
+2 DATE 1940
+2 PLAC Boston, Suffolk, Massachusetts
+2 NOTE Harvard Avenue
+1 RESI
+2 DATE ABT 1985
+2 PLAC Worcester, MAssachusetts
+2 NOTE 47 Shattuck St 01605
+1 DEAT
+2 DATE 1 DEC 2018
+2 PLAC Cambridge, MA
+1 BURI
+2 DATE 8 DEC 2018
+2 PLAC Worcester, Massachusetts, United States
+2 NOTE St. John's Cemetery, 260 Cambridge Street, Worcester
+1 FAMC @F738@
+1 FAMS @F298@
+1 CHAN
+2 DATE 22 FEB 2019
+0 @I860@ INDI
+1 _UID 8475E839C2284CAFAE86B195035D6F2C74F5
+1 NAME Emerson Kate Kailani /Waller/
+1 SEX F
+1 BIRT
+2 DATE 20 DEC 2006
+2 PLAC Atlanta, GA
+1 RESI
+2 DATE JAN 2010
+2 PLAC Atlanta, Georgia
+1 FAMC @F2490@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I862@ INDI
+1 _UID A20D423FB8994337BE92D6DC5948AEF23E3A
+1 NAME Jeanne Marie /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 7 SEP 1954
+2 PLAC Hartford Hospital, Hartford CT
+1 OCCU
+2 DATE 2010
+2 PLAC Seattle, Washington, USA
+2 NOTE Social Worker, vocational rehabilitation counselor
+1 FAMC @F488@
+1 FAMS @F1403@
+1 CHAN
+2 DATE 8 SEP 2015
+0 @I864@ INDI
+1 _UID 2E322A2D33D44DC99FCE32EFDB6D342E0CB0
+1 NAME John /Fennessy/
+1 SEX M
+1 BIRT
+2 DATE 6 AUG 1865
+2 PLAC Ballinlamey, Glenmore, Waterford Ireland
+1 OCCU
+2 DATE 1901
+2 PLAC Kilculliheen, Kilkenny, Ireland
+2 NOTE Van man
+1 RESI
+2 DATE 1901
+2 PLAC Kilculliheen, Kilkenny, Ireland
+1 RESI
+2 DATE 2 APR 1911
+2 PLAC Waterford City, Waterford, Ireland
+2 NOTE Waterford No. 3 Urban, Waterford, Ireland
+1 OCCU
+2 DATE 1920
+2 NOTE Gardener
+1 RESI
+2 DATE APR 1935
+2 PLAC Waterford, Affane, Crinnaghtaun West
+2 NOTE 21 Blakes Lane
+1 DEAT
+2 DATE 7 MAY 1935
+2 PLAC Waterford Ireland
+1 BURI
+2 DATE 10 MAY 1935
+2 PLAC Mooncoin, Kilkenny, Ireland
+2 NOTE Rathkieran (Ráth Chiaráin) Cemetery, date estimated from date of death. Location from Danny Doran, 2 Jan 2021
+1 NOTE @N789@
+1 FAMS @F130@
+1 CHAN
+2 DATE 3 JAN 2021
+0 @I865@ INDI
+1 _UID DA86CF17B88348C19F14DDE1741ADEBB227D
+1 NAME Sydney Annika /Waller/
+1 SEX F
+1 BIRT
+2 DATE 25 MAR 2009
+2 PLAC Atlanta, GA
+1 RESI
+2 DATE JAN 2010
+2 PLAC Atlanta, Georgia
+1 FAMC @F2490@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I869@ INDI
+1 _UID 6A222EC8801141C0AF9609E7E7827C507E04
+1 NAME John Terence /Fennessy/
+1 SEX M
+1 BIRT
+2 DATE 29 DEC 1920
+2 PLAC Ireland
+1 IMMI
+2 DATE 1927
+2 PLAC Immigrated to the US from Ireland
+1 EVEN
+2 TYPE Departure
+2 DATE 1927
+2 PLAC Cobh and Queenstown, Ireland
+1 EVEN
+2 TYPE Origin
+2 DATE 1927
+2 PLAC Ireland
+1 EVEN
+2 TYPE Arrival
+2 DATE 23 MAY 1927
+2 PLAC Boston, Massachusetts
+1 RESI
+2 DATE 1930
+2 PLAC Dorchester, Boston, Massachusetts
+1 RESI
+2 DATE 1936
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 225 Bowdoin Street
+1 RESI
+2 DATE 1940
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE Harvard Avenue
+1 OCCU
+2 DATE 1940
+2 PLAC Boston, Suffolk, Massachusetts
+2 NOTE Drug Store Clerk
+1 MILT
+2 DATE 14 APR 1943
+2 NOTE Enlisted
+1 MILT
+2 DATE 5 JAN 1947
+2 NOTE Released
+1 RESI
+2 DATE 1954
+2 PLAC Hartford, Connecticut
+2 NOTE State 84 Mayflower WH
+1 OCCU
+2 DATE 1954
+2 PLAC Hartford, Connecticut
+2 NOTE Safety Eng
+1 BURI
+2 DATE JUN 1975
+2 PLAC Barnstable, Massachusetts
+1 DEAT
+2 DATE 27 JUN 1975
+2 PLAC Barnstable, Massachusetts
+1 SSN 023076843
+1 NOTE @N793@
+1 FAMC @F738@
+1 FAMS @F488@
+1 CHAN
+2 DATE 24 MAR 2018
+0 @I870@ INDI
+1 _UID 73398FA02D574AA2A57881FDB80B8CFB3063
+1 NAME Joseph Patrick /Fennessy/
+1 SEX M
+1 BIRT
+2 DATE 22 JAN 1995
+2 PLAC Newton, Massachusetts
+2 NOTE Newton-Wellesley Hospital
+1 RESI
+2 DATE 23 JAN 1995
+2 PLAC North Andover, Massachusetts
+1 FAMC @F313@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I873@ INDI
+1 _UID 580C977B4D6043ED93C36E465F8B632CD652
+1 NAME Kathleen /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 27 NOV 1933
+2 PLAC Dorchester, Massachusetts
+1 RESI
+2 DATE 1936
+2 PLAC Boston, Suffolk County, Massachusetts
+2 NOTE 225 Bowdoin Street
+1 RESI
+2 DATE 1940
+2 PLAC Boston, Suffolk, Massachusetts
+2 NOTE Harvard Avenue
+1 RESI
+2 DATE 1974
+2 PLAC Westwood, Norfolk, Massachusetts, USA
+2 NOTE 47 Crystal Hill Terrace
+1 NOTE @N1776@
+1 FAMC @F738@
+1 FAMS @F301@
+1 CHAN
+2 DATE 10 JAN 2016
+0 @I875@ INDI
+1 _UID B88FF1E852E846F4B2E15DD62C4C77216AAD
+1 NAME Kevin Moran /Fennessy/
+1 SEX M
+1 RESI
+2 DATE 1959
+2 PLAC Upper Saddle River, New Jersey
+1 BIRT
+2 DATE 3 JUL 1959
+2 PLAC Teaneck, New Jersey
+2 NOTE Holy Name Hospital
+1 EDUC
+2 DATE 1983
+2 PLAC Ramapo College, New Jersey
+2 NOTE BA
+1 RESI
+2 DATE ABT 1985
+2 PLAC North Reading, MA
+2 NOTE 4 Greenbriar Drive #302
+1 RESI
+2 DATE 1997
+2 PLAC North Andover, Essex, Massachusetts, USA
+2 NOTE 47 Park St
+1 OCCU
+2 DATE 2010
+2 PLAC North Andover High School, North Andover, Massachusetts
+2 NOTE teacher
+1 FAMC @F164@
+1 FAMS @F313@
+1 CHAN
+2 DATE 24 SEP 2011
+0 @I877@ INDI
+1 _UID 3605B36E6CA948989605E7CD2122D2994EEB
+1 NAME Liam Patrick Kelley /Fennessy/
+1 SEX M
+1 BIRT
+2 DATE 6 DEC 1997
+2 PLAC Austin, TX
+1 DEAT
+2 DATE 29 DEC 1997
+2 PLAC Austin, TX
+1 FAMC @F419@
+0 @I879@ INDI
+1 _UID 27ECA66ADFAA401CAF46AA4182A4D5997CD2
+1 NAME Lori /LeComte/
+1 SEX F
+1 BIRT
+2 DATE ABT 1965
+2 NOTE date est by QF
+1 FAMS @F304@
+1 CHAN
+2 DATE 17 AUG 2014
+0 @I881@ INDI
+1 _UID 7B4BCD9166B341A5995748829D221D6C255B
+1 NAME Mary Frances “Marion” /Fennessy/
+1 SEX F
+1 CHR
+2 DATE 1925
+2 PLAC St Finbar Roman Catholic Church, Bantry Ireland
+1 BIRT
+2 DATE 5 DEC 1925
+2 PLAC 3 Market St, Bantry Ireland
+1 EVEN
+2 TYPE Departure
+2 DATE 1927
+2 PLAC Cobh and Queenstown, Ireland
+1 EVEN
+2 TYPE Origin
+2 DATE 1927
+2 PLAC Ireland
+1 EVEN
+2 TYPE Arrival
+2 DATE 23 MAY 1927
+2 PLAC Boston, Massachusetts
+1 RESI
+2 DATE 1930
+2 PLAC Boston, Suffolk, Massachusetts
+1 RESI
+2 DATE 1936
+2 PLAC Boston, Suffolk County, Massachusetts
+2 NOTE 225 Bowdoin Street
+1 RESI
+2 DATE 1940
+2 PLAC Boston, Suffolk, Massachusetts
+2 NOTE Harvard Avenue
+1 OCCU
+2 DATE 1944
+2 PLAC Cambridge, MA
+2 NOTE Draftsperson
+1 RESI
+2 DATE ABT 1985
+2 PLAC Rumson, NJ
+2 NOTE 1 Tennis Court Lane
+1 DEAT
+2 DATE 10 SEP 2014
+2 PLAC Red Bank, New Jersey
+2 NOTE Funeral at St. Ann's RC Church, 311 Carr Avenue, Keansburg, New Jersey
+1 BURI
+2 DATE 20 SEP 2014
+2 PLAC Holmdel, New Jersey
+2 NOTE Holmdel Cemetery Mausoleum, 900 Holmdel Rd, Holmdel
+1 FAMC @F738@
+1 FAMS @F305@
+1 CHAN
+2 DATE 10 JAN 2016
+0 @I882@ INDI
+1 _UID 6660180658114B1FA3791515C749AEA661C5
+1 NAME Mark Terence /Fennessy/
+1 SEX M
+1 BIRT
+2 DATE 4 AUG 1945
+2 PLAC St Elizabeth's Hospital, Brighton MA
+1 OCCU
+2 NOTE Artist
+1 DEAT
+2 DATE 12 FEB 1988
+2 PLAC New Haven, New Haven, Connecticut
+2 NOTE bicycle accident
+1 BURI
+2 DATE 16 FEB 1988
+2 PLAC Oakridge Cemetery, Dennis MA
+1 NOTE @N803@
+1 FAMC @F488@
+1 FAMS @F667@
+1 CHAN
+2 DATE 6 NOV 2009
+0 @I883@ INDI
+1 _UID 307DF636913E43C28290AB6C42298BC591E7
+1 NAME Daniel /Krebs/
+1 SEX M
+1 FAMS @F2489@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I888@ INDI
+1 _UID EAA0181ACA1A48C294868C09B83A241D8C8C
+1 NAME Maure Ann /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 2 DEC 1951
+2 PLAC Hartford CT
+2 NOTE Hartford Hospital
+1 RESI
+2 DATE ABT 1985
+2 PLAC Brewster, Massachusetts
+2 NOTE 462 Harwick Dr
+1 OCCU
+2 DATE 2010
+2 PLAC Brewster, Massachusetts
+2 NOTE Artist / Artisan
+1 RESI
+2 DATE 2010
+2 PLAC Brewster, Massachusetts
+1 FAMC @F488@
+1 FAMS @F310@
+1 CHAN
+2 DATE 24 SEP 2011
+0 @I889@ INDI
+1 _UID 742914FD703F4EFAA85CD55140DB0C3A309D
+1 NAME Maureen Louise /Fennessy/
+1 SEX F
+1 RESI
+2 DATE 1960
+2 PLAC Upper Saddle River, New Jersey
+1 BIRT
+2 DATE 16 DEC 1960
+2 PLAC Teaneck, New Jersey
+2 NOTE Holy Name Hospital
+1 EDUC
+2 DATE 1983
+2 PLAC Wellesley College, Wellesley, Massachusetts
+2 NOTE BA
+1 EDUC
+2 DATE 1989
+2 PLAC Boston College, Boston, Massachusetts
+2 NOTE MBA
+1 RESI
+2 DATE 1989
+2 PLAC Wellesley Hills, Norfolk, Massachusetts, USA
+2 NOTE 11 Arlington Road
+1 EDUC
+2 DATE 1999
+2 PLAC Massachusetts Horticultural Association
+2 NOTE Master Gardener
+1 OCCU
+2 DATE 2001
+2 PLAC Trustee, Historic New England
+1 FAMC @F164@
+1 FAMS @F311@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I890@ INDI
+1 _UID C662853D32F74A1D8AE6F19CCCB9483F83D1
+1 NAME Meaghan /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 30 MAR 1965
+2 PLAC Upper Saddle River, New Jersey
+1 FAMC @F164@
+1 FAMS @F1413@
+0 @I897@ INDI
+1 _UID 1E474097EB654BBAB21D3F0EDEBB4332BB83
+1 NAME Nancy Beatrice /Simon/
+1 SEX F
+1 RESI
+2 DATE ABT 1965
+2 PLAC Paramus, New Jersey
+2 NOTE est date
+1 BIRT
+2 DATE 28 SEP 1965
+2 PLAC Paterson, New Jersey
+2 NOTE Barnet Memorial Hospital
+1 RESI
+2 DATE ABT 1975
+2 PLAC Oakland, New Jersey
+2 NOTE est date
+1 EDUC
+2 DATE 1987
+2 PLAC Stonehill College
+1 EDUC
+2 DATE 1990
+2 PLAC Boston College, Boston, Massachusetts
+2 NOTE Masters of Social Work
+1 RESI
+2 DATE 1997
+2 PLAC North Andover, Essex, Massachusetts, USA
+2 NOTE 47 Park St
+1 OCCU
+2 DATE 2010
+2 PLAC Tewksbury Hospital, Tewksbury, Massachusetts
+2 NOTE licensed social worker, Hathorne Mental Health Units
+1 FAMC @F2588@
+1 FAMS @F313@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I901@ INDI
+1 _UID 4EB9106707A84F75A660335C1FFB6EEAF892
+1 NAME Patrick Joseph /Fennessy/
+1 SEX M
+1 BIRT
+2 DATE 3 JUN 1895
+2 PLAC Kilmacow, Kilkenny, Ireland
+1 CHR
+2 DATE 3 JUN 1895
+2 PLAC Kilmacow, Kilkenny, Ireland
+1 RESI
+2 DATE 1901
+2 PLAC Kilculliheen, Kilkenny, Ireland
+1 RESI
+2 DATE 2 APR 1911
+2 PLAC Waterford City, Waterford, Ireland
+1 OCCU
+2 DATE 2 APR 1911
+2 PLAC Waterford City, Waterford, Ireland
+2 NOTE Cabinet Maker
+1 EVEN
+2 TYPE Departure
+2 DATE 12 JUL 1925
+2 PLAC Cobh and Queenstown, Ireland
+2 NOTE SS Cedric
+1 IMMI
+2 DATE 19 JUL 1925
+2 PLAC Boston, Massachusetts
+2 NOTE immigrated from Ireland to the USA
+1 EVEN
+2 TYPE Arrival
+2 DATE 19 JUL 1925
+2 PLAC Boston, Massachusetts
+2 NOTE SS Cedric
+1 EVEN
+2 TYPE Origin
+2 DATE 19 JUL 1925
+2 PLAC Ireland
+1 OCCU
+2 DATE 1930
+2 PLAC Boston, Massachusetts
+2 NOTE Cabinet maker, Cabinet factory
+1 RESI
+2 DATE 1930
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 10 Levant St
+1 NATU
+2 DATE 10 OCT 1930
+2 PLAC Boston, Massachusetts
+2 NOTE Application Date
+1 NATU
+2 DATE 19 JAN 1931
+2 PLAC Boston, Massachusetts
+2 NOTE Became a naturalized US citizen
+1 RESI
+2 DATE 1935
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 293 Harvard Avenue
+1 RESI
+2 DATE 1936
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 225 Bowdoin Street
+1 RESI
+2 DATE 1940
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 10 Harvard Avenue
+1 OCCU
+2 DATE 1940
+2 PLAC Boston, Massachusetts
+2 NOTE Cabinet Maker, Showcase Company, Roxbury
+1 OCCU
+2 DATE 1942
+2 PLAC Charlestown, MA
+2 NOTE Carpenter, Electrical Dept, Boston Navy Yard
+1 RESI
+2 DATE 1942
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 10 Harvard Ave
+1 RESI
+2 DATE 1943
+2 PLAC West Roxbury, Boston, Massachusetts
+2 NOTE 9 Whittemore St
+1 DEAT
+2 DATE 25 DEC 1953
+2 PLAC West Roxbury, Boston, Massachusetts
+1 BURI
+2 DATE 28 DEC 1953
+2 PLAC West Roxbury, Boston, Massachusetts
+2 NOTE Mt Benedict Cemetery, Corey St
+1 SSN 011-07-2762
+1 NOTE @N819@
+1 NOTE @N1770@
+1 FAMC @F130@
+1 FAMS @F738@
+1 CHAN
+2 DATE 24 MAR 2018
+0 @I902@ INDI
+1 _UID C384F9261C93489587E8A46F8C8F7FF1FF85
+1 NAME Patrick Quentin /Fennessy/
+1 SEX M
+1 RESI
+2 DATE 8 JUN 1930
+2 PLAC Dorchester, Boston, Massachusetts
+1 RESI
+2 DATE 8 JUN 1930
+2 PLAC Dorchester, Boston, Suffolk, Massachusetts
+2 NOTE 10 Levant St
+1 BIRT
+2 DATE 7 JUN 1930
+2 PLAC Dorchester, Boston, Massachusetts
+1 RESI
+2 DATE 1935
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 293 Harvard Avenue
+1 RESI
+2 DATE 1936
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 225 Bowdoin Street (apartment above a pool hall according to Patrick Fennessy)
+1 EDUC
+2 DATE Sep 1936 - Jun 1943
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE Oliver Wendell Holmes Grammar School
+1 RESI
+2 DATE Jan 1937-Aug 1943
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 293 Harvard Avenue
+1 RESI
+2 DATE 1940
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 293 Harvard Avenue
+1 RESI
+2 DATE Aug 1943 - Oct 1950
+2 PLAC West Roxbury, Boston, Massachusetts
+2 NOTE 9 Whittemore St
+1 EDUC
+2 DATE Sep 1943 - Jun 1947
+2 PLAC Boston, Massachusetts
+2 NOTE English High School
+1 EDUC
+2 DATE Sep 1947 - Jun 1947
+2 PLAC Boston, Massachusetts
+2 NOTE Boston Latin School
+1 EDUC
+2 DATE Sep 1948 - Jun 1950
+2 PLAC Boston, Massachusetts
+2 NOTE Boston University
+1 MILT
+2 DATE 14 Nov 1950 - Sep 1954
+2 PLAC Cape Canaveral, Florida
+2 NOTE Enlisted in the US Air Force, service number 11211328
+1 EDUC
+2 DATE Sep 1954 - Jun 1955
+2 PLAC Denver, Colorado
+2 NOTE University of Colorado
+1 EMPL
+2 DATE Jan 1956 - Jan 1957
+2 PLAC Waltham, Massachusetts
+2 NOTE Testman, Raytheon Mfg Co
+1 EDUC
+2 DATE Jun 1956 - Jan 1959
+2 PLAC Boston, Massachusetts
+2 NOTE Boston University
+1 EMPL
+2 DATE Jan 1957 - Sep 1959
+2 PLAC Malden, Massachusetts
+2 NOTE Technical Liaison, National Company
+1 RESI
+2 DATE May 1959 - Nov 1959
+2 PLAC Arlington, Virginia
+2 NOTE 1200 Arlington Ridge Rd
+1 EMPL
+2 DATE Sep 1959 - Jan 1961
+2 PLAC Beltsville, Maryland
+2 NOTE Application engineer, Honeywell
+1 RESI
+2 DATE Nov 1959-Jan 1961
+2 PLAC Silver Springs, Maryland
+2 NOTE 8910 Piney Branch Rd
+1 EMPL
+2 DATE Jan 1961 - Apr 1962
+2 PLAC Santa Ana, California
+2 NOTE Regional Sales Mgr, Engineered Electronics
+1 RESI
+2 DATE Jan 1961-May 1961
+2 PLAC Santa Ana, California
+2 NOTE 935 S Standard Ave.
+1 RESI
+2 DATE May 1961-Mar 1963
+2 PLAC Upper Saddle River, New Jersey
+2 NOTE 48 Union Ave
+1 EMPL
+2 DATE May 1962-Dec 1962
+2 PLAC Los Angeles, California
+2 NOTE Regional Sales Mgr, Electroplax
+1 EMPL
+2 DATE 1963 - 1966
+2 PLAC Harrisburg, Pennsylvania
+2 NOTE AMP Incorporated, 21 Paxton St
+1 RESI
+2 DATE Mar 1963-1964
+2 PLAC Harrisburg, Pennsylvania
+2 NOTE 7711 Franklin Dr.
+1 RESI
+2 DATE 1964-Apr 1966
+2 PLAC Harrisburg, Pennsylvania
+2 NOTE 1511 Elbridge Drive
+1 RESI
+2 DATE 1966
+2 PLAC Whitemarsh, Pennsylvania
+2 NOTE 7129 Camp Hill Rd
+1 RESI
+2 DATE 1970
+2 PLAC Wyncote, Pennsylvania
+2 NOTE 305 Maple Ave
+1 RESI
+2 DATE 1974
+2 PLAC Plymouth, Massachusetts
+2 NOTE 48 Union St
+1 RESI
+2 DATE 1986
+2 PLAC West Roxbury, Boston, Massachusetts
+2 NOTE 9 Whittemore St
+1 RESI
+2 DATE APR 2005
+2 PLAC Austin, Texas
+2 NOTE 5717 Gorham Glen Ln
+1 DEAT
+2 DATE 20 AUG 2010
+2 PLAC Austin, Texas
+2 NOTE 5717 Gorham Glen Ln
+1 BURI
+2 DATE OCT 2010
+2 PLAC West Roxbury, Boston, Massachusetts
+2 NOTE Mt Benedict Cemetery, Corey St
+1 HEIG 5’ 11”
+1 HAIR Brown
+1 EYES Blue
+1 SSN 031-22-2511
+1 RELI Roman Catholic
+1 NOTE @N821@
+1 NOTE @N1768@
+1 NOTE @N1769@
+1 NOTE @N1771@
+1 NOTE @N1772@
+1 MILI @N1774@
+1 NOTE @N1946@
+1 NOTE @N1713@
+1 FAMC @F738@
+1 FAMS @F643@
+1 CHAN
+2 DATE 28 MAR 2021
+0 @I903@ INDI
+1 _UID A7D65ABC0B8045ECA9DFC837D08C5CF07E24
+1 NAME Margaret M. “Peggy” /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 9 OCT 1922
+2 PLAC Derrygrenaugh, Bantry, Ireland
+1 EVEN
+2 TYPE Arrival
+2 DATE 23 MAY 1927
+2 PLAC Boston, Massachusetts
+1 RESI
+2 DATE 1930
+2 PLAC Boston, Suffolk, Massachusetts
+1 RESI
+2 DATE 1936
+2 PLAC Boston, Suffolk County, Massachusetts
+2 NOTE 225 Bowdoin Street
+1 RESI
+2 DATE 1940
+2 PLAC Boston, Suffolk, Massachusetts
+2 NOTE Harvard Avenue
+1 OCCU
+2 DATE ABT 1948
+2 PLAC Santiago, Chile
+2 NOTE Secretary to US Ambassador Claude G. Bowers
+1 OCCU
+2 DATE 1958
+2 PLAC Santiago, Chile
+2 NOTE administrative assistant to the Fulbright Commission
+1 RESI
+2 DATE 1995
+2 PLAC Rochester, New York
+2 NOTE 200 High Point Trail 14609
+1 EVEN
+2 TYPE Departure
+2 PLAC Valparaiso, Chile
+1 EVEN
+2 TYPE Origin
+2 PLAC Ireland
+1 DEAT
+2 DATE 5 APR 2010
+2 PLAC Chapel Hill, North Carolina
+2 NOTE 27516 Chapel Hill
+1 BURI
+2 DATE 10 APR 2010
+2 PLAC Rochester, New York
+2 NOTE White Haven Memorial Park 210 Marsh Road 
+1 NOTE @N823@
+1 FAMC @F738@
+1 FAMS @F314@
+1 CHAN
+2 DATE 30 DEC 2016
+0 @I907@ INDI
+1 _UID B1A3156FD04C41278D61862A072A50D24D64
+1 NAME Quentin Patrick /Fennessy/
+1 SEX M
+1 BIRT
+2 DATE 12 MAY 1961
+2 PLAC Orange, California
+2 NOTE St Joseph's Hospital
+1 BAPM
+2 DATE 13 MAY 1961
+2 PLAC Orange, California
+2 NOTE St Joseph's Hospital, godparents Alice Marie Powers Dieter and EamonFennessy
+1 RESI
+2 DATE 1962
+2 PLAC Upper Saddle River, New Jersey
+2 NOTE 48 Union Rd, home built in 1956
+1 RESI
+2 DATE Mar 1963-1964
+2 PLAC Harrisburg, Pennsylvania
+2 NOTE 7711 Franklin Dr.
+1 RESI
+2 DATE 1964-Apr 1966
+2 PLAC Harrisburg, Pennsylvania
+2 NOTE 1511 Elbridge Drive, a Techbuilt home built in 1956, 1782 sf, 3 BR, 2 BA
+1 RESI
+2 DATE Apr 1966-Mar 1970
+2 PLAC Whitemarsh, Pennsylvania
+2 NOTE 7129 Camp Hill Road, 18th century farmhouse
+1 RESI
+2 DATE Apr 1970-Mar 1975
+2 PLAC Wyncote, Pennsylvania
+2 NOTE 305 Maple Ave, home built in 1895, Queen Anne style? 6 BR, 1 BA, 2,836 SF
+1 RESI
+2 DATE Mar 1975-1986
+2 PLAC Plymouth, Massachusetts
+2 NOTE 48 Union St, converted to home from a stable, originally built c 1850
+1 RESI
+2 DATE 1986
+2 PLAC Boston, Massachusetts
+2 NOTE 249 Maverick St East Boston
+1 RESI
+2 DATE 1986-1987
+2 PLAC West Roxbury, Massachusetts
+2 NOTE 9 Whittemore St, home built 1898, Queen Anne style, 4 BR, 2.5 BA, 2,635 SF
+1 RESI
+2 DATE JAN 1987
+2 PLAC West Roxbury, Massachusetts
+2 NOTE 43 Billings St, built 1900, 845 SF, 2 BR, 1 BA, home purchased with Francie Kelley
+1 CITN
+2 DATE 3 APR 1987
+2 PLAC Boston, Massachusetts
+2 NOTE Registered as a foreign born Irish citizen
+1 RESI
+2 DATE NOV 1991
+2 PLAC Austin, Texas
+2 NOTE 8529 Capital of Texas Highway
+1 RESI
+2 DATE DEC 1993
+2 PLAC Austin TX
+2 NOTE 6111 Ginita Ln, home built 1991, 3 BR, 2 BA, 2,402 SF
+1 RESI
+2 DATE 15 SEP 2013
+2 PLAC Belmont, Massachusetts
+2 NOTE 34 Palfrey Road
+1 FAMC @F643@
+1 FAMS @F419@
+1 CHAN
+2 DATE 24 MAR 2018
+0 @I911@ INDI
+1 _UID 3B23D1C621F24954A3146D933C8EB22F0737
+1 NAME Rose /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 31 AUG 1999
+2 PLAC Newton, Massachusetts
+2 NOTE Newton-Wellesley Hospital
+1 RESI
+2 DATE 1 SEP 1999
+2 PLAC North Andover, Massachusetts
+1 FAMC @F313@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I915@ INDI
+1 _UID 7DB1DB21D9AB490CAEC38AC4EDDC995C804C
+1 NAME Sean /Fennessy/
+1 SEX M
+1 BIRT
+2 DATE 5 OCT 1956
+1 RESI
+2 DATE 2010
+2 PLAC Rockport, Ma
+1 OCCU
+2 DATE 2010
+2 PLAC Rockport, Ma
+2 NOTE Heating and AC engineer
+1 FAMC @F488@
+1 FAMS @F660@
+1 FAMS @F626@
+1 CHAN
+2 DATE 14 MAY 2015
+0 @I916@ INDI
+1 _UID 58E46323D1004C0084A9BF091F012E133525
+1 NAME Sheila Patricia /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 23 MAY 1937
+2 PLAC 10 Harvard Ave, Dorchester, Massachusetts
+1 RESI
+2 DATE 1940
+2 PLAC Boston, Suffolk, Massachusetts
+2 NOTE Harvard Avenue
+1 DEAT
+2 DATE 12 SEP 1987
+2 PLAC Boston, MA
+1 BURI
+2 DATE 16 SEP 1987
+1 FAMC @F738@
+1 FAMS @F320@
+1 CHAN
+2 DATE 27 MAY 2013
+0 @I917@ INDI
+1 _UID 9A2417D5DA1C4A0E896753914D4337FF92E7
+1 NAME Sheila Marie /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 11 JUL 1946
+2 PLAC Lying-In Hospital, Boston MA
+1 OCCU
+2 DATE 2010
+2 PLAC home health care worker
+1 RESI
+2 DATE 2010
+2 PLAC Dennis, Massachusetts
+1 DEAT
+2 DATE 6 NOV 2020
+2 PLAC Brewster, Massachusetts
+1 FAMC @F488@
+1 FAMS @F321@
+1 CHAN
+2 DATE 6 NOV 2020
+0 @I921@ INDI
+1 _UID 0D02EBA3D4654811B9234B34D59DC7B77AB2
+1 NAME Terence O'Byrne /Fennessy/
+1 SEX M
+1 BIRT
+2 DATE 22 JUN 1962
+2 PLAC Upper Saddle River, New Jersey
+1 RESI
+2 PLAC Bel Air, Harford, Maryland, USA
+1 FAMC @F164@
+1 FAMS @F304@
+1 CHAN
+2 DATE 17 AUG 2014
+0 @I923@ INDI
+1 _UID 9AC7995B731E4E3E8353BD3BF0B12DBFCD0C
+1 NAME Therese Marie “Tracey” /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 8 MAR 1964
+2 PLAC Hanover, Pennsylvania
+1 ADOP
+2 DATE 3 MAY 1964
+2 PLAC Harrisburg, Pennsylvania
+2 NOTE via Catholic Charities
+1 FAMC @F643@
+1 FAMS @F323@
+1 FAMS @F324@
+1 CHAN
+2 DATE 13 AUG 2010
+0 @I945@ INDI
+1 _UID 29FDCA062B56439FAE418F8FB9EBCEFAD23F
+1 NAME Catherine /Flynn/
+1 SEX F
+1 BIRT
+2 DATE 16 MAY 1902
+2 PLAC Massachusetts
+1 RESI
+2 DATE 1920
+2 PLAC Pittsfield Ward 1, Berkshire, Massachusetts
+1 RESI
+2 DATE 1930
+2 PLAC Pittsfield, Berkshire, Massachusetts
+1 DEAT
+2 DATE OCT 1977
+2 PLAC Pittsfield, Berkshire County, Massachusetts, USA
+1 FAMC @F343@
+1 FAMS @F331@
+0 @I946@ INDI
+1 _UID 6864C37009EA42EBBA23191AF781F95EFE93
+1 NAME James /Flynn/
+1 SEX M
+1 BIRT
+2 DATE ABT 1870
+2 PLAC Michigan
+1 RESI
+2 DATE 1900
+2 PLAC Pittsfield City, Berkshire, Massachusetts
+1 RESI
+2 DATE 1900
+2 PLAC Pittsfield City, Berkshire, Massachusetts
+1 FAMS @F343@
+0 @I955@ INDI
+1 _UID 84013C156D8F446881369B3FB26B6B962D0D
+1 NAME Christopher Michael McGill /Fox/
+1 SEX M
+1 BIRT
+2 DATE 7 JUL 1994
+2 PLAC Ames, Iowa, USA
+1 FAMC @F481@
+0 @I956@ INDI
+1 _UID 421267C015684D28B869BD29A3E3177B8C26
+1 NAME Conor James McGill /Fox/
+1 SEX M
+1 BIRT
+2 DATE 26 JUN 1992
+2 PLAC Ames, Iowa, USA
+1 FAMC @F481@
+0 @I957@ INDI
+1 _UID 8A0C35DB5FCB44B388AB9D69D187B02C3486
+1 NAME Ian Patrick McGill /Fox/
+1 SEX M
+1 BIRT
+2 DATE 14 FEB 1988
+2 PLAC Dublin, Ireland
+1 FAMC @F481@
+1 FAMS @F1436@
+0 @I958@ INDI
+1 _UID 113A8F24144C4E0FBBD1A8337B244DC7D51A
+1 NAME Madeleine Kielty McGill /Fox/
+1 SEX F
+1 BIRT
+2 DATE 28 MAY 1997
+2 PLAC Manhattan, Riley, Kansas, USA
+1 FAMC @F481@
+0 @I959@ INDI
+1 _UID D537BC70EAFE42DDB19320AB8CFCC7710E83
+1 NAME John Andrew “Sean” /Fox/
+1 SEX M
+1 BIRT
+2 DATE 4 FEB 1965
+2 PLAC Ballymote, County Sligo, Ireland
+1 FAMS @F481@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I993@ INDI
+1 _UID 965B9C3E1A1E44CC9D26FF5DA892FE2993F1
+1 NAME Mary T. /Galliher/
+1 SEX F
+1 BIRT
+2 DATE ABT 1865
+2 PLAC Ireland
+1 EVEN
+2 TYPE Arrival
+2 DATE 1866
+1 EVEN
+2 TYPE Arrival
+2 DATE 1866
+1 RESI
+2 DATE 1900
+2 PLAC Hinsdale Town, Berkshire, Massachusetts
+1 RESI
+2 DATE 1910
+2 PLAC Pittsfield Ward 3, Berkshire, Massachusetts
+1 RESI
+2 DATE 1918
+2 PLAC Pittsfield, MA
+2 NOTE 38 Edward Ave
+1 RESI
+2 DATE 1920
+2 PLAC Pittsfield Ward 4, Berkshire, Massachusetts
+1 RESI
+2 DATE 1930
+2 PLAC Beat 3, Lafayette, Mississippi
+1 FAMS @F335@
+1 CHAN
+2 DATE 3 JAN 2010
+0 @I1025@ INDI
+1 _UID 93DCF5AE589E4F05833FED4B2678BA31DFF8
+1 NAME Catherine /Gilligan/
+1 SEX F
+1 BIRT
+2 DATE JAN 1874
+2 PLAC Massachusetts
+1 RESI
+2 DATE 1900
+2 PLAC Pittsfield City, Berkshire, Massachusetts
+1 FAMS @F343@
+0 @I1042@ INDI
+1 _UID A398D65A4F3D4CF78134B5A8920B3B355966
+1 NAME Margaret Mary /Gilraine/
+1 SEX F
+1 BIRT
+2 DATE 1 JUN 1895
+2 PLAC Charlestown, Boston, Massachusetts
+2 NOTE 103 Decatur St, no structure, under Mystic Tobin Bridge
+1 BAPM
+2 DATE 16 JUN 1895
+2 PLAC Charlestown, Boston, Massachusetts
+2 NOTE St. Catherine of Siena (Charlestown), 55 Warren St
+1 RESI
+2 DATE JUL 1895
+2 PLAC Charlestown, Boston, Massachusetts
+2 NOTE 103 Decatur St, no structure, under Mystic Tobin Bridge
+1 RESI
+2 DATE 1900
+2 PLAC Boston City, Suffolk, Massachusetts
+2 NOTE 279 Stone St Charlestown, looks like government housing in 2021
+1 CONF
+2 DATE 11 MAY 1907
+2 PLAC Charlestown, Boston, Massachusetts
+2 NOTE St. Catherine of Siena (Charlestown)
+1 RESI
+2 DATE 1910
+2 PLAC Boston Ward 3, Suffolk, Massachusetts
+2 NOTE 99 Bainbridge St Boston, 27 Everett St, street is gone, under Mystic Tobin bridge
+1 OCCU
+2 DATE 1910
+2 PLAC Boston, MA
+2 NOTE Bundle girl in a department store
+1 RESI
+2 DATE 1920
+2 PLAC Medford Ward 5, Middlesex, Massachusetts
+2 NOTE 63 Main St Medford, no structure remaining in 2021, under an overpass
+1 OCCU
+2 DATE 1920
+2 PLAC Boston, MA
+2 NOTE switchboard operator
+1 RESI
+2 DATE 1930
+2 PLAC Boston, Suffolk, Massachusetts
+2 NOTE 111 Bowdoin St
+1 RESI
+2 DATE 1937
+2 PLAC Boston, Massachusetts
+2 NOTE 268 Geneva Ave, Dorchester
+1 RESI
+2 DATE 1940
+2 PLAC Boston, MA
+1 DEAT
+2 DATE 23 JUL 1980
+2 PLAC Boston, MA
+1 BURI
+2 DATE 26 JUL 1980
+2 PLAC Malden, Massachusetts
+2 NOTE Holy Cross Cemetery
+1 SSN 032-14-5679
+1 NOTE @N899@
+1 FAMS @F344@
+1 CHAN
+2 DATE 22 AUG 2021
+0 @I1056@ INDI
+1 _UID 91896EC0D4B7497AAD30A7E500E2A19D1F6C
+1 NAME Laura /Vetuskey/
+1 SEX F
+1 BIRT
+2 PLAC Rochester, New York
+1 FAMS @F1531@
+1 CHAN
+2 DATE 19 APR 2013
+0 @I1057@ INDI
+1 _UID 4C8A387A430A40C2821CD4642A2F643BA5F4
+1 NAME Sharon /Grzeskowiak/
+1 SEX F
+1 FAMS @F619@
+1 CHAN
+2 DATE 5 DEC 2010
+0 @I1058@ INDI
+1 _UID E2AD67E22B594C8FAEA1266ACCE82D312875
+1 NAME Linda J. /Reitz/
+1 SEX F
+1 BIRT
+2 DATE 4 APR 1962
+2 PLAC Rochester, New York
+1 FAMS @F1529@
+1 CHAN
+2 DATE 19 APR 2013
+0 @I1062@ INDI
+1 _UID 0AAFE1DBE4C743B0A46FC6C066688CF1F7BF
+1 NAME Cesar Alexander “Xander” /Guzman/
+1 SEX M
+1 BIRT
+2 DATE 20 MAR 2000
+2 PLAC Rochester, New York
+1 FAMC @F1529@
+1 CHAN
+2 DATE 5 DEC 2010
+0 @I1066@ INDI
+1 _UID 80EBE743F57444B391E10BCC901BC3C06CFD
+1 NAME James /Rogers/
+1 SEX M
+1 FAMS @F1340@
+1 CHAN
+2 DATE 20 FEB 2011
+0 @I1148@ INDI
+1 _UID B07C0C22F91C4E608ED776B1B645A2A4EA0B
+1 NAME Cesar /Guzmán/
+1 SEX M
+1 BIRT
+2 DATE 9 NOV 1923
+2 PLAC Traiguen, Chile
+1 IMMI
+2 DATE 1960
+2 PLAC Miami, Florida
+1 OCCU
+2 PLAC Rochester, NY
+2 NOTE Dentist
+1 BURI
+2 DATE 1986
+2 PLAC Rochester, NY
+2 NOTE White Haven Memorial Park 210 Marsh Road 
+1 DEAT
+2 DATE 28 MAY 1986
+2 PLAC Rochester, NY
+1 SSN 055-36-4998
+1 FAMC @F852@
+1 FAMS @F314@
+1 CHAN
+2 DATE 24 MAR 2018
+0 @I1149@ INDI
+1 _UID A0F337A24F92453586FDD22F102430E897E8
+1 NAME Cesar Augusto /Guzman/
+1 SEX M
+1 FAMS @F852@
+0 @I1150@ INDI
+1 _UID 8B73B08E363D4B089341CFFF00E605B54445
+1 NAME Cesar Eduardo /Guzmán/
+1 SEX M
+1 BIRT
+2 DATE 12 APR 1956
+2 PLAC Santiago, Chile
+1 IMMI
+2 DATE 1960
+2 PLAC Miami, Florida
+1 FAMC @F314@
+1 FAMS @F1529@
+1 CHAN
+2 DATE 24 MAR 2018
+0 @I1151@ INDI
+1 _UID 71D80842F6A14416A97B5D0F63E6AC919AA8
+1 NAME Eliana Cecelia /Guzmán/
+1 SEX F
+1 BIRT
+2 DATE 6 SEP 1962
+2 PLAC Rochester, NY
+1 RESI
+2 DATE ABT 1985
+2 PLAC Rochester, NY
+2 NOTE 168 Colonial Rd
+1 RESI
+2 DATE 1990
+2 PLAC Chapel Hill, North Carolina
+1 FAMC @F314@
+1 FAMS @F364@
+1 CHAN
+2 DATE 24 MAR 2018
+0 @I1152@ INDI
+1 _UID FBD46A5FA5D5485899641C4032E95055CB6A
+1 NAME Margarita Maria /Guzmán/
+1 SEX F
+1 IMMI
+2 DATE 1960
+2 PLAC Miami, Florida
+1 BIRT
+2 DATE 19 JAN 1960
+2 PLAC Rochester, NY
+1 FAMC @F314@
+1 FAMS @F365@
+1 FAMS @F1340@
+1 CHAN
+2 DATE 24 MAR 2018
+0 @I1153@ INDI
+1 _UID D069450D73FE425087F1C88AEE5331BA8446
+1 NAME Michael /Guzman/
+1 SEX M
+1 BIRT
+2 DATE 27 APR 1978
+2 PLAC Rochester, New York
+1 FAMC @F479@
+1 FAMS @F1530@
+1 CHAN
+2 DATE 4 DEC 2010
+0 @I1154@ INDI
+1 _UID CE15AF28A37842A796E28A5F92A3C65973FF
+1 NAME Robert /Guzman/
+1 SEX M
+1 BIRT
+2 DATE 14 APR 1983
+2 PLAC Rochester, New York
+1 FAMC @F479@
+1 FAMS @F1531@
+1 CHAN
+2 DATE 19 APR 2013
+0 @I1155@ INDI
+1 _UID A77355D84B0746098D8A5CC16B6C52A9EE01
+1 NAME Roberto Miguel /Guzmán/
+1 SEX M
+1 BIRT
+2 DATE 19 MAY 1951
+2 PLAC Santiago, Chile
+1 IMMI
+2 DATE 1960
+2 PLAC Miami, Florida
+1 FAMC @F314@
+1 FAMS @F479@
+1 FAMS @F619@
+1 CHAN
+2 DATE 24 MAR 2018
+0 @I1156@ INDI
+1 _UID 35DB5EBA5D7A4D8FA96690CC2FD3F4235F0C
+1 NAME Thomas /Guzman/
+1 SEX M
+1 BIRT
+2 DATE 25 JAN 1980
+1 FAMC @F479@
+0 @I1205@ INDI
+1 _UID C96A0E3E3F134B70BA7DC2C582A2F8CA309B
+1 NAME Lynne /Grushka/
+1 SEX F
+1 BIRT
+2 DATE 1 MAR 1957
+2 PLAC Malden, Massachusetts
+1 RESI
+2 DATE 2010
+2 PLAC Rutland, Massachusetts
+2 NOTE 1 Crestview Drive 01543
+1 FAMS @F1074@
+1 CHAN
+2 DATE 31 JAN 2010
+0 @I1208@ INDI
+1 _UID 076C4697033942C5A61C3D6A85CC33A0204D
+1 NAME Joshua David /Burke/
+1 SEX M
+1 BIRT
+2 DATE 21 JUN 1996
+2 PLAC Newton, Massachusetts
+1 RESI
+2 DATE 2010
+2 PLAC Rutland, Massachusetts
+2 NOTE 1 Crestview Drive 01543
+1 FAMC @F1074@
+1 CHAN
+2 DATE 31 JAN 2010
+0 @I1209@ INDI
+1 _UID 1BAE4A347ACF451EA554DDDAD2E98409EBE7
+1 NAME Margaret /Fitzgerald/
+1 SEX F
+1 BIRT
+2 DATE BEF 1925
+1 DEAT
+2 DATE BEF 2011
+1 FAMS @F1344@
+1 CHAN
+2 DATE 9 AUG 2011
+0 @I1210@ INDI
+1 _UID 78609B35BD264446874850C8356957C7B863
+1 NAME Rachel Shannon /Burke/
+1 SEX F
+1 BIRT
+2 DATE 5 JUN 1997
+2 PLAC Newton, Massachusetts
+1 RESI
+2 DATE 2010
+2 PLAC Rutland, Massachusetts
+2 NOTE 1 Crestview Drive 01543
+1 FAMC @F1074@
+1 CHAN
+2 DATE 31 JAN 2010
+0 @I1211@ INDI
+1 _UID 3639FC01DFAB4ABCA06C102BA09B1C771104
+1 NAME Kyle William /Burke/
+1 SEX M
+1 BIRT
+2 DATE 14 MAY 1999
+2 PLAC Boston, Massachusetts
+1 FAMC @F1075@
+1 CHAN
+2 DATE 30 JAN 2010
+0 @I1213@ INDI
+1 _UID 7A00EA6AAF0E4E2B948B6A6C981798B8F8BD
+1 NAME Walter /Harris/
+1 SEX M
+1 BIRT
+2 DATE 1968
+2 PLAC Massachusetts
+1 FAMS @F324@
+0 @I1214@ INDI
+1 _UID F2276C74405541CCBBAFB0255D81168F5DBE
+1 NAME Walter /Harris/
+1 SEX M
+1 BIRT
+2 DATE MAY 2002
+1 FAMC @F324@
+0 @I1315@ INDI
+1 _UID D022EDC7A38B4FECBD5B3A01F6B2B921E455
+1 NAME Daniel William /James/
+1 SEX M
+1 BIRT
+2 DATE 11 OCT 1995
+2 PLAC Oklahoma City, OK
+1 FAMC @F482@
+0 @I1316@ INDI
+1 _UID 54AEE648855F46B3AC79746CB508146C4F09
+1 NAME Maura Katherine /James/
+1 SEX F
+1 BIRT
+2 DATE 29 JUN 1991
+2 PLAC New York
+1 FAMC @F482@
+1 FAMS @F1604@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I1317@ INDI
+1 _UID CAD0C8E181B24D0EA1D8286A182E8E6616BD
+1 NAME Michael Clay /James/
+1 SEX M
+1 FAMS @F482@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I1318@ INDI
+1 _UID 24AE8EA7F22949118E2C011A4276DAA1842A
+1 NAME Patrick Joseph /James/
+1 SEX M
+1 BIRT
+2 DATE 3 JUL 1993
+2 PLAC New York City, New York
+1 FAMC @F482@
+0 @I1319@ INDI
+1 _UID 37AF306D336047B2B30D728673C4C50ACD4F
+1 NAME Sheila Mary /James/
+1 SEX F
+1 BIRT
+2 DATE 23 NOV 1998
+2 PLAC Oklahoma City, OK
+1 FAMC @F482@
+0 @I1451@ INDI
+1 _UID 84E4918269E24608B76677D6FE50CEAF4977
+1 NAME Frances Catherine /Kelley/
+1 SEX F
+1 RESI
+2 DATE JUN 1960
+2 PLAC Roslindale, Massachusetts
+2 NOTE 1 Meyer Court, built 1960, 3 BR, 2BA, 1,224 SF
+1 BIRT
+2 DATE 19 JUN 1960
+2 PLAC Brighton, Massachusetts
+2 NOTE St Elizabeth's Hospital
+1 EDUC
+2 DATE 1982
+2 PLAC Manchester, New Hampshire
+2 NOTE St Anselms College, BA in Business
+1 RESI
+2 DATE JUN 1987
+2 PLAC West Roxbury, Massachusetts
+2 NOTE 43 Billings St, built 1900, 845 SF, 2 BR, 1 BA, home purchased with Francie Kelley
+1 EDUC
+2 DATE SEP 1988
+2 PLAC West Roxbury, Massachusetts
+2 NOTE Babson College, Wellesley, Massachusetts, MBA in Finance
+1 RESI
+2 DATE 1991
+2 PLAC Austin, Texas
+2 NOTE Capital of Texas Highway
+1 RESI
+2 DATE NOV 1991
+2 PLAC Austin, Texas
+2 NOTE 8529 Capital of Texas Highway
+1 RESI
+2 DATE NOV 1993
+2 PLAC Austin, Texas
+2 NOTE 6111 Ginita Ln
+1 RESI
+2 DATE 15 SEP 2013
+2 PLAC Belmont, Massachusetts
+2 NOTE 34 Palfrey Road
+1 FAMC @F77@
+1 FAMS @F419@
+1 CHAN
+2 DATE 24 MAR 2018
+0 @I1455@ INDI
+1 _UID 287AA4E7E9484CDCB7847453B327F4FE54E3
+1 NAME Joan Ellen /Kelley/
+1 SEX F
+1 BIRT
+2 DATE 17 JAN 1963
+2 PLAC St Elizabeth's Hospital, Brighton MA
+1 FAMC @F77@
+0 @I1459@ INDI
+1 _UID 552C9B18B5D046E6A4CFA48CBA55D3C63084
+1 NAME Mary Elizabeth /Kelley/
+1 SEX F
+1 BIRT
+2 DATE 24 AUG 1958
+2 PLAC St Elizabeth's Hospital, Brighton MA
+1 FAMC @F77@
+0 @I1460@ INDI
+1 _UID EBB85EDCFF65450CA5812ECF6E35758653C6
+1 NAME Patricia Ann /Kelley/
+1 SEX F
+1 BIRT
+2 DATE 20 JUN 1961
+2 PLAC St Elizabeth's Hospital, Brighton MA
+1 RESI
+2 PLAC Uncasville, New London, Connecticut, USA
+1 FAMC @F77@
+0 @I1466@ INDI
+1 _UID 4D096FC6675247C9BC9BD1C2EF4283FEF0FB
+1 NAME William Joseph /Kelley/
+1 SEX M
+1 BIRT
+2 DATE 12 JUL 1929
+2 PLAC Somerville, Massachusetts
+1 RESI
+2 DATE 1930
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 111 Bowdoin St
+1 RESI
+2 DATE 1935
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 268 Geneva Ave (no structure remaining as of 2021)
+1 RESI
+2 DATE 1940
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 268 Geneva Ave
+1 EDUC
+2 DATE 1951
+2 PLAC Boston, Massachusetts
+2 NOTE Boston College, BS in Math
+1 MILT
+2 DATE JUN 1952
+2 PLAC St Louis, Air Force Institute of Technology
+2 NOTE US Air Force
+1 RESI
+2 DATE 1960
+2 PLAC Roslindale, Boston, Massachusetts
+2 NOTE 1 Meyer Court
+1 EDUC
+2 DATE 1968
+2 PLAC Boston, Massachusetts
+2 NOTE Northeastern University, MBA
+1 RESI
+2 DATE 2010
+2 PLAC Milton, Massachusetts
+2 NOTE 1372 Brush Hill Rd
+1 DEAT
+2 DATE 27 NOV 2021
+2 PLAC Framingham, Middlesex, Massachusetts
+1 NOTE @N66@
+1 FAMC @F344@
+1 FAMS @F77@
+1 CHAN
+2 DATE 28 NOV 2021
+0 @I1467@ INDI
+1 _UID 36201E1E570440438BD40E22424EA9336B1E
+1 NAME William Joseph /Kelley/
+1 SEX M
+1 BIRT
+2 DATE 15 AUG 1891
+2 PLAC Charlestown, Boston, Massachusetts
+2 NOTE 24 Corey St, rear, structure gone as of 2021, under Mystic Tobin Bridge
+1 RESI
+2 DATE 11 JUN 1900
+2 PLAC Somerville, Boston, Massachusetts
+2 NOTE 27 Everett St 
+1 OCCU
+2 DATE 1910
+2 PLAC Boston, Massachusetts
+2 NOTE Lithograph Clerk
+1 RESI
+2 DATE 1910
+2 PLAC Boston, Massachusetts
+2 NOTE 65 Chelsea St, East Boston. structure still standing 2021. See photograph
+1 OCCU
+2 DATE 1915
+2 PLAC Massachusetts, USA
+2 NOTE Brakeman
+1 MILT
+2 DATE 1917
+2 PLAC France
+2 NOTE US Army, sergeant
+1 OCCU
+2 DATE 1917
+2 PLAC Mystic Wharf, Charlestown, MA
+2 NOTE Manifest clerk, France & Canada Steamship Co
+1 RESI
+2 DATE 1917
+2 PLAC Charlestown, Suffolk, Massachusetts
+2 NOTE 19 Bainbridge St, Charlestown
+1 RESI
+2 DATE 1920
+2 PLAC Boston Ward 4, Suffolk, Massachusetts
+2 NOTE 19 Bainbridge St
+1 OCCU
+2 DATE 1920
+2 PLAC Boston Ward 4, Suffolk, Massachusetts
+2 NOTE Clerk, Steamship Co.
+1 RESI
+2 DATE JUL 1925
+2 PLAC Charlestown, Boston, Massachusetts
+2 NOTE 19 Bainbridge St, street is gone, under Mystic Tobin bridge
+1 RESI
+2 DATE 1930
+2 PLAC Boston, Suffolk, Massachusetts
+2 NOTE 111 Bowdoin St
+1 OCCU
+2 DATE 1930
+2 PLAC Boston, MA
+2 NOTE Billing Clerk, Steamship Co.
+1 RESI
+2 DATE 1940
+2 PLAC Dorchester, Boston, Suffolk, Massachusetts
+1 OCCU
+2 DATE 1940
+2 PLAC Dorchester, Boston, Suffolk, Massachusetts
+2 NOTE Clerk, Steamship Co.
+1 OCCU
+2 DATE 1942
+2 PLAC Dorchester, Boston, Suffolk, Massachusetts
+2 NOTE Clerk, South Boston Army Base
+1 RESI
+2 DATE 1942
+2 PLAC Dorchester, Boston, Suffolk, Massachusetts
+2 NOTE 268 Geneva Ave
+1 EVEN
+2 TYPE _PHOTO
+2 NOTE @@M3@@
+1 RESI
+2 DATE 1937
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 268 Geneva Ave
+1 DEAT
+2 DATE OCT 1965
+2 PLAC West Roxbury, MA
+2 NOTE West Roxbury Veterans Hospital
+1 BURI
+2 DATE OCT 1965
+2 PLAC Malden, Massachusetts
+2 NOTE Holy Cross Cemetery
+1 HAIR light brown
+1 SSN 011-20-7769
+1 EYES blue, wears glasses as of 1942
+1 HEIG medium, 5’ 4”
+1 COLO Ruddy
+1 WEIG 133 lbs
+1 NOTE @N1175@
+1 FAMS @F344@
+1 CHAN
+2 DATE 23 JAN 2021
+0 @I1519@ INDI
+1 _UID B9FDB9AE647A448B8402E2D809F6FF0E1694
+1 NAME Garrett Jackson /Landon/
+1 SEX M
+1 BIRT
+2 DATE 26 OCT 1988
+2 PLAC Hartford, Connecticut
+1 FAMC @F290@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I1521@ INDI
+1 _UID DA0F3512C04C4A0D9B6349074AED7021A944
+1 NAME Lucia Jean /Landon/
+1 SEX F
+1 BIRT
+2 DATE 10 AUG 1990
+2 PLAC Santa Cruz, California
+1 FAMC @F290@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I1522@ INDI
+1 _UID AE8942CDC1F741F4BBAB8886B16027FDDC35
+1 NAME Richard Benson /Landon/
+1 SEX M
+1 BIRT
+2 DATE 26 APR 1952
+2 PLAC Albany, New York
+1 FAMS @F290@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I1634@ INDI
+1 _UID DADB3263D64C4BD587A4220FC2C953A56B68
+1 NAME Mary Ellen /Kerrins/
+1 SEX F
+1 BIRT
+2 DATE 10 JUL 1894
+1 RESI
+2 DATE 1930
+2 PLAC Worcester, Worcester, Massachusetts
+1 BURI
+2 DATE 14 JUN 1969
+2 PLAC Worcester, Massachusetts
+2 NOTE St. John's Cemetery
+1 DEAT
+2 DATE 14 JUN 1969
+2 PLAC Worcester, Massachusetts
+1 FAMS @F463@
+1 CHAN
+2 DATE 21 JAN 2010
+0 @I1685@ INDI
+1 _UID DAA75B41AE03438C9A5F8AE21F9295478F35
+1 NAME Elizabeth Ann /McDonald/
+1 SEX F
+1 BIRT
+2 DATE 10 MAY 1860
+2 PLAC Manhattan, New York, New York
+1 RESI
+2 DATE 1864
+2 PLAC Pennsylvania, USA
+1 RESI
+2 DATE 1880
+2 PLAC Westchester, Westchester, New York
+1 OCCU
+2 DATE 1880
+2 PLAC Westchester, Westchester, New York
+2 NOTE Teacher
+1 RESI
+2 DATE 1900
+2 PLAC McAdoo Borough, Schuylkill, Pennsylvania
+1 RESI
+2 DATE 1910
+2 PLAC North Hempstead, Nassau, New York
+1 RESI
+2 DATE 1 JUN 1915
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE West Shore Road
+1 RESI
+2 DATE 1920
+2 PLAC North Hempstead, Nassau, New York
+1 RESI
+2 DATE 1930
+2 PLAC Port Washington, Nassau, New York, United States of America
+1 RESI
+2 DATE 1940
+2 PLAC North Hempstead, Nassau, New York
+1 DEAT
+2 DATE 25 MAY 1942
+2 PLAC Port Washington, Nassau County, New York
+1 BURI
+2 DATE 28 MAY 1942
+2 PLAC Westbury, New York
+2 NOTE Holy Rood Cemetery
+1 FAMS @F478@
+1 CHAN
+2 DATE 24 MAR 2018
+0 @I1712@ INDI
+1 _UID F62A40659A4F4ABE9603DD3FFF69EC34F317
+1 NAME Julie
+1 SEX F
+1 FAMS @F2195@
+1 CHAN
+2 DATE 2 MAY 2012
+0 @I1719@ INDI
+1 _UID A3EA8ED6252046D18FC79FDF0B26BFDAEBAD
+1 NAME Donald Charles /McElwain/
+1 SEX M
+1 FAMS @F657@
+0 @I1720@ INDI
+1 _UID FDE6C54BDCF9451A8517AAFAEC5D4CBFBB43
+1 NAME Patricia /McElwain/
+1 SEX F
+1 FAMC @F657@
+1 FAMS @F479@
+0 @I1735@ INDI
+1 _UID B83E4F154FCA4CD4A3788B0E17FE05D4356F
+1 NAME Anna /McGill/
+1 SEX F
+1 BIRT
+2 DATE 3 OCT 2001
+2 PLAC Tampa, Florida
+1 FAMC @F504@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I1737@ INDI
+1 _UID CD8A167CB18A42018553206EEB9884CA9ED6
+1 NAME Catherine Bridget /McGill/
+1 SEX F
+1 BIRT
+2 DATE 15 OCT 2004
+2 PLAC Tampa, FL
+1 FAMC @F504@
+0 @I1739@ INDI
+1 _UID E12ECD18022944BF8E9BBACB845DFC873410
+1 NAME Christopher James /McGill/
+1 SEX M
+1 BIRT
+2 DATE 25 APR 1961
+2 PLAC Dedham, MA
+1 FAMC @F301@
+1 FAMS @F185@
+1 FAMS @F760@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I1740@ INDI
+1 _UID BCB734D42BA14E159D58163F18106359D88B
+1 NAME Ciarna Alana /McGill/
+1 SEX F
+1 BIRT
+2 DATE 9 SEP 1972
+2 PLAC Westwood, MA
+1 RESI
+2 PLAC Needham, Norfolk, Massachusetts, USA
+1 RESI
+2 PLAC Walpole, Norfolk, Massachusetts, USA
+1 RESI
+2 PLAC Canton, Norfolk, Massachusetts, USA
+1 FAMC @F301@
+1 FAMS @F480@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I1741@ INDI
+1 _UID 71A586BB16F141CF8FE1E6ED2EB384172D56
+1 NAME Eileen Patricia /McGill/
+1 SEX F
+1 BIRT
+2 DATE 11 OCT 1963
+2 PLAC Boston, MA
+1 FAMC @F301@
+1 FAMS @F481@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I1742@ INDI
+1 _UID 55F9F012DC4849E68542F72E0737D6BC5F18
+1 NAME Eoghan Padraic /McGill/
+1 SEX M
+1 BIRT
+2 DATE 8 FEB 1966
+2 PLAC Dorchester, MA
+1 FAMC @F301@
+1 FAMS @F504@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I1747@ INDI
+1 _UID 9045F31A517447E690C39F801B1ECEEE3BAA
+1 NAME James Edward /McGill/
+1 SEX M
+1 BIRT
+2 DATE 17 JUN 1900
+2 PLAC Hinsdale, Massachusetts, USA
+1 RESI
+2 DATE 1910
+2 PLAC Pittsfield Ward 3, Berkshire, Massachusetts
+1 OCCU
+2 DATE 12 SEP 1918
+2 PLAC Pittsfield, MA
+2 NOTE Railroad Freight clerk
+1 RESI
+2 DATE 12 SEP 1918
+2 PLAC Pittsfield, MA
+1 RESI
+2 DATE 1920
+2 PLAC Pittsfield Ward 4, Berkshire, Massachusetts
+1 RESI
+2 DATE 1930
+2 PLAC Pittsfield, Berkshire, Massachusetts
+1 DEAT
+2 DATE 28 JAN 1983
+2 PLAC Pittsfield, Berkshire County, Massachusetts, USA
+1 FAMC @F335@
+1 FAMS @F331@
+1 CHAN
+2 DATE 3 JAN 2010
+0 @I1748@ INDI
+1 _UID 71B16AEB75AC458DA1F03BFD36EE50943B72
+1 NAME James F /McGill/
+1 SEX M
+1 BIRT
+2 DATE 15 JUN 1931
+2 PLAC Pittsfield, MA
+1 RESI
+2 PLAC Westwood, Norfolk, Massachusetts, USA
+1 DEAT
+2 DATE 5 NOV 2007
+2 PLAC Westwood, Norfolk, Massachusetts
+1 NOTE @N1346@
+1 FAMC @F331@
+1 FAMS @F301@
+1 CHAN
+2 DATE 6 NOV 2009
+0 @I1750@ INDI
+1 _UID 509CB292B6B84F4E8999468CC3F89EB8404D
+1 NAME Kathleen Mary /McGill/
+1 SEX F
+1 BIRT
+2 DATE 1 APR 1958
+2 PLAC Connecticut
+1 FAMC @F301@
+1 FAMS @F482@
+0 @I1751@ INDI
+1 _UID C7A29042C7F249D98B39D32D276CE9AF0578
+1 NAME Kianu Rainier /McGill/
+1 SEX M
+1 BIRT
+2 DATE 15 MAR 1992
+2 PLAC Boston, Massachusetts
+1 FAMC @F185@
+0 @I1755@ INDI
+1 _UID 240D035DBEB9401FB8991FE1C126A01C5B38
+1 NAME Maura Gael /McGill/
+1 SEX F
+1 BIRT
+2 DATE 12 MAY 1959
+2 PLAC Connecticut
+1 FAMC @F301@
+1 FAMS @F485@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I1756@ INDI
+1 _UID B32AF48CFA47440E865AB2DBD1F9B5EECAA5
+1 NAME Patrick James /McGill/
+1 SEX M
+1 BIRT
+2 DATE ABT 1870
+2 PLAC Washington, Massachusetts
+1 RESI
+2 DATE 1900
+2 PLAC Hinsdale Town, Berkshire, Massachusetts
+1 RESI
+2 DATE 1910
+2 PLAC Pittsfield Ward 3, Berkshire, Massachusetts
+1 RESI
+2 DATE 1920
+2 PLAC Pittsfield Ward 4, Berkshire, Massachusetts
+1 RESI
+2 DATE 1930
+2 PLAC Pittsfield, Berkshire, Massachusetts
+1 RESI
+2 DATE 1930
+2 PLAC Beat 3, Lafayette, Mississippi
+1 FAMS @F335@
+0 @I1757@ INDI
+1 _UID C5F94C6693A740DEBDCA288740D4D9D6C1A1
+1 NAME Siobhan Frances /McGill/
+1 SEX F
+1 BIRT
+2 DATE 4 OCT 1968
+2 PLAC Westwood, MA
+1 RESI
+2 DATE 2010
+2 PLAC Chevy Chase, Montgomery, Maryland
+1 RESI
+2 PLAC Arlington, Arlington, Virginia, USA
+1 RESI
+2 PLAC Washington, District of Columbia, District of Columbia, USA
+1 RESI
+2 PLAC Westwood, Norfolk, Massachusetts, USA
+1 FAMC @F301@
+1 FAMS @F486@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I1765@ INDI
+1 _UID 642D1885446A4930898FE7CC13C91873871D
+1 NAME Mary /McGowan/
+1 SEX F
+1 BIRT
+2 DATE 28 FEB 1923
+1 RESI
+2 DATE ABT 1985
+2 PLAC Yarmouthport, MA
+2 NOTE 33 Seminole Drive
+1 DEAT
+2 DATE 13 SEP 2004
+2 PLAC Yarmouth Port, Barnstable, Massachusetts, United States of America
+1 NOTE @N1361@
+1 FAMS @F488@
+1 CHAN
+2 DATE 24 SEP 2011
+0 @I1835@ INDI
+1 _UID D180ADDCBAF74C0DB99F16FCB005DB0EEC18
+1 NAME Mary Catherine /McNamara/
+1 SEX F
+1 BIRT
+2 DATE 28 APR 1891
+2 PLAC Boston, Massachusetts, United States
+2 NOTE 17 Charter St (unknown source for address)
+1 RESI
+2 DATE 1900
+2 PLAC Hyde Park, Massachusetts
+2 NOTE 64 Providence St Boston
+1 OCCU
+2 DATE 1900
+2 PLAC Hyde Park, Massachusetts
+2 NOTE Student
+1 RESI
+2 DATE 1910
+2 PLAC Hyde Park, Norfolk, Massachusetts
+2 NOTE 40 Providence St Boston
+1 RESI
+2 DATE 1920
+2 PLAC Boston Ward 24, Suffolk, Massachusetts
+2 NOTE 40 Providence St Boston
+1 OCCU
+2 DATE 1920
+2 PLAC Boston Ward 24, Suffolk, Massachusetts
+2 NOTE Bookkeeper, Regulators
+1 RESI
+2 DATE 1930
+2 PLAC Boston, Suffolk, Massachusetts
+2 NOTE 3940 Washington Street
+1 RESI
+2 DATE 1930
+2 PLAC Boston, Suffolk, Massachusetts
+2 NOTE 3940 Washington Street
+1 RESI
+2 DATE 1935
+2 PLAC Boston, MA
+2 NOTE 3940 Washington Street
+1 RESI
+2 DATE 1940
+2 PLAC Boston, MA
+2 NOTE 3940 Washington Street
+1 RESI
+2 DATE 1948
+2 PLAC Roslindale, Suffolk, Massachusetts, USA
+2 NOTE 3940 Washington Street
+1 RESI
+2 DATE 1958
+2 PLAC Forest Hills, Boston, Massachusetts
+2 NOTE 21 Wachusett St
+1 DEAT
+2 DATE 1 JAN 1959
+2 PLAC Boston, MA
+2 NOTE St Elizabeth's Hospital
+1 BURI
+2 DATE 4 JAN 1959
+2 PLAC Old Calvary Cemetery, Roslindale, Suffolk, Massachusetts
+2 NOTE date approximate
+1 NOTE @N197@
+1 FAMS @F122@
+1 CHAN
+2 DATE 23 JAN 2021
+0 @I1857@ INDI
+1 _UID 73FD23A47E4F45E79717FF50761D3D908D7B
+1 NAME Jennifer /Meyer/
+1 SEX F
+1 BIRT
+2 DATE 19 AUG 1970
+2 PLAC Long Island, NY
+1 FAMS @F504@
+0 @I1932@ INDI
+1 _UID 2FD31E3655F8406E837427CAF225D2AED05A
+1 NAME Tyler /Keeley/
+1 SEX M
+1 FAMS @F1413@
+1 CHAN
+2 DATE 31 JAN 2010
+0 @I1933@ INDI
+1 _UID DDF9B7B94AE44044B583C6DAA584D2A77284
+1 NAME Bridget Gael /Mudd/
+1 SEX F
+1 BIRT
+2 DATE APR 1993
+2 PLAC Connecticut, USA
+1 FAMC @F485@
+1 FAMS @F1881@
+0 @I1934@ INDI
+1 _UID A1408F49DC9F40778D0C5D2EA8B9D9347DAC
+1 NAME Daniel Harrison /Mudd/
+1 SEX M
+1 BIRT
+2 DATE 1956
+1 FAMC @F379@
+1 FAMS @F485@
+1 CHAN
+2 DATE 4 OCT 2021
+0 @I1935@ INDI
+1 _UID 68BB96C8562E40D59CF2AAFF0EBEF83B50E2
+1 NAME Conor /Keeley/
+1 SEX M
+1 BIRT
+2 DATE ABT 1994
+1 FAMC @F1413@
+1 CHAN
+2 DATE 31 JAN 2010
+0 @I1936@ INDI
+1 _UID ECDBAFB3CB53417FA7C2B585E7D20CB72692
+1 NAME John Harrison /Mudd/
+1 SEX M
+1 BIRT
+2 DATE 3 SEP 1997
+2 PLAC Boston, Massachusetts
+1 FAMC @F485@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I1937@ INDI
+1 _UID 9FEC63451A3A448E81F1206A7158ECAFB9CF
+1 NAME Rory /Keeley/
+1 SEX F
+1 BIRT
+2 DATE ABT 1995
+1 FAMC @F1413@
+1 CHAN
+2 DATE 31 JAN 2010
+0 @I1938@ INDI
+1 _UID A46FA5F3788E4ECAB3D380E031A66D5A4DA5
+1 NAME Duncan /Keeley/
+1 SEX M
+1 BIRT
+2 DATE ABT 1997
+1 FAMC @F1413@
+1 CHAN
+2 DATE 31 JAN 2010
+0 @I1939@ INDI
+1 _UID 5409B045339C469BA2DABE6A204C920CB04F
+1 NAME Ann Theresa /Johnson/
+1 SEX F
+1 BIRT
+2 DATE 29 APR 1942
+1 DEAT
+2 DATE 3 JAN 2016
+2 PLAC Canton, Norfolk, Massachusetts
+2 NOTE Funeral at St Gerard Majella Parish, Canton MA
+1 FAMS @F2599@
+1 CHAN
+2 DATE 7 JAN 2016
+0 @I1940@ INDI
+1 _UID 8C980BC6FDCE4E309057EE81BFDAF42C4D5A
+1 NAME Roger Moore /Mudd/
+1 SEX M
+1 BIRT
+2 PLAC Winchester, Frederick County, Virginia, USA
+1 FAMC @F379@
+0 @I1941@ INDI
+1 _UID 988CBBD6844C43AFB5911A5F09DF31A5F4E3
+1 NAME Roger /Mudd/
+1 SEX M
+1 BIRT
+2 DATE 1928
+2 PLAC Washington, DC
+1 FAMS @F379@
+1 CHAN
+2 DATE 9 JUN 2016
+0 @I1942@ INDI
+1 _UID 50B75D2DAA1F426DBE515E372EA4015ADA3C
+1 NAME Derek Lamar /Fowler/
+1 SEX M
+1 BIRT
+2 DATE 16 MAY 1969
+2 PLAC Boston, Massachusetts
+1 FAMS @F1075@
+1 CHAN
+2 DATE 6 FEB 2010
+0 @I1943@ INDI
+1 _UID D31B5492DF494672B06B44DBDEB1EBDA42A3
+1 NAME Sarah Spillane /Mudd/
+1 SEX F
+1 BIRT
+2 DATE 28 NOV 1994
+2 PLAC Connecticut, USA
+1 FAMC @F485@
+0 @I1944@ INDI
+1 _UID 545275D67DB24BCF807AE50598CEB785C093
+1 NAME Thomas Fennessy /Mudd/
+1 SEX M
+1 BIRT
+2 DATE 25 MAY 1999
+2 PLAC Hong Kong, China
+1 FAMC @F485@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I1946@ INDI
+1 _UID 112FD9498BDD4A958E88B657BF8EC70BEBE6
+1 NAME Virginia Ann /Mudd/
+1 SEX F
+1 BIRT
+2 PLAC Winchester, Frederick, Virginia, United States
+1 FAMC @F379@
+0 @I2373@ INDI
+1 _UID B246939267024C67BE267E395C91D952EC61
+1 NAME Caitlin Cecelia /Owens/
+1 SEX F
+1 BIRT
+2 DATE 18 DEC 1988
+2 PLAC Chapel Hill, North Carolina
+1 FAMC @F364@
+1 CHAN
+2 DATE 10 JUN 2010
+0 @I2374@ INDI
+1 _UID 51488929913947268DEA18584DC93AC0790F
+1 NAME Marc /Owens/
+1 SEX M
+1 RESI
+2 DATE 1990
+2 PLAC Chapel Hill, North Carolina
+1 FAMS @F364@
+1 CHAN
+2 DATE 10 JUN 2010
+0 @I2377@ INDI
+1 _UID 9805F0E1CBDD449DB065A77FB9C691115399
+1 NAME Tina /Papadopoulis/
+1 SEX F
+1 BIRT
+2 DATE 13 MAY 1963
+2 NOTE guess from QF
+1 PRIV Y
+1 FAMS @F626@
+1 CHAN
+2 DATE 9 JUN 2016
+0 @I2394@ INDI
+1 _UID 54DC3EEA84874B1D97197A6C81AE43DBAE28
+1 NAME Michael /Haines/
+1 SEX M
+1 FAMS @F1881@
+1 CHAN
+2 DATE 4 OCT 2021
+0 @I2408@ INDI
+1 _UID 9785DC73A81945BCAB21729015224AFF7B63
+1 NAME Alice Elizabeth /Pierce/
+1 SEX F
+1 BIRT
+2 DATE 30 JAN 1896
+2 PLAC McAdoo, Schuylkill County, Pennsylvania
+1 BAPM
+2 DATE 8 FEB 1896
+2 PLAC McAdoo, Schuylkill, Pennsylvania
+2 NOTE St Patricks Church
+1 RESI
+2 DATE 1900
+2 PLAC McAdoo, Schuylkill, Pennsylvania
+1 RESI
+2 DATE 1905
+2 PLAC Manhattan, New York, New York
+1 RESI
+2 DATE 1910
+2 PLAC North Hempstead, Nassau, New York
+1 RESI
+2 DATE 1910
+2 PLAC North Hempstead, Nassau, New York
+1 GRAD
+2 DATE JUN 1912
+2 PLAC Port Washington, Nassau, New York, United States of America
+2 NOTE High School Graduation
+1 RESI
+2 DATE 1 JUN 1915
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE West Shore Road
+1 EDUC
+2 DATE 1916
+2 PLAC New York City, New York
+2 NOTE Gaffey's Business School
+1 OCCU
+2 DATE 1917
+2 PLAC New York, New York
+2 NOTE Stenographer, Fred Pearson and Co., 95 Madison Ave.
+1 OCCU
+2 DATE 1920
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE Stenographer, Hank Martin
+1 RESI
+2 DATE 1920
+2 PLAC North Hempstead, Nassau, New York
+1 RESI
+2 DATE 1 JUN 1925
+2 PLAC Bronx, New York City, New York, USA
+1 RESI
+2 DATE MAR 1927
+2 PLAC Port Washington, Nassau County, New York
+2 NOTE 135 Main St
+1 RESI
+2 DATE 1930
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE 15 Middle Neck Road
+1 RESI
+2 DATE 1935
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE 16 Herbert Avenue
+1 RESI
+2 DATE 1940
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE 16 Herbert Avenue
+1 RESI
+2 DATE 1942
+2 PLAC Port Washington, Nassau, New York
+2 NOTE 56 Willowdale Ave
+1 RESI
+2 DATE 31 JUL 1946
+2 PLAC Port Washington, Nassau, New York
+2 NOTE 56 Willowdale Ave
+1 RESI
+2 DATE 1950
+2 PLAC Port Washington, Nassau County, New York
+1 OCCU
+2 NOTE Housewife
+1 DEAT
+2 DATE 6 SEP 1956
+2 PLAC Port Washington, Nassau County, New York
+2 NOTE Heart attack
+1 BURI
+2 DATE 10 SEP 1956
+2 PLAC Port Washington, New York
+2 NOTE Nassau Knolls Cemetery
+1 MEMB American Legion Post #509, Port Washington NY
+1 NOTE @N1522@
+1 FAMC @F478@
+1 FAMS @F614@
+1 CHAN
+2 DATE 30 DEC 2022
+0 @I2471@ INDI
+1 _UID F83222A4DB1B411489E3FA6306942BE3AC9E
+1 NAME Robert Xavier /Pierce/
+1 REFN r
+1 SEX M
+1 BIRT
+2 DATE 1 MAR 1856
+2 PLAC Carleton County, New Brunswick, Canada
+1 BAPM
+2 DATE 1858
+2 PLAC Carleton County, New Brunswick, Canada
+1 BIRT
+2 DATE 1 MAR 1858
+2 PLAC Holmesville, New Brunswick, Canada
+1 RESI
+2 DATE 1861
+2 PLAC Kent, Carleton, New Brunswick, Canada
+1 IMMI
+2 DATE 1880
+1 EVEN
+2 TYPE Arrival
+2 DATE 1880
+1 RESI
+2 DATE 1881
+2 PLAC Kent, Carleton, New Brunswick, Canada
+1 NATU
+2 DATE AFT 1880
+1 RESI
+2 DATE 1882
+2 PLAC McAdoo, Schuylkill, Pennsylvania
+1 RESI
+2 DATE 1900
+2 PLAC McAdoo Borough, Schuylkill, Pennsylvania
+1 RESI
+2 DATE 1910
+2 PLAC North Hempstead, Nassau, New York
+1 OCCU
+2 DATE 1910
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE Carpenter
+1 OCCU
+2 DATE 1915
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE Carpenter
+1 RESI
+2 DATE 1 JUN 1915
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE West Shore Road
+1 OCCU
+2 DATE 1920
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE Night watchman at Sand and Gravel company
+1 RESI
+2 DATE 1920
+2 PLAC North Hempstead, Nassau, New York
+1 RESI
+2 DATE 1930
+2 PLAC Port Washington, Nassau, New York, United States of America
+1 EVEN
+2 TYPE _PHOTO
+2 NOTE @@M6@@
+1 DEAT
+2 DATE 5 APR 1938
+2 PLAC Port Washington, Nassau County, New York
+2 NOTE Meadowbrook Hospital
+1 BURI
+2 DATE 5 APR 1938
+2 PLAC Westbury, New York
+2 NOTE Holy Rood Cemetery
+1 NOTE @N1537@
+1 FAMS @F478@
+1 CHAN
+2 DATE 16 AUG 2020
+0 @I2497@ INDI
+1 _UID 35FA56C723E8410092F5DB49217A0B58411D
+1 NAME Christine /Pluschau/
+1 SEX F
+1 FAMC @F39@
+1 FAMS @F637@
+0 @I2498@ INDI
+1 _UID 595B46F457C840038C655E39A22BC346AEAD
+1 NAME Herbert /Pluschau/
+1 SEX M
+1 FAMS @F39@
+0 @I2516@ INDI
+1 _UID 0B42A22196B340E08C35788E0E153A08A58C
+1 NAME Patrick /Power/
+1 SEX M
+1 BIRT
+2 DATE 1862
+2 PLAC India
+2 NOTE Cited as India, OAS - a British colony
+1 BIRT
+2 DATE 26 DEC 1862
+2 PLAC Tipperary Town, Tipperary, Ireland
+1 CHR
+2 DATE 29 DEC 1862
+2 PLAC Tipperary Town, Tipperary, Ireland
+2 NOTE St Michaels Church, sponsors Patrick Tracy and Catherine Hemphil
+1 IMMI
+2 DATE 1880
+1 OCCU
+2 DATE 1881
+2 NOTE Private, 109th Regiment of Foot, 
+1 RESI
+2 DATE 1881
+2 PLAC Aldershot, Hampshire, England
+1 RESI
+2 DATE 1881
+2 PLAC Farnborough, Hampshire, England
+1 IMMI
+2 DATE 1883
+1 NATU
+2 DATE 1900
+2 PLAC New York City, New York
+1 RESI
+2 DATE 1900
+2 PLAC New York City, New York, New York
+2 NOTE 713 2nd Avenue, Manhattan
+1 OCCU
+2 DATE 1900
+2 PLAC Manhattan, New York, New York
+2 NOTE Stationary Engineer
+1 OCCU
+2 DATE 1905
+2 PLAC Manhattan, New York, New York
+2 NOTE Stationary Engineer
+1 RESI
+2 DATE 1905
+2 PLAC Manhattan, New York, New York
+1 OCCU
+2 DATE 1906
+2 PLAC New York, New York
+2 NOTE United Irish League, Castlewarren Branch, honorary secretary
+1 RESI
+2 DATE 1910
+2 PLAC Manhattan Ward 21, New York, New York
+2 NOTE 335 E 39th St, Manhattan
+1 OCCU
+2 DATE 1915
+2 PLAC Manhattan, New York, New York
+2 NOTE 44th St and 2nd Ave
+1 OCCU
+2 DATE 1920
+2 PLAC New York City, New York
+2 NOTE Liquor dealer at a liquor store
+1 RESI
+2 DATE 1920
+2 PLAC Manhattan Assembly District 12, New York, New York
+2 NOTE 300 E 44th Street, Manhattan
+1 OCCU
+2 DATE 1925
+2 PLAC New York City, New York
+2 NOTE Engineer
+1 RESI
+2 DATE 1 JUN 1925
+2 PLAC New York City, New York
+2 NOTE 319 E 41st Street, Manhattan
+1 RESI
+2 DATE 1930
+2 PLAC Queens, New York City, New York
+2 NOTE 3967 59th St Queens, NYC, NY
+1 OCCU
+2 DATE 1930
+2 PLAC Queens, New York City, New York
+2 NOTE Engineer, Laundry Industry
+1 RESI
+2 DATE 1933
+2 PLAC Queens, New York City, New York
+2 NOTE 37-49 59th St, Woodside
+1 DEAT
+2 DATE 21 JUN 1933
+2 PLAC St John's Hospital, Long Island City, New York
+1 BURI
+2 DATE 24 JUN 1933
+2 PLAC St John's Cemetery, Long Island City, New York
+2 NOTE Section 34, Row D
+1 NOTE @N1545@
+1 FAMS @F272@
+1 CHAN
+2 DATE 23 FEB 2024
+0 @I2521@ INDI
+1 _UID 0D2669FA52D04E2CB5B99C939A846644971C
+1 NAME Alice Marie /Powers/
+1 SEX F
+1 BIRT
+2 DATE 22 FEB 1925
+2 PLAC Port Washington, Nassau County, New York
+1 BAPM
+2 DATE 1 MAR 1925
+2 PLAC Port Washington, Nassau, New York, United States of America
+2 NOTE St Peter of Alcantara
+1 RESI
+2 DATE 1 JUN 1925
+2 PLAC Bronx, New York City, New York, USA
+1 RESI
+2 DATE MAR 1927
+2 PLAC Port Washington, Nassau, New York, United States of America
+2 NOTE 135 Main St
+1 RESI
+2 DATE 1930
+2 PLAC North Hempstead, Nassau, New York
+1 RESI
+2 DATE 1930
+2 PLAC North Hempstead, Nassau, New York
+1 RESI
+2 DATE 1935
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE 16 Herbert Avenue
+1 RESI
+2 DATE 1940
+2 PLAC North Hempstead, Nassau, New York
+1 RESI
+2 DATE 31 JUL 1946
+2 PLAC Port Washington, Nassau, New York
+2 NOTE 56 Willowdale Ave
+1 RESI
+2 DATE 1950
+2 PLAC Port Washington, Nassau County, New York
+1 RESI
+2 DATE 1976
+2 PLAC Lake Charles, Calcasieu Parrish, Lousiana
+2 NOTE 216 Orchard Drive
+1 DEAT
+2 DATE 31 DEC 2016
+2 PLAC Metairie, Jefferson, Louisiana, USA
+1 BURI
+2 DATE 6 JAN 2017
+2 PLAC Lake Charles, Calcasieu, Louisiana, United States of America
+1 NOTE @N1546@
+1 FAMC @F614@
+1 CHAN
+2 DATE 12 SEP 2022
+0 @I2523@ INDI
+1 _UID FF944E1785234D1F8C9FF0A7B7B704135399
+1 NAME Elizabeth /Powers/
+1 SEX F
+1 BURI
+2 DATE FEB 1924
+2 PLAC Port Washington, Nassau, New York, United States of America
+2 NOTE Nassau Knolls Cemetery
+1 BIRT
+2 DATE 19 FEB 1924
+2 PLAC Port Washington, Nassau, New York, United States of America
+1 DEAT
+2 DATE 19 FEB 1924
+2 PLAC Port Washington, Nassau, New York, United States of America
+2 NOTE Still- born
+1 FAMC @F614@
+1 CHAN
+2 DATE 4 SEP 2015
+0 @I2528@ INDI
+1 _UID BF37B6E69CD24F1187E62AC3AFBC58118ECE
+1 NAME Frances Therese /Powers/
+1 SEX F
+1 CHR
+2 DATE 1927
+2 PLAC Port Washington, New York
+2 NOTE St Peter Alcantara Church
+1 RESI
+2 DATE MAR 1927
+2 PLAC Port Washington, New York
+2 NOTE 135 Main St
+1 BIRT
+2 DATE 11 MAR 1927
+2 PLAC Port Washington, New York
+1 BAPM
+2 DATE 20 MAR 1927
+2 PLAC St. Peter of Alcantara Church in Port Washington, New York
+1 RESI
+2 DATE 1930
+2 PLAC North Hempstead, New York
+2 NOTE 15 Middle Neck Road
+1 RESI
+2 DATE 1935
+2 PLAC North Hempstead, New York
+2 NOTE 16 Herbert Avenue
+1 RESI
+2 DATE 1940
+2 PLAC North Hempstead, New York
+2 NOTE 16 Herbert Avenue
+1 RESI
+2 DATE 1941
+2 PLAC Port Washington, New York
+2 NOTE 56 Willowdale Avenue
+1 RESI
+2 DATE 1942
+2 PLAC Port Washington, Nassau, New York
+2 NOTE 56 Willowdale Ave
+1 EMPL
+2 DATE 1944
+2 PLAC New York City, New York
+2 NOTE Dun and Bradstreet, 99 Church St
+1 EMPL
+2 DATE 1945
+2 PLAC New York City, New York
+2 NOTE New York Board of Fire Underwriters, 85 John St
+1 GRAD
+2 DATE ABT 1945
+2 PLAC Port Washington High School in Port Washington, New York
+1 EDUC
+2 DATE 1946
+2 PLAC New York City, New York
+2 NOTE Drake Business School
+1 RESI
+2 DATE 31 JUL 1946
+2 PLAC Port Washington, Nassau, New York
+2 NOTE 56 Willowdale Ave
+1 EMPL
+2 DATE 1948
+2 PLAC Port Washington, New York
+2 NOTE Special Devices Center, US Navy
+1 RESI
+2 DATE 1951
+2 PLAC Port Washington, New York
+2 NOTE 16 Monroe St
+1 EMPL
+2 DATE 1952
+2 PLAC Port Washington, New York
+2 NOTE Special Devices Center, US Navy
+1 RESI
+2 DATE 1953
+2 PLAC Port Washington, New York
+2 NOTE 36 Hickory Road
+1 OCCU
+2 DATE 1954
+2 PLAC Sands Point, Port Washington, New York
+2 NOTE U.S. Navy
+1 RESI
+2 DATE 1955
+2 PLAC Port Washington, New York
+2 NOTE 11 Irma Ave
+1 OCCU
+2 DATE SEP 1958
+2 PLAC Washington D.C.
+2 NOTE ARPA Advanced Research Project Agency, Pentagon
+1 OCCU
+2 DATE ABT 1960
+2 PLAC Washington, DC
+2 NOTE Institute for Defense Analyses
+1 RESI
+2 DATE FEB 1960
+2 PLAC Silver Springs, Maryland
+2 NOTE 8910 Piney Branch Road
+1 RESI
+2 DATE 1961
+2 PLAC Orange County, California
+1 RESI
+2 DATE 1966
+2 PLAC Whitemarsh, Pennsylvania
+2 NOTE 7129 Camp Hill Rd
+1 RESI
+2 DATE 1970
+2 PLAC Wyncote, Pennsylvania
+2 NOTE 305 Maple Ave
+1 RESI
+2 DATE 1975
+2 PLAC Plymouth, Massachusetts
+2 NOTE 48 Union St
+1 RESI
+2 DATE 1986
+2 PLAC West Roxbury, Boston, Massachusetts
+2 NOTE 9 Whittemore St
+1 DEAT
+2 DATE 20 APR 1990
+2 PLAC West Roxbury, Boston, Massachusetts
+1 BURI
+2 DATE 24 APR 1990
+2 PLAC West Roxbury, Boston, Massachusetts
+2 NOTE Mt Benedict Cemetery, Corey St
+1 SSN 112-20-5595
+1 NOTE @N1547@
+1 NOTE @N1947@
+1 FAMC @F614@
+1 FAMS @F643@
+1 CHAN
+2 DATE 30 DEC 2022
+0 @I2529@ INDI
+1 _UID 205F938B80FE4F6FADCCE9C6BD870F8DE115
+1 NAME James Robert /Powers/
+1 SEX M
+1 BIRT
+2 DATE 31 JUL 1928
+2 PLAC Port Washington, New York
+2 NOTE 8 Maryland Avenue
+1 RESI
+2 DATE 1930
+2 PLAC North Hempstead, Nassau, New York
+1 RESI
+2 DATE 1935
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE 16 Herbert Avenue
+1 RESI
+2 DATE 1940
+2 PLAC North Hempstead, Nassau, New York
+1 OCCU
+2 DATE BET OCT 1944 AND JUL 1945
+2 PLAC US Merchant Marine
+2 NOTE Hospital ship Larkspur
+1 RESI
+2 DATE 31 JUL 1946
+2 PLAC Port Washington, Nassau, New York
+2 NOTE 56 Willowdale Ave
+1 OCCU
+2 DATE 31 JUL 1946
+2 PLAC New York, New York
+2 NOTE mployer Warsaw & Co, 40 East 34th St New York, New York
+1 EVEN
+2 TYPE Military
+2 DATE BET 1948 AND 1952
+2 PLAC 14 months was served in Korea where he was wounded
+2 NOTE United States Marine Corps
+1 MILT
+2 DATE 1950
+2 PLAC Korea
+2 NOTE United States Marine Corps, discharged 8 Feb 1952
+1 OCCU
+2 DATE 1958
+2 PLAC Cooper Hall, Southampton, New York
+2 NOTE Commercial Pilot
+1 RESI
+2 DATE 1958
+2 PLAC Cooper Hall, Southampton, New York
+1 OCCU
+2 DATE BET 1965 AND 1995
+2 PLAC Long Island, New York
+2 NOTE Police Detective
+1 RESI
+2 DATE 1974
+2 PLAC Huntington, New York
+2 NOTE 22 South Lane 11743
+1 _DEG
+2 DATE MAY 1976
+2 PLAC State University of New York
+2 NOTE BS in Criminal Justice
+1 RESI
+2 DATE BET 1995 AND 2007
+2 PLAC Melbourne, Brevard, Florida, USA
+2 NOTE 1225 Ambra Drive
+1 DEAT
+2 DATE 29 MAY 2007
+2 PLAC Melbourne, Brevard, Florida, United States of America
+1 NOTE @N1548@
+1 FAMC @F614@
+1 CHAN
+2 DATE 16 AUG 2020
+0 @I2539@ INDI
+1 _UID 14E5EEEEB51E41D68C9B832263554748D255
+1 NAME Walter Leo /Powers/
+1 SEX M
+1 RESI
+2 DATE 1900
+2 PLAC New York City, New York, New York
+1 BIRT
+2 DATE 27 JAN 1900
+2 PLAC New York City, New York
+2 NOTE 713 2nd Ave
+1 RESI
+2 DATE 1905
+2 PLAC Manhattan, New York, New York
+1 RESI
+2 DATE 1910
+2 PLAC Manhattan Ward 21, New York, New York
+1 RESI
+2 DATE 1918
+2 PLAC Manhattan, New York, New York
+2 NOTE 300 E 44th St
+1 MILT
+2 DATE 9 MAR 1918
+2 PLAC New York City, NY
+2 NOTE Enlisted United States Navy
+1 MILT
+2 DATE 11 NOV 1918
+2 PLAC New York City, NY
+2 NOTE Exited United States Navy, Seaman
+1 OCCU
+2 DATE 1920
+2 PLAC New York City, New York
+2 NOTE Art student at an art studio
+1 RESI
+2 DATE 1920
+2 PLAC Manhattan Assembly District 12, New York, New York
+1 RESI
+2 DATE 15 OCT 1921
+2 PLAC New York City, New York
+2 NOTE 822 Second Ave
+1 OCCU
+2 DATE 1 JUN 1925
+2 PLAC Bronx, New York City, New York, USA
+2 NOTE Shipping Clerk
+1 RESI
+2 DATE 1 JUN 1925
+2 PLAC Bronx, New York City, New York, USA
+1 RESI
+2 DATE MAR 1927
+2 PLAC Port Washington, Nassau County, New York
+2 NOTE 135 Main St
+1 OCCU
+2 DATE 20 SEP 1928
+2 PLAC Port Washington, Nassau County, New York
+2 NOTE Police Officer-Started as a sergeant
+1 RESI
+2 DATE 1930
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE 15 Middle Neck Road
+1 OCCU
+2 DATE 1930
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE Sergeant, Police Force
+1 RESI
+2 DATE 1931
+2 PLAC Port Washington, Nassau, New York, United States of America
+2 NOTE 26 Park Avenue
+1 RESI
+2 DATE 1935
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE 16 Herbert Avenue
+1 OCCU
+2 DATE 1940
+2 PLAC Port Washington, Nassau, New York, United States of America
+2 NOTE Police Sergeant, Power Washington Police Department
+1 RESI
+2 DATE 1940
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE 16 Herbert Avenue
+1 RESI
+2 DATE 1942
+2 PLAC Port Washington, Nassau, New York
+2 NOTE 56 Willowdale Ave
+1 RESI
+2 DATE 31 JUL 1946
+2 PLAC Port Washington, Nassau, New York
+2 NOTE 56 Willowdale Ave
+1 RESI
+2 DATE 1950
+2 PLAC Port Washington, Nassau County, New York
+1 RETI
+2 DATE 1958
+2 PLAC Port Washington, Nassau County, New York
+2 NOTE Police Officer-retired as a Lieutenant
+1 RESI
+2 DATE 1959
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE 16 Herbert Avenue
+1 RESI
+2 DATE 29 OCT 1960
+2 PLAC Fords, Middlesex County, New Jersey
+2 NOTE 39 Arlington Drive
+1 DEAT
+2 DATE 25 DEC 1960
+2 PLAC Newark, New Jersey
+2 NOTE VA Hospital
+1 BURI
+2 DATE 29 DEC 1960
+2 PLAC Port Washington, NY
+2 NOTE Nassau Knolls Cemetery
+1 NOTE @N1550@
+1 FAMC @F272@
+1 FAMS @F614@
+1 CHAN
+2 DATE 30 DEC 2022
+0 @I2540@ INDI
+1 _UID 8B3EAF4A0E8C4F7FBEED07BA843A1AE351EB
+1 NAME Walter Leo /Powers/
+2 NSFX  Jr.
+1 SEX M
+1 BAPM
+2 DATE 1930
+2 PLAC St. Peter of Alcantara Church in Port Washington, New York
+1 BIRT
+2 DATE 13 JUL 1930
+2 PLAC Minneola, Nassau, New York
+1 RESI
+2 DATE 1935
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE 16 Herbert Avenue
+1 RESI
+2 DATE 1940
+2 PLAC North Hempstead, Nassau, New York
+2 NOTE 16 Herbert Avenue
+1 RESI
+2 DATE 31 JUL 1946
+2 PLAC Port Washington, Nassau, New York
+2 NOTE 56 Willowdale Ave
+1 MILT
+2 DATE 1949
+2 NOTE US Marine Corps Reserve 1949 - 1953
+1 EVEN
+2 TYPE Military
+2 DATE BET 1949 AND 1953
+2 NOTE United States Marine Corps Reserve
+1 RESI
+2 DATE 1950
+2 PLAC Port Washington, Nassau County, New York
+1 MILT
+2 DATE 1953
+2 NOTE US Army Medical Corps 1953-1955
+1 EVEN
+2 TYPE Military
+2 DATE BET 1953 AND 1955
+2 NOTE United States Army Medical Corps
+1 EDUC
+2 DATE 14 JUN 1953
+2 PLAC St. John's University, New York City, New York
+2 NOTE BA
+1 EDUC
+2 DATE 1958
+2 PLAC Hofstra University, New York
+2 NOTE MS
+1 MILT
+2 DATE 1961
+2 PLAC Indiana
+2 NOTE Captain, Indiana National Guard, 1961-1969
+1 EVEN
+2 TYPE Military
+2 DATE BET 1961 AND 1969
+2 NOTE Indiana National Guard
+1 EDUC
+2 DATE 1967
+2 PLAC Butler University, Indiana
+2 NOTE Ed. S
+1 EDUC
+2 DATE 1973
+2 PLAC Walden University, Florida
+2 NOTE Ph. D.
+1 RESI
+2 DATE BET 1990 AND 2006
+2 PLAC Derby, Sedgwick, Kansas, USA
+2 NOTE 2006 Rosewood Ct
+1 DEAT
+2 DATE 12 AUG 2006
+2 PLAC Derby, Sedgwick, Kansas
+1 NOTE @N1551@
+1 FAMC @F614@
+1 CHAN
+2 DATE 12 SEP 2022
+0 @I2570@ INDI
+1 _UID 35D1269D4DBF49FF9D891260F11E94A3FB1A
+1 NAME Elizabeth /Reusch/
+1 SEX F
+1 FAMS @F657@
+0 @I2577@ INDI
+1 _UID 070E2F0CACBB42ADA650D144997A43939AB7
+1 NAME Christopher Peter /Riordan/
+1 SEX M
+1 BIRT
+2 DATE 9 JUN 1955
+2 PLAC Thurles, Ireland
+1 FAMC @F305@
+1 FAMS @F2195@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I2578@ INDI
+1 _UID 270C8A70225E4F0CB36BDA87F5ADBD472D64
+1 NAME Daniel Edward /Riordan/
+1 SEX M
+1 BIRT
+2 DATE 13 OCT 1961
+2 PLAC Denville, New Jersey
+2 NOTE St Clare’s Hospital
+1 FAMC @F305@
+1 FAMS @F668@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I2580@ INDI
+1 _UID EE4C548D923147B3B40362190A8D75788EC8
+1 NAME John Patrick /Riordan/
+1 SEX M
+1 BIRT
+2 DATE 22 JAN 1951
+2 PLAC Boston, Massachusetts
+2 NOTE Lying-In Hospital (U of Chicago hospital according to Dan Riordan)
+1 FAMC @F305@
+1 FAMS @F637@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I2581@ INDI
+1 _UID 479E6B1399214B5688A6D2EBF749003B244D
+1 NAME Liam Joseph /Riordan/
+1 SEX M
+1 BIRT
+2 DATE 9 APR 1960
+2 PLAC Denville, New Jersey
+2 NOTE St Clare’s Hospital
+1 FAMC @F305@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I2582@ INDI
+1 _UID 07B6D766F6B94E4E9E41D96BD19CA9DF5D7C
+1 NAME Margaret “Maggi” /Riordan/
+1 SEX F
+1 BIRT
+2 DATE 11 APR 1970
+2 PLAC Denville, New Jersey
+2 NOTE St Clare’s Hospital
+1 RESI
+2 DATE JAN 2010
+2 PLAC Atlantic Highlands, New Jersey
+2 NOTE 301B Hillside Ave 07716
+1 OCCU
+2 DATE JAN 2010
+2 PLAC Unitarian Universalist Congration of Monmouth County
+2 NOTE Administrator
+1 FAMC @F305@
+1 FAMS @F2197@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I2583@ INDI
+1 _UID 4FB89A924C2D4D75833258AFF650517A3B01
+1 NAME Patrick James /Riordan/
+1 SEX M
+1 BIRT
+2 DATE 27 FEB 1965
+2 PLAC Denville, New Jersey
+2 NOTE St Clare’s Hospital
+1 FAMC @F305@
+1 FAMS @F2198@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I2584@ INDI
+1 _UID DD37B1D393F84A6FA5E8B8753466B36D50B3
+1 NAME William Joseph “Bill” /Riordan/
+1 SEX M
+1 BIRT
+2 DATE 26 JUL 1925
+2 PLAC Chicago, IL
+1 DEAT
+2 DATE 10 JUL 2011
+2 PLAC Red Bank, New Jersey
+2 NOTE Riverview Medical Center
+1 BURI
+2 DATE 22 JUL 2011
+2 PLAC Holmdel, New Jersey
+2 NOTE Holmdel Cemetery Mausoleum
+1 RELI Roman Catholic
+1 FAMC @F1344@
+1 FAMS @F305@
+1 CHAN
+2 DATE 23 DEC 2020
+0 @I2586@ INDI
+1 _UID CB7794F9B78F45A298EF0D40986AB938C3A2
+1 NAME Mary /Riotte/
+1 SEX F
+1 BIRT
+2 DATE 23 NOV 1963
+1 FAMS @F660@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I2617@ INDI
+1 _UID FE31150192204782A82761BBF9AA38AD33BF
+1 NAME Elise Anna /Ross/
+1 SEX F
+1 FAMC @F41@
+1 FAMS @F667@
+0 @I2618@ INDI
+1 _UID DDEB8FFE4D2B4F64B0F3777E7D63BF984FF4
+1 NAME J /Ross/
+1 SEX M
+1 FAMS @F41@
+0 @I2619@ INDI
+1 _UID 19F3F52C8A774693B3C52BAB65E4DC29A360
+1 NAME Lynn Michelle /Ross/
+1 SEX F
+1 FAMC @F2582@
+1 FAMS @F668@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I2638@ INDI
+1 _UID 201EF5704A7B4F26830FE675C130F21ECBC9
+1 NAME Benjamin James /Ryley/
+1 SEX M
+1 BIRT
+2 DATE 15 JUN 1979
+1 DEAT
+2 DATE 16 JUL 1994
+1 FAMC @F310@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I2639@ INDI
+1 _UID E7C46226B4734283A38D0DC0963B11272519
+1 NAME Daniel Patrick /Ryley/
+1 SEX M
+1 BIRT
+2 DATE 6 APR 1985
+1 FAMC @F310@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I2640@ INDI
+1 _UID 7439103C2EFC419B8A67C525FBF6964BAC39
+1 NAME Robert Michael /Ryley/
+1 SEX M
+1 BIRT
+2 DATE 7 MAR 1947
+2 PLAC Boston, Massachusetts
+1 OCCU
+2 DATE 2010
+2 NOTE Building contractor
+1 FAMS @F310@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I2641@ INDI
+1 _UID EA04BAA6ABC147B3BBDDD755B276589D95E3
+1 NAME Rose Elizabeth /Ryley/
+1 SEX F
+1 BIRT
+2 DATE 28 APR 1981
+1 RESI
+2 DATE 2010
+2 PLAC Marthas Vineyard, Massachusetts
+1 FAMC @F310@
+1 FAMS @F2227@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I2811@ INDI
+1 _UID 5E8B6D97E49746658BFF64414DF000A928B7
+1 NAME Patrick “Foxy Paddy” /Spillane/
+1 SEX M
+1 BIRT
+2 DATE 22 MAY 1856
+2 PLAC Derrygrenaugh East, Bantry, Cork, Ireland
+1 RESI
+2 DATE 1901
+2 PLAC Derrygrenaugh West, Bantry, Cork, Ireland
+1 OCCU
+2 DATE 1901
+2 PLAC Derrygrenaugh West, Bantry, Cork, Ireland
+2 NOTE Farmer
+1 RESI
+2 DATE 1911
+2 PLAC Derrygrenaugh West, Bantry, Cork, Ireland
+1 DEAT
+2 DATE 30 JUN 1924
+2 PLAC Bantry, Cork, Ireland
+1 BURI
+2 PLAC Abbey Cemetery, Bantry, Cork, Ireland
+1 NOTE @N1566@
+1 FAMS @F713@
+1 CHAN
+2 DATE 25 DEC 2020
+0 @I2813@ INDI
+1 _UID EA6F72844E864DFEA0FF959DB3CBAACA313E
+1 NAME Mary “Mary Paddy” “Gabbie” /Spillane/
+1 SEX F
+1 BIRT
+2 DATE BEF 11 JUN 1865
+2 PLAC Bantry, Cork, Ireland
+1 BAPM
+2 DATE 11 JUN 1865
+2 PLAC Bantry, Cork, Ireland
+1 RESI
+2 DATE 1901
+2 PLAC Derrygrenaugh West, Bantry, Cork, Ireland
+1 RESI
+2 DATE 1911
+2 PLAC Derrygrenaugh West, Bantry, Cork, Ireland
+1 DEAT
+2 DATE 2 AUG 1947
+2 PLAC Bantry, Cork, Ireland
+1 BURI
+2 DATE 6 AUG 1947
+2 PLAC Bantry, Cork, Ireland
+2 NOTE Abbey Cemetery
+1 NOTE @N1567@
+1 FAMS @F713@
+1 CHAN
+2 DATE 20 JUN 2023
+0 @I2914@ INDI
+1 _UID 02DF84F2E98D4BEAB4FB43AEEE47595585DF
+1 NAME Mary Frances /Spillane/
+1 SEX F
+1 BIRT
+2 DATE 12 JUN 1895
+2 PLAC Bantry, Cork, Ireland
+1 BAPM
+2 DATE 13 JUN 1895
+2 PLAC Bantry, Cork, Ireland
+1 RESI
+2 DATE 1901
+2 PLAC Derrygrenaugh West, Bantry, Cork, Ireland
+1 RESI
+2 DATE 1911
+2 PLAC Derrygrenaugh West, Bantry, Cork, Ireland
+1 EVEN
+2 TYPE Departure
+2 DATE 18 MAY 1927
+2 PLAC Cobh and Queenstown, Ireland
+1 EVEN
+2 TYPE Arrival
+2 DATE 23 MAY 1927
+2 PLAC Boston, Massachusetts
+2 NOTE Arrived on the RMS Republic
+1 RESI
+2 DATE 1930
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 10 Levant Street
+1 RESI
+2 DATE 1935
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 293 Harvard Avenue
+1 RESI
+2 DATE 1936
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 225 Bowdoin Street
+1 RESI
+2 DATE JAN 1937
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 10 Harvard Avenue
+1 NATU
+2 DATE 29 JUN 1939
+2 PLAC Boston, Massachusetts
+2 NOTE Application Date
+1 RESI
+2 DATE 1940
+2 PLAC Dorchester, Boston, Massachusetts
+2 NOTE 10 Harvard Avenue
+1 RESI
+2 DATE AUG 1943
+2 PLAC West Roxbury, Boston, Massachusetts
+2 NOTE 9 Whittemore St
+1 DEAT
+2 DATE 15 AUG 1982
+2 PLAC Westwood, MA
+2 NOTE died of cancer
+1 BURI
+2 DATE 19 AUG 1982
+2 PLAC West Roxbury, Boston, Massachusetts
+2 NOTE Mt Benedict Cemetery, Corey St
+1 SSN 018-28-4801
+1 NOTE @N1576@
+1 FAMC @F713@
+1 FAMS @F738@
+1 CHAN
+2 DATE 22 DEC 2020
+0 @I3019@ INDI
+1 _UID 3FECC7705E1A4D1B944790E9B9DFFAD7FF9B
+1 NAME Annik /Stuckey/
+1 SEX F
+1 FAMS @F760@
+0 @I3263@ INDI
+1 _UID 9641B9EDCD034C6C92DBB13A5428AF24ACF6
+1 NAME Caitlyn Ohia-Lehua /Waller/
+1 SEX F
+1 BIRT
+2 DATE 3 SEP 1977
+2 PLAC Ahualoa, Hawaii
+1 RESI
+2 DATE 2010
+2 PLAC San Francisco, California
+1 FAMC @F295@
+1 FAMS @F2489@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I3264@ INDI
+1 _UID 73BCA5E88443485C81165F8C3A65E979AA19
+1 NAME Richard /Waller/
+1 SEX M
+1 BIRT
+2 DATE 28 AUG 1946
+2 PLAC Baltimore, Maryland
+1 FAMS @F295@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I3265@ INDI
+1 _UID AA89A90575D54A70BCCEDB0ED5991F6F5453
+1 NAME Sylvan Matthew /Waller/
+1 SEX M
+1 BIRT
+2 DATE 14 AUG 1971
+2 PLAC Bellingham, Washington
+1 OCCU
+2 DATE 2010
+2 PLAC Atlanta, GA
+2 NOTE Medical doctor
+1 RESI
+2 DATE JAN 2010
+2 PLAC Atlanta, Georgia
+1 FAMC @F295@
+1 FAMS @F2490@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I3306@ INDI
+1 _UID 28C8170252A2411796A53CEF9A86D709BBB2
+1 NAME Esperanza Ibarrae /Washington/
+1 SEX F
+1 FAMS @F852@
+0 @I3356@ INDI
+1 _UID 56075A045CC64BB18B8135AEB1A5E61115F5
+1 NAME Amélie Claire /McGill/
+1 SEX F
+1 BIRT
+2 DATE 30 OCT 2009
+2 PLAC Nashua, NH
+2 NOTE Dear All,--It is with great joy and pleasure that we announce the birth of our baby girl, Amélie Claire McGill, born o
+3 CONC n October 30th, 2009 at 6:14pm in Nashua-NH, weighing 7 lbs, 19 1/4 " long. She arrived one week early.-Mom and baby ar
+3 CONC e doing great and Dad is in heaven.--Pictures and the official announcement will follow soon in the mail.--With love,--
+3 CONC Chris, Annik & Amélie
+1 FAMC @F760@
+1 CHAN
+2 DATE 4 NOV 2009
+0 @I3371@ INDI
+1 _UID 20AC79A039ED4D0F89BCAF2EEAD6110963F7
+1 NAME Lia Ann /Robillard/
+1 SEX F
+1 BIRT
+2 DATE 7 NOV 2009
+2 PLAC Plymouth, MA
+1 FAMC @F1151@
+1 CHAN
+2 DATE 3 JAN 2010
+0 @I3372@ INDI
+1 _UID 22FD58BB42624FD98413C563D43F33999C85
+1 NAME Vanessa /Robillard/
+1 SEX F
+1 BIRT
+2 DATE ABT 1991
+2 NOTE date est by QF
+1 FAMS @F1151@
+1 CHAN
+2 DATE 29 JUL 2014
+0 @I3402@ INDI
+1 _UID 9511C956DF214676834D42B9D64E2DEC8950
+1 NAME Maura /McManimon/
+1 SEX F
+1 BIRT
+2 DATE 10 JUL 1970
+2 PLAC year is uncertain
+1 FAMS @F1384@
+1 CHAN
+2 DATE 10 JUL 2015
+0 @I3430@ INDI
+1 _UID D63237ED9920473CB24C57FE34AF2FC8956E
+1 NAME Joseph /Bousa/
+2 NSFX III
+1 SEX M
+1 EDUC
+2 DATE 1980
+2 PLAC Williams College
+1 EDUC
+2 DATE 1984
+2 PLAC Harvard Business School
+1 OCCU
+2 DATE 2010
+2 PLAC Wellington Management, Boston, Massachusetts
+2 NOTE Portfolio Manager
+1 RESI
+2 PLAC Simsbury, Connecticut
+1 RESI
+2 PLAC Westwood, Massachusetts
+1 RESI
+2 PLAC Upper Saddle River, New Jersey
+1 FAMS @F2573@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I3431@ INDI
+1 _UID 21ABEA24B3E34B9D99BE4716AEE6D8047C7D
+1 NAME Jean /Meckensturm/
+1 SEX F
+1 FAMS @F2573@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I3432@ INDI
+1 _UID 6C6C2B80CF3545C1BDDA2C287A0E1E345294
+1 NAME John Joseph /Bousa/
+1 SEX M
+1 BIRT
+2 DATE SEP 1961
+1 FAMC @F2573@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I3433@ INDI
+1 _UID DE7771360B774020831438A06547F3907CF9
+1 NAME Bridget Fennessy /Bousa/
+1 SEX F
+1 BIRT
+2 DATE 17 APR 1995
+2 PLAC Newton, Massachusetts
+1 FAMC @F311@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I3434@ INDI
+1 _UID 3EA2FC2FB16E4A77A12EF98A8CA1B2839F6E
+1 NAME Monica Jean /Bousa/
+1 SEX F
+1 BIRT
+2 DATE 6 FEB 1997
+2 PLAC Newton, Massachusetts
+1 FAMC @F311@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I3435@ INDI
+1 _UID 9BE9701B4E6C4AD4A363D1515FCB8E26EDE1
+1 NAME Louise /Baker/
+1 SEX F
+1 BIRT
+2 DATE 1890
+2 PLAC Utica, New York
+1 EDUC
+2 DATE ABT 1908
+2 PLAC Oswego, New York
+2 NOTE Oswego Normal School, teachers college, now Oswego State
+1 RESI
+2 DATE 1920
+2 PLAC Cliffside Park, Bergen, New Jersey
+1 RESI
+2 DATE 1930
+2 PLAC Fort Lee, Bergen, New Jersey
+1 DEAT
+2 DATE 1946
+2 NOTE died of cancer
+1 FAMS @F7@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I3436@ INDI
+1 _UID C5A2B438D3814C51AC9A3DE96CDDF2E7D261
+1 NAME Jim /Kenney/
+1 SEX M
+1 BIRT
+2 DATE 3 JUN 1956
+1 FAMS @F1403@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @I3437@ INDI
+1 _UID 25C89E97FBDA4A95962692EA4C3AADD3145D
+1 NAME Riley Joseph /Fennessy/
+1 SEX M
+1 BIRT
+2 DATE 22 NOV 2000
+1 FAMC @F660@
+1 CHAN
+2 DATE 19 JAN 2010
+0 @I3438@ INDI
+1 _UID F35F488236C74A8C95CC2F521B02BD5C0768
+1 NAME Erin Grace /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 2 JAN 1998
+1 FAMC @F660@
+1 CHAN
+2 DATE 19 JAN 2010
+0 @I3439@ INDI
+1 _UID FFBC6B547DA742DAA952EEE2358C5357F052
+1 NAME Page /Murphy/
+1 SEX F
+1 BIRT
+2 DATE 5 FEB 1969
+1 OCCU
+2 DATE 2010
+2 NOTE School teacher
+1 FAMS @F1065@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I3440@ INDI
+1 _UID 26E552CF14CE4BF7B74C6CED625E68E7BB7F
+1 NAME Cody /Brown/
+1 SEX M
+1 BIRT
+2 DATE 19 MAY 1995
+1 FAMC @F1065@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I3441@ INDI
+1 _UID 3D47684FED274C929F2F82C9F8B5CBB27010
+1 NAME Christopher /Brown/
+1 SEX M
+1 BIRT
+2 DATE 27 DEC 1996
+1 FAMC @F1065@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I3442@ INDI
+1 _UID 769FC1AE12F94193AD77ABA7A771CD0BC9D7
+1 NAME Conner /Brown/
+1 SEX M
+1 BIRT
+2 DATE 6 FEB 2006
+1 FAMC @F1065@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I3443@ INDI
+1 _UID 42C82BFB9976461F8EE3E4212350E264D348
+1 NAME Thomas /Ross/
+1 SEX M
+1 FAMS @F2582@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I3444@ INDI
+1 _UID 236917FDD0BB469E90D7733A2141CB89D920
+1 NAME Marlene /Socko/
+1 SEX F
+1 FAMS @F2582@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I3445@ INDI
+1 _UID FA9A5077CB2040A48E7BEF91E80FB7DA3B8A
+1 NAME Samantha Rose /Riordan/
+1 SEX F
+1 BIRT
+2 DATE 13 JUN 1994
+2 PLAC Harrisburg, Pennsylvania
+2 NOTE Harrisburg Hospital
+1 FAMC @F668@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I3446@ INDI
+1 _UID 5CA8F921C5BE46F9BD21B889A7558EF47D3D
+1 NAME Ross Joseph /Riordan/
+1 SEX M
+1 BIRT
+2 DATE 2 MAY 1996
+2 PLAC Harrisburg, Pennsylvania
+2 NOTE Harrisburg Hospital
+1 DEAT
+2 DATE 25 NOV 2014
+2 PLAC Red Bank, New Jersey
+1 FAMC @F668@
+1 CHAN
+2 DATE 29 NOV 2014
+0 @I3447@ INDI
+1 _UID B34C8006EA144D96BAD9D3359E1D98469A0D
+1 NAME Isabel Marie /Riordan/
+1 SEX F
+1 BIRT
+2 DATE 3 JUL 1998
+2 PLAC Red Bank, New Jersey
+2 NOTE Riverview Medical Center
+1 FAMC @F668@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I3448@ INDI
+1 _UID 38116B908142444594439EE0071CEC6458D5
+1 NAME Ava Celeste /Riordan/
+1 SEX F
+1 BIRT
+2 DATE 21 MAY 2001
+2 PLAC Long Branch, New Jersey
+2 NOTE Monmouth Medical Center
+1 FAMC @F668@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I3449@ INDI
+1 _UID B8670227889842A890759D2E0DB7CF8B40CD
+1 NAME Grace A. /Rehm/
+1 SEX F
+1 FAMS @F2198@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I3450@ INDI
+1 _UID 9B007593C29444ED8A98463140F8B6A65709
+1 NAME Emma Mary /Benesch/
+1 SEX F
+1 BIRT
+2 DATE 25 NOV 1999
+2 PLAC Ridgewood, New Jersey
+1 FAMC @F2197@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I3451@ INDI
+1 _UID BE3F4F37546D4C60836658BBC058E1816689
+1 NAME Martin Joseph /Simon/
+1 SEX M
+1 FAMS @F2588@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I3452@ INDI
+1 _UID 95AAA7F5624A4E969D8B75A5FCBC1ECA4DC7
+1 NAME Irene /Conte/
+1 SEX F
+1 FAMS @F2588@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I3453@ INDI
+1 _UID 9BA2D144551F4AC09F6EDB790846DE90EDBC
+1 NAME Emma Jean /Spears/
+1 SEX F
+1 BIRT
+2 DATE 1925
+2 PLAC Richmond, Virginia
+1 FAMS @F379@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @I3454@ INDI
+1 _UID B7AE1DF8EEEE402DA6886FA06B4A8780BC01
+1 NAME Rodolfo E.C. /Amoresano/
+1 SEX M
+1 BIRT
+2 DATE 20 JAN 1956
+2 PLAC Buenos Aires, Argentina
+1 FAMS @F1144@
+1 CHAN
+2 DATE 21 JAN 2010
+0 @I3455@ INDI
+1 _UID 04433489AFD843A0864ECAD3E5F67E316984
+1 NAME Katherine Maureen /Amoresano/
+1 SEX F
+1 BIRT
+2 DATE 21 AUG 1999
+2 PLAC New York, New York
+1 FAMC @F1144@
+1 CHAN
+2 DATE 21 JAN 2010
+0 @I3495@ INDI
+1 _UID D7DC1233E82F4429A0A8522EDCF96E2EB5B4
+1 NAME Grace O’Byrne /Fennessy/
+1 SEX F
+1 BIRT
+2 DATE 3 NOV 1993
+2 PLAC Manchester, Massachusetts
+2 NOTE 32 Lincoln St
+1 FAMC @F304@
+1 FAMS @F2623@
+1 CHAN
+2 DATE 20 MAR 2010
+0 @I3505@ INDI
+1 _UID B4B5A45B89A84D999A1AB5A4BD310EF17905
+1 NAME Thomas Joseph /Cavanaugh Choy/
+1 SEX M
+1 BIRT
+2 DATE 21 MAY 1998
+2 PLAC Seoul, Korea
+1 FAMC @F187@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @I3506@ INDI
+1 _UID 338D98F04B8245E98BC1FC656B94476EA4D4
+1 NAME Andrew James /Cavanaugh Choy/
+1 SEX M
+1 BIRT
+2 DATE 30 DEC 2000
+2 PLAC Seoul, Korea
+1 FAMC @F187@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @I3507@ INDI
+1 _UID 3556F5B3B6C14E0C8E340DF39F9B17ADC433
+1 NAME Kathleen “Katy” Ilona /Cavanaugh Choy/
+1 SEX F
+1 BIRT
+2 DATE 30 MAR 2004
+2 PLAC Seoul, Korea
+1 NOTE @N2046@
+1 FAMC @F187@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @I3508@ INDI
+1 _UID F64F763F7F3241B59AC99C47570294A0742D
+1 NAME Mitchell /Owens/
+1 SEX M
+1 BIRT
+2 DATE 1994
+2 PLAC Chapel Hill, North Carolina
+1 FAMC @F364@
+1 CHAN
+2 DATE 10 JUN 2010
+0 @I3509@ INDI
+1 _UID 8D8B1A5278A243378915F4A31BB82BA8F302
+1 NAME Erin Monica /Foley/
+1 SEX F
+1 BIRT
+2 DATE 2001
+2 PLAC Worcester, Massachusetts
+1 FAMC @F1143@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @I3510@ INDI
+1 _UID B76275AA878E4D45B16F291DED13B715119B
+1 NAME Mike /Foley/
+1 SEX M
+1 FAMS @F1143@
+1 CHAN
+2 DATE 10 JUN 2010
+0 @I3571@ INDI
+1 _UID 560BB506EED6477FA97E6399D06E2099C03C
+1 NAME Venesa /Guzman/
+1 SEX F
+1 BIRT
+2 DATE 13 APR 2013
+1 FAMC @F1531@
+1 CHAN
+2 DATE 19 APR 2013
+0 @I3572@ INDI
+1 _UID 40C1199ADF854CD393F42B11028DF1D75110
+1 NAME Olivia /Guzman/
+1 SEX F
+1 BIRT
+2 DATE 14 SEP 2011
+2 PLAC Rochester, New York
+1 FAMC @F1531@
+1 CHAN
+2 DATE 19 APR 2013
+0 @I3591@ INDI
+1 _UID 1F676F8E275F419A815F2ACFD9E95523F7B2
+1 NAME Nancy /Richards/
+1 SEX F
+1 FAMS @F1145@
+1 CHAN
+2 DATE 19 JUL 2014
+0 @I3592@ INDI
+1 _UID DC3CF83A52304910BBEAB6105CF6C2E084A0
+1 NAME Katherine “Kate” /Justice/
+1 SEX F
+1 FAMS @F2683@
+1 CHAN
+2 DATE 7 JUL 2018
+0 @I3593@ INDI
+1 _UID 29F39276C50448108D7221D5C0DDA1ED65CA
+1 NAME Killian James /Coffey/
+1 SEX M
+1 BIRT
+2 DATE 29 JUL 2014
+2 PLAC Kingston, MA
+1 FAMC @F2683@
+1 CHAN
+2 DATE 29 JUL 2014
+0 @I3594@ INDI
+1 _UID C2F8FD910E1A4F538179EEBCA0C23282CCE5
+1 NAME Liam /Fennessy/
+1 SEX M
+1 FAMC @F304@
+1 CHAN
+2 DATE 17 AUG 2014
+0 @I3630@ INDI
+1 _UID EC19B16C3D0243ECAA8A58DCA6B61BFB6A9A
+1 NAME Edward /Powell/
+1 SEX M
+1 FAMS @F1604@
+1 CHAN
+2 DATE 22 APR 2015
+0 @I3631@ INDI
+1 _UID B8C44BDEE8FC45C590E2C80CBE8ABCCAA721
+1 NAME Seamus /Fennessy/
+1 SEX M
+1 FAMC @F1384@
+1 CHAN
+2 DATE 27 APR 2015
+0 @I3632@ INDI
+1 _UID 9477DF7B5ECC4561A56DA741FEE32302352C
+1 NAME Killeen /Fennessy/
+1 SEX F
+1 FAMC @F1384@
+1 CHAN
+2 DATE 27 APR 2015
+0 @I3660@ INDI
+1 _UID 05C515F7C27D459FBC1EC03F61005C0897FD
+1 NAME Kelly /Fennessy/
+1 SEX F
+1 FAMC @F304@
+1 CHAN
+2 DATE 15 FEB 2016
+0 @I3671@ INDI
+1 _UID E502D1F46A314FA4861AA1600E2EB41AE5FD
+1 NAME Patrick /Morrissey/
+1 SEX M
+1 BIRT
+2 DATE ABT 1989
+1 FAMC @F1550@
+1 FAMS @F1015@
+1 CHAN
+2 DATE 30 AUG 2015
+0 @I3672@ INDI
+1 _UID 718A4A54263949C19E4F1E477010B34BD225
+1 NAME Susan /White/
+1 SEX F
+1 FAMS @F1550@
+1 CHAN
+2 DATE 30 AUG 2015
+0 @I3673@ INDI
+1 _UID 6A934865C017446AB4006640C698FB684A2F
+1 NAME Patrick Joseph /Morrissey/
+1 SEX M
+1 FAMS @F1550@
+1 CHAN
+2 DATE 30 AUG 2015
+0 @I3691@ INDI
+1 _UID 436EADB48AE0425BB6104311DF7251805516
+1 NAME George Edward /Powell/
+2 NSFX IV
+1 SEX M
+1 BIRT
+2 DATE 12 NOV 2015
+2 PLAC North Carolina, USA
+1 FAMC @F1604@
+1 CHAN
+2 DATE 13 NOV 2015
+0 @I3737@ INDI
+1 _UID 7F86C6E941584D49ADB9A0272558ECF46D3C
+1 NAME Robert “Rob” /Courcier/
+1 SEX M
+1 FAMS @F2227@
+1 CHAN
+2 DATE 29 FEB 2016
+0 @I3738@ INDI
+1 _UID DDF196AC09BE45EDB88DFB8645CD5EA0DF6E
+1 NAME Thompson Ryley /Courcier/
+1 SEX M
+1 BIRT
+2 DATE 25 FEB 2016
+2 PLAC Oak Bluffs, MA
+1 FAMC @F2227@
+1 CHAN
+2 DATE 29 FEB 2016
+0 @I3780@ INDI
+1 _UID B981C1D6E9914F7783381BAFA8534E805F59
+1 NAME Michele Diana /Cavanaugh Choy/
+1 SEX F
+1 BIRT
+2 DATE 19 MAY 2004
+2 PLAC Villavencio, Colombia
+1 ADOP
+2 DATE 18 DEC 2017
+2 PLAC Bogota, Colombia
+1 FAMC @F187@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @I3781@ INDI
+1 _UID A7F3375E60AB428D9FAC4B5D951BCE8903E0
+1 NAME Kathleen /Cavanaugh/
+1 SEX F
+1 BIRT
+2 DATE 1 NOV 1966
+2 PLAC Worcester, Massachusetts
+1 DEAT
+2 DATE 1 NOV 1966
+2 PLAC Worcester, Massachusetts
+1 FAMC @F298@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @I3782@ INDI
+1 _UID 3AB9533F945D48E5A366337F047C167A6EB9
+1 NAME Sarah /Cavanaugh/
+1 SEX F
+1 BIRT
+2 DATE 1998
+1 FAMC @F1145@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @I3783@ INDI
+1 _UID F8178E54780E46A4898C48774357141D0010
+1 NAME Grace /Cavanaugh/
+1 SEX F
+1 BIRT
+2 DATE 2001
+1 FAMC @F1145@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @I3784@ INDI
+1 _UID B7573FBE1D724C7AB2405D6C1DD0E5FCE969
+1 NAME Kevin /Cavanaugh/
+1 SEX F
+1 BIRT
+2 DATE 2004
+1 FAMC @F1145@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @I3785@ INDI
+1 _UID 9226CDCBECD94C1C921020D9F86DEE9702CD
+1 NAME Meghan /Cavanaugh/
+1 SEX F
+1 BIRT
+2 DATE 2009
+1 FAMC @F1145@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @I3786@ INDI
+1 _UID 31A54DA631424D6FA72C9BC1F56C2EAB615C
+1 NAME Caroline Rose /Foley/
+1 SEX F
+1 BIRT
+2 DATE 2003
+1 FAMC @F1143@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @I3787@ INDI
+1 _UID B312CE1D2FA54927B86EAD2A1C369D2A0A97
+1 NAME Elizabeth /Foley/
+1 SEX F
+1 BIRT
+2 DATE 2005
+1 FAMC @F1143@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @I3790@ INDI
+1 _UID B879D2C5718A43629B9CCE1C4ED458CDD00B
+1 NAME James Nathaniel /Powell/
+1 SEX M
+1 BIRT
+2 DATE 26 MAY 2018
+1 FAMC @F1604@
+1 CHAN
+2 DATE 27 MAY 2018
+0 @I3791@ INDI
+1 _UID 44292B06B9DC40EAA85A08D4EAE31DA7CC65
+1 NAME Scarlett Rose /Coffey/
+1 SEX F
+1 BIRT
+2 DATE 6 JUL 2018
+2 PLAC Middleboro, MA
+1 FAMC @F2683@
+1 CHAN
+2 DATE 7 JUL 2018
+0 @I3811@ INDI
+1 _UID C7311E8E28E54A7E85DE2AB91B4C1D3B7ECA
+1 NAME Christina “Tina” (born Heather Marie Guzman) /Zukaitis/
+1 SEX F
+1 BIRT
+2 DATE 12 DEC 1976
+2 PLAC Rochester, New York
+1 FAMC @F365@
+1 CHAN
+2 DATE 7 JUL 2019
+0 @I3829@ INDI
+1 _UID 089D87598FD54070A8A3402E63B656FCBD56
+1 NAME Daniel Joseph /Powell/
+1 SEX M
+1 BIRT
+2 DATE 19 JAN 2021
+2 PLAC California, United States
+1 NOTE @N1746@
+1 FAMC @F1604@
+1 CHAN
+2 DATE 19 JAN 2021
+0 @I3835@ INDI
+1 _UID 6967DD41DD58436A8840EE347B2E838B7117
+1 NAME Erica /Jordan/
+1 SEX F
+1 FAMS @F1436@
+1 CHAN
+2 DATE 7 NOV 2022
+0 @I3836@ INDI
+1 _UID B12BB645ED2E4ECDB120A2C48B401CA5D032
+1 NAME William Hunter “Hunter” /Call/
+1 SEX M
+1 BIRT
+2 DATE 4 SEP 1994
+2 PLAC Pennsylvania, USA
+1 FAMS @F1383@
+1 CHAN
+2 DATE 2 JUL 2023
+0 @I3837@ INDI
+1 _UID 7D7353D79B004EBC8F8DC73554D1EDBAA34B
+1 NAME Marc /Foley/
+1 SEX M
+1 FAMS @F1398@
+1 CHAN
+2 DATE 7 NOV 2022
+0 @I3841@ INDI
+1 _UID 9B868C5A8AE044138EF0266CCF40B9F89895
+1 NAME Benjamin /Mccarty/
+1 SEX M
+1 FAMS @F2623@
+1 CHAN
+2 DATE 12 DEC 2023
+0 @I3844@ INDI
+1 _UID 67476943631A4D55A14FB60637E10EDA2587
+1 NAME William L /Burke/
+1 SEX M
+1 BIRT
+2 DATE 6 SEP 1907
+2 PLAC Lawrence, Essex, Massachusetts
+1 DEAT
+2 DATE 27 AUG 1996
+2 PLAC Canton, Norfolk, Massachusetts
+1 FAMS @F2836@
+1 CHAN
+2 DATE 6 JAN 2024
+0 @I3845@ INDI
+1 _UID 48EE2A8313134AA19715B3252F2812D8B90D
+1 NAME Ann Marie /Bresnahan/
+1 SEX F
+1 BIRT
+2 DATE 8 AUG 1908
+2 PLAC Castleisland, Kerry, Ireland
+1 DEAT
+2 DATE 5 MAR 1964
+2 PLAC Massachusetts, USA
+1 FAMS @F2836@
+1 CHAN
+2 DATE 6 JAN 2024
+0 @SUB1@ SUBM
+1 NAME Quentin Fennessy
+1 EMAL qfennessy@gmail.com
+0 @F7@ FAM
+1 HUSB @I213@
+1 WIFE @I3435@
+1 MARR
+2 NOTE Met while attending Oswego Normal School, a teachers college (now Oswego State College)
+1 _UID EEA1DB8133734157BD6532E5597F543ECCDB
+1 CHIL @I211@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @F39@ FAM
+1 HUSB @I2498@
+1 _UID 99CABF3A830040AE945504497CACEDACC47E
+1 CHIL @I2497@
+0 @F41@ FAM
+1 HUSB @I2618@
+1 _UID E31CC088545D4CCE9B01F2F775F0EA9177C8
+1 CHIL @I2617@
+0 @F77@ FAM
+1 HUSB @I1466@
+1 WIFE @I267@
+1 MARR
+2 DATE 19 OCT 1957
+2 PLAC Hyde Park, MA
+1 _UID BA3B51A7E24A44DE9DBD82B664CE266D929A
+1 CHIL @I1459@
+1 CHIL @I1451@
+1 CHIL @I1460@
+1 CHIL @I1455@
+1 CHAN
+2 DATE 6 JAN 2010
+0 @F122@ FAM
+1 HUSB @I268@
+1 WIFE @I1835@
+1 MARR
+2 DATE 20 OCT 1920
+2 PLAC Hyde Park, MA
+1 _UID 43889E9C13204D57A3C71A365E67DB3B71DE
+1 CHIL @I267@
+1 CHAN
+2 DATE 7 MAY 2022
+0 @F130@ FAM
+1 HUSB @I864@
+1 WIFE @I18@
+1 MARR
+2 DATE 1891
+2 PLAC Waterford City, Ireland
+1 _UID A855799C5B1740729E11268320A444009696
+1 CHIL @I901@
+1 CHAN
+2 DATE 31 DEC 2018
+0 @F164@ FAM
+1 HUSB @I842@
+1 WIFE @I211@
+1 MARR
+2 DATE 2 JUN 1956
+2 PLAC Cliffside Park, New York
+2 NOTE Epiphany Church
+1 NOTE @N1835@
+1 _UID F1F3D83DD4F54C2C97A3AE6DD3E60F2178D0
+1 CHIL @I875@
+1 CHIL @I889@
+1 CHIL @I921@
+1 CHIL @I890@
+1 CHIL @I836@
+1 CHAN
+2 DATE 4 JAN 2010
+0 @F185@ FAM
+1 HUSB @I1739@
+1 WIFE @I333@
+1 MARR
+2 DATE 2 DEC 1989
+2 PLAC Aurora, OH
+2 NOTE Our Lady of Perpetual Help, 342 South Chillicothe Rd
+1 _UID A0D430B509A146DAAF5B085C841A53FA7CE9
+1 CHIL @I1751@
+1 CHAN
+2 DATE 21 MAR 2010
+0 @F187@ FAM
+1 HUSB @I347@
+1 WIFE @I345@
+1 MARR
+1 _UID 6A47F299BA554C1E9344D9614975DCC3239C
+1 CHIL @I3505@
+1 CHIL @I3506@
+1 CHIL @I3507@
+1 CHIL @I3780@
+1 CHAN
+2 DATE 1 JAN 2018
+0 @F272@ FAM
+1 HUSB @I2516@
+1 WIFE @I738@
+1 MARR
+2 DATE 1896
+2 PLAC New York City, New York
+1 _UID 7F869B5229984DB0AD573ECF5A18F9AFDBAD
+1 CHIL @I2539@
+1 CHAN
+2 DATE 13 MAY 2015
+0 @F290@ FAM
+1 HUSB @I1522@
+1 WIFE @I827@
+1 MARR
+2 DATE AUG 1985
+1 _UID BAF50C810E0D419BB6CA3C40D62BFBA8D3B9
+1 CHIL @I1519@
+1 CHIL @I1521@
+0 @F295@ FAM
+1 HUSB @I3264@
+1 WIFE @I839@
+1 CLAW
+2 DATE 1968
+1 SEPA
+2 DATE 1987
+1 _UID 5A180B7640EB4F2395E87778C698F711620B
+1 CHIL @I3265@
+1 CHIL @I3263@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @F296@ FAM
+1 WIFE @I841@
+1 _UID 26D6671EBF8743EFBAF9E6F42121051BE8AB
+1 CHIL @I857@
+0 @F298@ FAM
+1 HUSB @I344@
+1 WIFE @I858@
+1 MARR
+2 DATE 2 JUL 1955
+2 PLAC West Roxbury, Suffolk, Massachusetts
+2 NOTE St Theresa’s Catholic Church
+1 _UID 80EBE0A52BFD446B968E30CA616E58FD09D3
+1 CHIL @I337@
+1 CHIL @I342@
+1 CHIL @I339@
+1 CHIL @I345@
+1 CHIL @I338@
+1 CHIL @I343@
+1 CHIL @I3781@
+1 CHIL @I341@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @F301@ FAM
+1 HUSB @I1748@
+1 WIFE @I873@
+1 MARR
+2 DATE 23 JUN 1956
+1 _UID 9B2D84B298FB438C9E85420CC032BE72F3E7
+1 CHIL @I1750@
+1 CHIL @I1755@
+1 CHIL @I1739@
+1 CHIL @I1741@
+1 CHIL @I1742@
+1 CHIL @I1757@
+1 CHIL @I1740@
+0 @F304@ FAM
+1 HUSB @I921@
+1 WIFE @I879@
+1 MARR
+2 DATE 1 AUG 1992
+2 NOTE from Facebook status 1 Aug 2014
+1 _UID 902391EC99194187BFBC418CDD0BD485339F
+1 CHIL @I3594@
+1 CHIL @I3660@
+1 CHIL @I3495@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @F305@ FAM
+1 HUSB @I2584@
+1 WIFE @I881@
+1 MARR
+2 DATE 27 AUG 1949
+2 PLAC St Theresa's Church, West Roxbury MA
+1 _UID 72628F892A164823976E9244C4E0E86B69FF
+1 CHIL @I2580@
+1 CHIL @I2577@
+1 CHIL @I2581@
+1 CHIL @I2578@
+1 CHIL @I2583@
+1 CHIL @I2582@
+0 @F310@ FAM
+1 HUSB @I2640@
+1 WIFE @I888@
+1 MARR
+2 DATE 16 SEP 1978
+2 PLAC Brewster, MA
+1 _UID FF8823C15C044F9C8B7AA7F9276E80F060F8
+1 CHIL @I2638@
+1 CHIL @I2641@
+1 CHIL @I2639@
+0 @F311@ FAM
+1 HUSB @I97@
+1 WIFE @I889@
+1 MARR
+2 DATE 15 SEP 1984
+2 PLAC Church of the Presentation, Upper Saddle River NJ
+2 NOTE 0A962948260
+1 NOTE @N1833@
+1 _UID 96754BEB826543B798073DAB4D4AEBDA0538
+1 CHIL @I98@
+1 CHIL @I96@
+1 CHIL @I3433@
+1 CHIL @I3434@
+1 CHAN
+2 DATE 17 SEP 2012
+0 @F313@ FAM
+1 HUSB @I875@
+1 WIFE @I897@
+1 MARR
+2 DATE 10 JUL 1993
+2 PLAC Oakland, New Jersey
+2 NOTE Our Lady of Perpetual Help Catholic Church
+1 _UID 5F5D874B9A8F439C985ECE29625B5ED47227
+1 CHIL @I870@
+1 CHIL @I856@
+1 CHIL @I911@
+1 CHAN
+2 DATE 17 SEP 2012
+0 @F314@ FAM
+1 HUSB @I1148@
+1 WIFE @I903@
+1 MARR
+2 DATE 22 FEB 1949
+2 PLAC St Leo's Church, Dorchester MA
+1 NOTE @N54@
+1 _UID 592BEF690492471F9A92DE13478F322C2989
+1 CHIL @I1155@
+1 CHIL @I1150@
+1 CHIL @I1152@
+1 CHIL @I1151@
+1 CHAN
+2 DATE 5 DEC 2010
+0 @F320@ FAM
+1 HUSB @I210@
+1 WIFE @I916@
+1 MARR
+2 DATE 8 JUN 1963
+2 PLAC Brookline, MA
+1 _UID B85ACAF230CA4461A3F4CD601EB618B1CE08
+1 CHIL @I207@
+1 CHIL @I208@
+0 @F321@ FAM
+1 HUSB @I176@
+1 WIFE @I917@
+1 MARR
+2 DATE 27 APR 1968
+1 _UID 005C69534AE443D0B1D6FD3158068C827ADC
+1 CHIL @I177@
+1 CHIL @I181@
+0 @F323@ FAM
+1 HUSB @I360@
+1 WIFE @I923@
+1 MARR
+2 DATE 20 MAY 1989
+2 PLAC West Roxbury, MA
+1 DIV
+2 DATE 1997
+1 _UID 597E0D7A7F4B491980394C5FF74609ABDF5F
+1 CHIL @I361@
+0 @F324@ FAM
+1 HUSB @I1213@
+1 WIFE @I923@
+1 MARR
+2 DATE 15 AUG 2003
+2 PLAC Boston, MA
+1 DIV
+2 DATE 2018
+1 _UID A1787AB60A124F67A1778F396EEFDCC0F4B2
+1 CHIL @I1214@
+1 CHAN
+2 DATE 7 JUL 2019
+0 @F331@ FAM
+1 HUSB @I1747@
+1 WIFE @I945@
+1 MARR
+1 _UID 823EA250B2354028B26B7D8A0ADD21E7143A
+1 CHIL @I1748@
+0 @F335@ FAM
+1 HUSB @I1756@
+1 WIFE @I993@
+1 MARR
+1 _UID 975CA577F8A947FAB76C7F92C62E41FD57F9
+1 CHIL @I1747@
+0 @F343@ FAM
+1 HUSB @I946@
+1 WIFE @I1025@
+1 MARR
+2 DATE 1899
+1 _UID FB7876C478634000A8A4D17D25D29BDACEAE
+1 CHIL @I945@
+0 @F344@ FAM
+1 HUSB @I1467@
+1 WIFE @I1042@
+1 MARR
+2 DATE 28 SEP 1928
+2 PLAC Charlestown, MA
+1 _UID 99A855644DA148138B695322C51F6DBBB8FD
+1 CHIL @I1466@
+0 @F364@ FAM
+1 HUSB @I2374@
+1 WIFE @I1151@
+1 MARR
+2 DATE 11 JUL 1987
+2 PLAC St Ambrose Church, Rochester NY
+1 _UID EB79BBF8882345A6B5D326EAF413AA251B67
+1 CHIL @I2373@
+1 CHIL @I3508@
+1 CHAN
+2 DATE 10 JUN 2010
+0 @F365@ FAM
+1 WIFE @I1152@
+1 MARR
+2 DATE 19 SEP 1981
+1 DIV Y
+1 _UID 375771E08340462CB9DF8BC0EE620ADE2FF6
+1 CHIL @I3811@
+1 CHAN
+2 DATE 7 JUL 2019
+0 @F379@ FAM
+1 HUSB @I1941@
+1 WIFE @I3453@
+1 MARR
+1 _UID 21462985A774491A901C16778E222DAF587F
+1 CHIL @I1946@
+1 CHIL @I1934@
+1 CHIL @I1940@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @F419@ FAM
+1 HUSB @I907@
+1 WIFE @I1451@
+1 MARR
+2 DATE 27 JUN 1987
+2 PLAC St Andrews Catholic Church, Jamaica Plain, Massachusetts
+1 _UID 1B5AED0642224DF1B10EC146A2FDF385E7FB
+1 CHIL @I835@
+1 CHIL @I877@
+1 CHAN
+2 DATE 24 MAR 2018
+0 @F463@ FAM
+1 HUSB @I340@
+1 WIFE @I1634@
+1 MARR
+2 DATE 8 JUN 1920
+2 PLAC Worcester, Worcester, Massachusetts
+2 NOTE St Peter’s Church
+1 _UID C44CF006ECD442BE927E84F114BF87D378CD
+1 CHIL @I344@
+1 CHAN
+2 DATE 21 JAN 2010
+0 @F478@ FAM
+1 HUSB @I2471@
+1 WIFE @I1685@
+1 MARR
+2 DATE 7 MAY 1882
+2 PLAC McAdoo, Schuylkill, Pennsylvania
+1 _UID C015E021E9BC479BAE390EFCAC69A5D0D8A5
+1 CHIL @I2408@
+1 CHAN
+2 DATE 8 JUL 2017
+0 @F479@ FAM
+1 HUSB @I1155@
+1 WIFE @I1720@
+1 MARR
+2 DATE 16 JUN 1973
+2 PLAC Interfaith Chapel, Culver Rd, Rochester, NY
+1 _UID 84DF8676D2E14A91A8D9278828F6431D9B09
+1 CHIL @I1153@
+1 CHIL @I1156@
+1 CHIL @I1154@
+1 CHAN
+2 DATE 17 SEP 2012
+0 @F480@ FAM
+1 HUSB @I671@
+1 WIFE @I1740@
+1 MARR
+2 DATE 17 AUG 1997
+2 PLAC Chestnut Hill, MA.
+1 _UID A7371E5E17FD41B58CDB74E6198D38E5E8E0
+1 CHIL @I672@
+1 CHIL @I670@
+1 CHAN
+2 DATE 17 SEP 2012
+0 @F481@ FAM
+1 HUSB @I959@
+1 WIFE @I1741@
+1 MARR
+2 DATE 27 DEC 1987
+2 PLAC Chestnut Hill, MA
+1 _UID 910FC185378B4B909140B79D43532F2794F8
+1 CHIL @I957@
+1 CHIL @I956@
+1 CHIL @I955@
+1 CHIL @I958@
+1 CHAN
+2 DATE 17 SEP 2012
+0 @F482@ FAM
+1 HUSB @I1317@
+1 WIFE @I1750@
+1 MARR
+2 DATE 1988
+2 PLAC Boston, Ma
+1 _UID 6301C96F311E4FD0B6AEF1C100F5C901DF2B
+1 CHIL @I1316@
+1 CHIL @I1318@
+1 CHIL @I1315@
+1 CHIL @I1319@
+1 CHAN
+2 DATE 17 SEP 2012
+0 @F485@ FAM
+1 HUSB @I1934@
+1 WIFE @I1755@
+1 MARR
+2 DATE 28 OCT 1989
+2 PLAC Mt Holyoke, MA
+1 _UID 0DF08B0F458F4D849DCCD8A1DA7700E554A7
+1 CHIL @I1933@
+1 CHIL @I1943@
+1 CHIL @I1936@
+1 CHIL @I1944@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @F486@ FAM
+1 HUSB @I3@
+1 WIFE @I1757@
+1 MARR
+2 DATE 8 SEP 2001
+2 PLAC Washington, DC
+1 _UID CB20169960C344BB83532276CAC729F0D4DB
+1 CHIL @I6@
+1 CHIL @I5@
+1 CHIL @I4@
+0 @F488@ FAM
+1 HUSB @I869@
+1 WIFE @I1765@
+1 MARR
+2 DATE 21 OCT 1944
+2 PLAC St Anns Church, Dorchester MA
+1 _UID 65A923B1A852480BB2D2A61376A492253D55
+1 CHIL @I882@
+1 CHIL @I917@
+1 CHIL @I839@
+1 CHIL @I888@
+1 CHIL @I827@
+1 CHIL @I862@
+1 CHIL @I915@
+1 CHIL @I830@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @F504@ FAM
+1 HUSB @I1742@
+1 WIFE @I1857@
+1 MARR
+1 _UID 5335ECD9A6ED48F98DFA7074AAF789BB713C
+1 CHIL @I1735@
+1 CHIL @I1737@
+0 @F614@ FAM
+1 HUSB @I2539@
+1 WIFE @I2408@
+1 MARR
+2 DATE 29 OCT 1922
+2 PLAC Roslyn, Nassau, New York
+1 _UID 1235915E1973482FB63E81CF1723987DCC68
+1 CHIL @I2523@
+1 CHIL @I2521@
+1 CHIL @I2528@
+1 CHIL @I2529@
+1 CHIL @I2540@
+1 CHAN
+2 DATE 6 JUL 2014
+0 @F619@ FAM
+1 HUSB @I1155@
+1 WIFE @I1057@
+1 MARR
+2 DATE 7 SEP 1991
+2 PLAC Rochester, New York
+1 _UID CBD443C258ED43D6BC471036774ACFDFBA89
+1 CHAN
+2 DATE 4 DEC 2010
+0 @F626@ FAM
+1 HUSB @I915@
+1 WIFE @I2377@
+1 MARR
+2 DATE ABT 1985
+2 PLAC MA
+1 DIV Y
+1 _UID 879A65992D8B4D3CAEE3436F03A4E4DC0AF2
+1 CHAN
+2 DATE 14 MAY 2015
+0 @F637@ FAM
+1 HUSB @I2580@
+1 WIFE @I2497@
+1 MARR
+2 DATE 25 JUN 1983
+2 PLAC St Matthew's Church, Sugar Hill NH
+1 DIV
+2 DATE ABT 1995
+1 _UID 129F493C65464B48AB41F7EC64406E237883
+1 CHAN
+2 DATE 18 JAN 2010
+0 @F643@ FAM
+1 HUSB @I902@
+1 WIFE @I2528@
+1 MARR
+2 DATE 20 FEB 1960
+2 PLAC Port Washington, NY
+2 NOTE Alcantara
+1 _UID F69EF4276F044428B81B0A726C4C39C18F1F
+1 CHIL @I907@
+1 CHIL @I840@
+1 CHIL @I923@
+1 CHIL @I834@
+1 CHIL @I841@
+1 CHAN
+2 DATE 17 SEP 2012
+0 @F657@ FAM
+1 HUSB @I1719@
+1 WIFE @I2570@
+1 MARR
+1 _UID C1ECB989250A4D0286A3DC533CE9135653C8
+1 CHIL @I1720@
+0 @F660@ FAM
+1 HUSB @I915@
+1 WIFE @I2586@
+1 MARR
+1 _UID EB0DF13E1388425D853A1445D628A0061D01
+1 CHIL @I3438@
+1 CHIL @I3437@
+1 CHAN
+2 DATE 17 SEP 2012
+0 @F667@ FAM
+1 HUSB @I882@
+1 WIFE @I2617@
+1 MARR
+1 _UID 61BD98254C0C4895BEDDF15D83706A70C687
+0 @F668@ FAM
+1 HUSB @I2578@
+1 WIFE @I2619@
+1 MARR
+2 DATE 13 AUG 1991
+2 PLAC New Cumberland, Pennsylvania
+2 NOTE St Teresa’s Church
+1 _UID C6C93CB6503F46FD8C910CD56C10A12E9CDB
+1 CHIL @I3445@
+1 CHIL @I3446@
+1 CHIL @I3447@
+1 CHIL @I3448@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @F713@ FAM
+1 HUSB @I2811@
+1 WIFE @I2813@
+1 MARR
+2 DATE 22 FEB 1884
+2 PLAC Bantry
+1 _UID 03A5C8B4B6DD4129909EBE222D27FB29A729
+1 CHIL @I2914@
+1 CHAN
+2 DATE 28 JUN 2020
+0 @F738@ FAM
+1 HUSB @I901@
+1 WIFE @I2914@
+1 MARR
+2 DATE 13 JAN 1920
+2 PLAC St Finbar Roman Catholic Church, Bantry, Ireland
+1 _UID 74C5C4860B3940AB8136E0A1795D2B88738B
+1 CHIL @I869@
+1 CHIL @I903@
+1 CHIL @I881@
+1 CHIL @I858@
+1 CHIL @I902@
+1 CHIL @I842@
+1 CHIL @I873@
+1 CHIL @I916@
+1 CHAN
+2 DATE 7 MAY 2019
+0 @F760@ FAM
+1 HUSB @I1739@
+1 WIFE @I3019@
+1 MARR
+2 DATE JUN 2001
+2 PLAC Geneva, Switzerland
+1 _UID 8DEFD3877AD546479E30EFC5E7524346F661
+1 CHIL @I3356@
+1 CHAN
+2 DATE 4 NOV 2009
+0 @F852@ FAM
+1 HUSB @I1149@
+1 WIFE @I3306@
+1 MARR
+1 _UID 00EF2A31A5054391B06EAA005A281E76A684
+1 CHIL @I1148@
+0 @F1015@ FAM
+1 HUSB @I3671@
+1 WIFE @I98@
+1 MARR
+2 DATE 29 AUG 2015
+2 PLAC Nantucket, Nantucket, Massachusetts, USA
+2 NOTE St. Mary, Our Lady of the Isle
+1 _UID F181DD62FC0A41408ADE494771944567E1A3
+1 CHAN
+2 DATE 30 AUG 2015
+0 @F1065@ FAM
+1 HUSB @I177@
+1 WIFE @I3439@
+1 MARR
+1 _UID 5B97FF10893F428EB7341D6EF4389B9F7543
+1 CHIL @I3440@
+1 CHIL @I3441@
+1 CHIL @I3442@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @F1074@ FAM
+1 HUSB @I207@
+1 WIFE @I1205@
+1 MARR
+2 DATE 15 OCT 1994
+2 PLAC Waltham, Massachusetts
+1 _UID D2EB32FEE7A24877BB086C3EFF75DD6C5F9F
+1 CHIL @I1208@
+1 CHIL @I1210@
+1 CHAN
+2 DATE 17 SEP 2012
+0 @F1075@ FAM
+1 HUSB @I1942@
+1 WIFE @I208@
+1 UMAR
+1 _UID FDB59CBE9612438EB64AB9BD8EDB4D9E4FC1
+1 CHIL @I1211@
+1 CHAN
+2 DATE 6 FEB 2010
+0 @F1143@ FAM
+1 HUSB @I3510@
+1 WIFE @I341@
+1 MARR
+1 _UID BDCF54BE6A434C6D97A5AEAC111FA80D7F7E
+1 CHIL @I3509@
+1 CHIL @I3786@
+1 CHIL @I3787@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @F1144@ FAM
+1 HUSB @I3454@
+1 WIFE @I342@
+1 MARR
+2 DATE 28 MAR 1998
+2 PLAC Ossining, New York
+2 NOTE St. Augustine's Church
+1 DIV
+2 DATE 12 DEC 2003
+2 PLAC Jacksonville, Florida
+1 _UID B4A0C75011D24B0EB2CC8AD6DBEFF5F73B78
+1 CHIL @I3455@
+1 CHAN
+2 DATE 21 JAN 2010
+0 @F1145@ FAM
+1 HUSB @I343@
+1 WIFE @I3591@
+1 MARR
+1 _UID B13296186CE94222BDEDB65E1A00C162450C
+1 CHIL @I3782@
+1 CHIL @I3783@
+1 CHIL @I3784@
+1 CHIL @I3785@
+1 CHAN
+2 DATE 2 JAN 2018
+0 @F1151@ FAM
+1 HUSB @I361@
+1 WIFE @I3372@
+1 MARR
+1 _UID D4F33EBA24AA44EEA84DF77ACA803EB562B7
+1 CHIL @I3371@
+1 CHAN
+2 DATE 13 NOV 2009
+0 @F1340@ FAM
+1 HUSB @I1066@
+1 WIFE @I1152@
+1 MARR
+2 DATE 20 FEB 2011
+2 PLAC Key West, Florida
+1 _UID A256D4ECB0634940835BC5D3BF1897094126
+1 CHAN
+2 DATE 20 FEB 2011
+0 @F1344@ FAM
+1 WIFE @I1209@
+1 _UID 2369B68AE8CF4FC68F2B50D72C5B9DA44175
+1 CHIL @I2584@
+1 CHAN
+2 DATE 9 AUG 2011
+0 @F1383@ FAM
+1 HUSB @I3836@
+1 WIFE @I835@
+1 MARR
+2 DATE 8 OCT 2022
+2 PLAC Harrisonburg, Virginia
+1 _UID D5763E73847E460F94D5B6096A3FF3EA016B
+1 CHAN
+2 DATE 7 NOV 2022
+0 @F1384@ FAM
+1 HUSB @I836@
+1 WIFE @I3402@
+1 MARR
+2 DATE 3 SEP 2005
+2 PLAC Pennington, N.J.
+2 NOTE St James Church
+1 _UID 5C01DB7C63D84C5997C0A7FDC9D3AB471D27
+1 CHIL @I3631@
+1 CHIL @I3632@
+1 CHAN
+2 DATE 4 JAN 2010
+0 @F1398@ FAM
+1 HUSB @I3837@
+1 WIFE @I856@
+1 MARR
+2 DATE 23 SEP 2022
+2 PLAC Ipswich, MA
+1 _UID 94D7B70CFC594891997DF7F995AD308A5E22
+1 CHAN
+2 DATE 7 NOV 2022
+0 @F1403@ FAM
+1 HUSB @I3436@
+1 WIFE @I862@
+1 MARR
+2 DATE 1994
+1 _UID CEB67259A1DC41D78AD9412F67830C5401A5
+1 CHAN
+2 DATE 17 JAN 2010
+0 @F1413@ FAM
+1 HUSB @I1932@
+1 WIFE @I890@
+1 MARR
+1 _UID 3DAFF33B68AF498E8F9D7CAEFB5E0465201B
+1 CHIL @I1935@
+1 CHIL @I1937@
+1 CHIL @I1938@
+1 CHAN
+2 DATE 31 JAN 2010
+0 @F1436@ FAM
+1 HUSB @I957@
+1 WIFE @I3835@
+1 MARR
+2 DATE 15 OCT 2022
+2 PLAC Colorado
+1 _UID 65029C5A98774E8F9EBA8C27E1C31A9DAF87
+1 CHAN
+2 DATE 7 NOV 2022
+0 @F1529@ FAM
+1 HUSB @I1150@
+1 WIFE @I1058@
+1 MARR
+2 DATE 11 SEP 1997
+1 _UID F7B005AE0B694062973E963CF4D1112A177E
+1 CHIL @I1062@
+1 CHAN
+2 DATE 5 DEC 2010
+0 @F1530@ FAM
+1 HUSB @I1153@
+1 WIFE @I739@
+1 MARR
+1 _UID 9E6A6A29018A44A6845D63F0FE9E6985CE45
+1 CHIL @I745@
+1 CHIL @I782@
+1 CHAN
+2 DATE 19 APR 2013
+0 @F1531@ FAM
+1 HUSB @I1154@
+1 WIFE @I1056@
+1 MARR
+2 DATE 8 MAY 2010
+2 PLAC Rochester, New York
+1 _UID F2A69522B1544855BBD3445FC983DCCA14AE
+1 CHIL @I3572@
+1 CHIL @I3571@
+1 CHAN
+2 DATE 13 MAY 2015
+0 @F1550@ FAM
+1 HUSB @I3673@
+1 WIFE @I3672@
+1 MARR
+1 _UID E812DA4488D54AAAA99B946F332F63CA3F64
+1 CHIL @I3671@
+1 CHAN
+2 DATE 30 AUG 2015
+0 @F1604@ FAM
+1 HUSB @I3630@
+1 WIFE @I1316@
+1 MARR
+2 DATE 28 JUN 2014
+2 PLAC Connecticut
+1 _UID 9EEA4BC53B2C4462B2C194CCD50328AE2619
+1 CHIL @I3691@
+1 CHIL @I3790@
+1 CHIL @I3829@
+1 CHAN
+2 DATE 19 JAN 2021
+0 @F1702@ FAM
+1 HUSB @I829@
+1 WIFE @I839@
+1 MARR
+2 DATE 3 AUG 1991
+2 PLAC New York
+1 DIV
+2 DATE 10 AUG 2005
+2 PLAC Connecticut
+1 _UID 74B5CA952AD7437B82095E36A9592DD96E11
+1 CHAN
+2 DATE 17 JAN 2010
+0 @F1881@ FAM
+1 HUSB @I2394@
+1 WIFE @I1933@
+1 MARR
+2 DATE 2 OCT 2021
+2 PLAC Charlottesville, Virginia
+1 _UID 0BCA938218384585BB81CD7EE61A68A0930A
+1 CHAN
+2 DATE 4 OCT 2021
+0 @F2195@ FAM
+1 HUSB @I2577@
+1 WIFE @I1712@
+1 MARR
+2 DATE 21 APR 2012
+2 PLAC New Jersey, USA
+1 _UID 36F1264591FE462CB4475518C0BCCE084DF1
+1 CHAN
+2 DATE 2 MAY 2012
+0 @F2197@ FAM
+1 WIFE @I2582@
+1 _UID 65EA608370074281817A752919650C8918B4
+1 CHIL @I3450@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @F2198@ FAM
+1 HUSB @I2583@
+1 WIFE @I3449@
+1 MARR
+2 DATE 17 OCT 2005
+2 PLAC Florida
+2 NOTE Florida Keys
+1 _UID EA381E1944AC44C8AF2F7CA42F309A70BCE2
+1 CHAN
+2 DATE 18 JAN 2010
+0 @F2227@ FAM
+1 HUSB @I3737@
+1 WIFE @I2641@
+1 MARR
+2 DATE 12 OCT 2013
+2 PLAC Oak Bluffs, MA
+1 _UID E4C6F824683D4EFA88EB04E3462D841A1E88
+1 CHIL @I3738@
+1 CHAN
+2 DATE 29 FEB 2016
+0 @F2489@ FAM
+1 HUSB @I883@
+1 WIFE @I3263@
+1 MARR
+2 DATE 14 FEB 2010
+2 PLAC Kohala , Hawaii
+1 _UID 8F3C2F814A97469B958DC9887073DA38A59D
+1 CHAN
+2 DATE 17 JAN 2010
+0 @F2490@ FAM
+1 HUSB @I3265@
+1 WIFE @I848@
+1 MARR
+2 DATE 4 AUG 2002
+1 _UID A1CDE69ED6634D1E83762BE0F027B27FE2D2
+1 CHIL @I860@
+1 CHIL @I865@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @F2573@ FAM
+1 HUSB @I3430@
+1 WIFE @I3431@
+1 MARR
+1 _UID D5F7AB8EF16C40BA923A9E6A1570139C64A5
+1 CHIL @I97@
+1 CHIL @I3432@
+1 CHAN
+2 DATE 17 JAN 2010
+0 @F2582@ FAM
+1 HUSB @I3443@
+1 WIFE @I3444@
+1 MARR
+1 _UID E8F1DA0D956F4184B3A486EA386C8969E68C
+1 CHIL @I2619@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @F2588@ FAM
+1 HUSB @I3451@
+1 WIFE @I3452@
+1 MARR
+1 _UID E4945D2EABB440AD96E1A7CBBCB59E246BD4
+1 CHIL @I897@
+1 CHAN
+2 DATE 18 JAN 2010
+0 @F2599@ FAM
+1 HUSB @I210@
+1 WIFE @I1939@
+1 MARR
+2 DATE 7 JUL 1990
+1 _UID 18E97324406B401AA0E655957C1CC2AA11EB
+1 CHAN
+2 DATE 6 FEB 2010
+0 @F2623@ FAM
+1 HUSB @I3841@
+1 WIFE @I3495@
+1 MARR
+2 DATE 9 DEC 2023
+2 PLAC Baltimore, Maryland
+1 _UID CE0D2E7FA42B4789AD1A10BAECE94089564E
+1 CHAN
+2 DATE 12 DEC 2023
+0 @F2683@ FAM
+1 HUSB @I361@
+1 WIFE @I3592@
+1 MARR
+2 DATE 16 OCT 2015
+2 PLAC Quincy, Massachusetts
+1 _UID DDF66B834AE0491CACB6EFB2552D9A2E9D54
+1 CHIL @I747@
+1 CHIL @I3593@
+1 CHIL @I3791@
+1 CHAN
+2 DATE 7 JUL 2018
+0 @F2836@ FAM
+1 HUSB @I3844@
+1 WIFE @I3845@
+1 MARR
+2 DATE 3 JUN 1931
+2 PLAC Lawrence, Essex, Massachusetts
+2 NOTE St Mary’s Church
+1 _UID 7C92325EE5FB4650815EA773B579BB6D63C6
+1 CHIL @I210@
+1 CHAN
+2 DATE 6 JAN 2024
+0 @N54@ NOTE
+1 CONT Marriage
+1 CONT Date: 22 FEB 1949
+1 CONT Place: St Leo's Church, Dorchester MA
+0 @N66@ NOTE
+1 CONT First Lieutenant, US Air Force
+1 CONT http://trees.ancestry.com/rd?f=document&guid=698d3d61-04a2-4916-b303-eb7fdd4ce6e1&tid=4644803&pid=-1571451057
+1 CONT
+1 CONT Served from June 1952 to August 1956.Assigned to base weather stations to forecast weather for air operations.Directe
+1 CONC d when pilots could fly according to weather conditions and pilot experience, training and abilityEntered at Lackland
+1 CONC , San Antonio, TexasCompleted OCS, Aug 1952Assigned to St Louis UniversityAF Institute of Technology, Dayton OH to A
+1 CONC ug 1953Assigned to Greenier AF Base, Manchester, NHTemporarily assigned to Tulier AF Base, GreenlandAzoresFrankfur
+1 CONC t GermanyPrestwick ScotlandAgencier Naval Air Base, NewfoundlandAssigned to West Palm Beach AF Base Nov 1955 until A
+1 CONC ug 1956Released from active duty
+1 CONT Additional information about this story
+1 CONT Description
+1 CONT
+1 CONT Date
+1 CONT June 1952
+1 CONT Location
+1 CONT Greenier AF Base, Manchester NH
+1 CONT Attached to
+1 CONT 	•	William Kelley (1929 - )
+0 @N73@ NOTE
+1 CONT Mark Francis Carr and Mary Catherine MacNamara Carr 1958
+1 CONT http://trees.ancestry.com/rd?f=image&guid=1baff488-405b-4480-925b-03bc6eddc596&tid=4644803&pid=-1571420561
+1 CONT
+1 CONT US Navy in WW I
+1 CONT http://trees.ancestry.com/rd?f=document&guid=bb16edd8-b12b-45fb-a153-a1b060ea8701&tid=4644803&pid=-1571420561
+1 CONT
+1 CONT Mark served in the US Navy during WW I. He was a valet for the admiral based in Boston harbor.Mark wanted a transfe
+1 CONC r to get closer to Ireland, but he stayed very close to home.
+1 CONT Additional information about this story
+1 CONT Description
+1 CONT
+1 CONT Date
+1 CONT 1918
+1 CONT Location
+1 CONT Boston, MA
+1 CONT Attached to
+1 CONT 	•	Mark Francis Carr (1888 - 1959)
+0 @N197@ NOTE
+1 CONT Mark Francis Carr and Mary Catherine MacNamara Carr 1958
+1 CONT http://trees.ancestry.com/rd?f=image&guid=1baff488-405b-4480-925b-03bc6eddc596&tid=4644803&pid=-1571418538
+0 @N235@ NOTE
+1 CONT Margeret Aldridge, John Fennessy, John Terence Fennessy, PeggyFennessy
+1 CONT http://trees.ancestry.com/rd?f=image&guid=d6ab4763-c499-4b44-b246-330088998e5b&tid=4644803&pid=-1570797921
+0 @N335@ NOTE
+1 CONT Eamon and Mary Louise Fennessy Wedding Announcement
+1 CONT http://trees.ancestry.com/rd?f=image&guid=0ecf4e66-760a-446d-806c-c54a386dc58e&tid=4644803&pid=-1570967795
+0 @N708@ NOTE
+1 CONT Alice Duane
+1 CONT http://trees.ancestry.com/rd?f=document&guid=1ebe57fc-9651-4bd7-9196-c58dc68b7608&tid=4644803&pid=-1490734076
+1 CONT Notes from Frances Fennessy
+1 CONT I found two birthdates for Alice Duane. The 1900 U.S. census and Walter Powers birth certificate says she was born in F
+1 CONC ebruary of 1874. Although I received baptismal certificates for 5 of her 6 siblings from parish of Ardfinnan, Tipperar
+1 CONC y County, Ireland, the priest could not locate one for her. She was the oldest child, so since her parents were marrie
+1 CONC d in April of 1869, I've guessed that the 1870 date is correct.
+1 CONT Her brothers and sisters were baptised in the diocese of Lismore, parish of Ardfinnan, her parents were living in Brick
+1 CONC , Knocklofty, on the estate of Lord Donoughmore. Her letter to her son, Walter,  states that the cottage at Brick was b
+1 CONC uilt for Grandpa (her father) by Lord Donoughmore. 
+1 CONT In 1900 she was living at 713 2nd Avenus, New York City.
+1 CONT She immigrated with her parents and her siblings in 1884 to New York City. he always told the story of how a whale hi
+1 CONC t the ship they were on, damaging it, and they limped into New York harbor.
+1 CONT She also remembered the blizzard of 1888 (March 11).
+1 CONT From her obituary:
+1 CONT  
+1 CONT Powers' Mother Buried Monday
+1 CONT Mrs Alice Powers, mother of Sergeant Walter Powers, of the Port Washington police department, passed away at her home i
+1 CONC n Brooklyn last Friday, in her 68th year. She was seriously injured in a fall last November which was the direct caus
+1 CONC e of her death. She is survived by two sons, Walter and Russell, and two daughters, Edna and Helene, also by two sister
+1 CONC s, Miss Nellie A. Duane and Mrs Harry McNiece of Jackson Heights.
+1 CONT Interment took place in St John's cemetery, Middle Village, Queens on Monday. 
+0 @N773@ NOTE
+0 @N775@ NOTE
+1 CONT Eamon was a page for the US Representative Christian Herter, from Massachusetts. Herter later served as US Secretary o
+1 CONC f State from 1959 to 1961.
+1 CONT
+1 CONT Eamon and Mary Louise Fennessy Wedding Announcement
+1 CONT http://trees.ancestry.com/rd?f=image&guid=0ecf4e66-760a-446d-806c-c54a386dc58e&tid=4644803&pid=-1571455703
+1 CONT
+1 CONT Naval Service
+1 CONT http://trees.ancestry.com/rd?f=document&guid=6f021486-9f53-4b3d-bae4-f18a2b0e5f9e&tid=4644803&pid=-1571455703
+1 CONT
+1 CONT Eamon served in the US Navy during the 1950s. He had a New Years party on 31 Dec 1955 at 9 Whittemore St and invited hi
+1 CONC s friend and fellow officer Jim McGill. Jim met Eamon's sister Kathleen and married her 6 months later. Jim and Kathlee
+1 CONC n were married for 51 years, until Jim's death in 2007.
+1 CONT
+1 CONT Patrick and Eamon were registered at birth by their father, who spelled their last name Fennessey. Their mother later c
+1 CONC orrected this misspelling.
+0 @N789@ NOTE
+1 CONT Margeret Aldridge, John Fennessy, John Terence Fennessy, PeggyFennessy
+1 CONT http://trees.ancestry.com/rd?f=image&guid=d6ab4763-c499-4b44-b246-330088998e5b&tid=4644803&pid=-1570798518
+0 @N793@ NOTE
+1 CONT Margeret Aldridge, John Fennessy, John Terence Fennessy, PeggyFennessy
+1 CONT http://trees.ancestry.com/rd?f=image&guid=d6ab4763-c499-4b44-b246-330088998e5b&tid=4644803&pid=-1571455940
+0 @N803@ NOTE
+1 CONT Eulogy from Deirdre, Anita and Maura
+1 CONT http://trees.ancestry.com/rd?f=document&guid=62281058-c92f-4c40-bb23-9e98efc7e547&tid=4644803&pid=-1570946745
+1 CONT
+1 CONT
+1 CONT This was Mark's eulogy, composed by three of his sisters.
+1 CONT Mark T Fennessy
+1 CONT  
+1 CONT Mark lived exactly the way he wanted. He created a distinct path, vibrating with enthusiasm and excitement about what h
+1 CONC e could create and how he felt, and he was happy with that. Meeting new friends and discussing life were always a big p
+1 CONC art of his travels.
+1 CONT He hitch hiked across the country, years ago, with $ 0.17 in his pocket. People he met along the way took him in, fed h
+1 CONC im, gave him a ride to the next highway-wishing him well and glad they could help him.
+1 CONT Mark was an avid bicyclist so that he could stop to enjoy nature's sanctuaries along the way and so he could keep his b
+1 CONC ody strong and healthy. The beauty and tranquility of nature nourished him. He spent as much time as he could in Nature
+1 CONC 's company. Though Mark wanted few amenities for himself, he worked hard to raise money through the New Haven Communit
+1 CONC y Service agency for those less fortunate who needed financial and emotional help.
+1 CONT Mark was to be envied for his strong sense of self. No matter what he said or did, he did it with sincerity and convict
+1 CONC ion. Mark and a strong faith - in his friends and families and in himself, and the quality of his art work.
+1 CONT Being a member of a large family was comforting to Mark. He received unconditional love from many people even when we d
+1 CONC id not always keep in constant touch with each other.
+1 CONT In the last several years, Mark's spriritual life was very important to him. Healings, miracles and the afterlife enter
+1 CONC ed into his conversations. If he knew a friend or relative was sick, he would offer and give spiritual healings. The af
+1 CONC terlife for Mark, was to be a time of celebration -- a return to home, to the source that inspired him throughout his l
+1 CONC ife.
+1 CONT If we were to describe Mark simply - it would be - Mark was a caring, thought-provoking, enthusiastic and creative pers
+1 CONC on. Mark had a gift of seeing the extraordinary in the ordinary, the desire to share that with other people.
+1 CONT We respected and admired the contribution Mark made to each of our lives, and we will miss him most because we loved hi
+1 CONC m.
+1 CONT Deirdre
+1 CONT Maura
+1 CONT Anita
+1 CONT (transcribed by Quentin Fennessy) 
+0 @N819@ NOTE
+1 CONT 9 Whittemore St
+1 CONT http://trees.ancestry.com/rd?f=image&guid=14e4be74-bdd4-496b-beee-9e5a826ef623&tid=4644803&pid=-1571460080
+1 CONT
+1 CONT Mary (Spillane) and Patrick Fennessy
+1 CONT http://trees.ancestry.com/rd?f=image&guid=3c3aa47e-b167-416b-b5ce-8c3f90baa165&tid=4644803&pid=-1571460080
+1 CONT
+1 CONT The Pub on the Quay
+1 CONT http://trees.ancestry.com/rd?f=document&guid=affda8b8-2763-4989-917e-821cc1c31029&tid=4644803&pid=-1571460080
+1 CONT from notes by Frances Fennessy, from Kathy O'Leary
+1 CONT Tim and Nora had a pub on the quay in Bantry. This pub was still standing in 1986, called Lynch's. This is where Mary S
+1 CONC pillane met Pat Fennessy. Mary and her sisters Nellie and Katie used to help out at the pub. British Navy would come t
+1 CONC o the harbor and the British sailors would go to the pub, where there were dances.
+1 CONT
+1 CONT Patrick Joseph returned to Ireland only once, in 1947, by himself.
+0 @N821@ NOTE
+1 CONT Frances Powers and Patrick Fennessy
+1 CONT http://trees.ancestry.com/rd?f=document&guid=725a8ec1-2337-4e31-9296-19a22260a529&tid=4644803&pid=-1571501364
+1 CONT
+1 CONT Frances and Patrick met when they were both working in the Washington, DC area. Frances was working in the Pentagon an
+1 CONC d Patrick was working for Honeywell. They were married on 20 Feb 1960 in Port Washington, New York, at St Peters of Alc
+1 CONC antara.
+1 CONT
+1 CONT Patrick took a job in California in late 1960. Their first child was Quentin Patrick, born 12 May 1961 in California. T
+1 CONC hey moved to 47 Union Ave, Upper Saddle River, New Jersey in June 1961. They built a bomb shelter under their back yard
+1 CONC . You entered the shelter via a steel door in the cellar wall, down a short passage with a 90 degree turn, and then a 6
+1 CONC ’ ladder down. There was space for 8 people in the shelter, which covered Patrick, Frances, Quentin and Patrick’s broth
+1 CONC er Eamon, Mary Louise, Kevin and Maureen, who also lived in Upper Saddle River. The shelter had air intakes in the lawn
+1 CONC , with filters to exclude particles larger than 3 microns.
+1 CONT
+1 CONT Their second child was Duane Marie, born 16 March 1962 and who only lived for two days.  She is buried in Mahwah, New J
+1 CONC ersey. 
+1 CONT They adopted Tracey (Therese Marie) via Catholic Charities.  Tracey was born on 8 March 1964, and was adopted on 5 Ma
+1 CONC y 1964. 
+1 CONT They  adopted Colin Pierce on 17 Dec 1965, also from Catholic Charities. Colin was born 14 October 1965.
+1 CONT They  adopted Duane Patricia on 12 Dec 1967, from the Bureau of Indian Affairs. Duane was born in Arizona and is a memb
+1 CONC er of the Papago and Mojave tribes. 
+1 CONT The family lived in several places, including Upper Saddle River, New Jersey until 1963, then Harrisburg Pennsylvania u
+1 CONC ntil 1966, then Whitemarsh Pennsylvania until 1970, then Wyncote Pennsylvania until 1975, then Plymouth Massachusetts u
+1 CONC ntil 1986, then West Roxbury Massachusetts. Francis died in 1990 while they lived in West Roxbury. Pat moved to Austi
+1 CONC n Texas in 2005.
+0 @N823@ NOTE
+1 CONT Margeret Aldridge, John Fennessy, John Terence Fennessy, PeggyFennessy
+1 CONT http://trees.ancestry.com/rd?f=image&guid=d6ab4763-c499-4b44-b246-330088998e5b&tid=4644803&pid=-1571455597
+0 @N899@ NOTE
+1 CONT William Joseph Kelley and Margaret Gilraine Kelley
+1 CONT http://trees.ancestry.com/rd?f=image&guid=c846682d-9fcb-4741-81b6-b681aeec99a6&tid=4644803&pid=-1571424747
+0 @N1175@ NOTE
+1 CONT William Joseph Kelley and Margaret Gilraine Kelley
+1 CONT http://trees.ancestry.com/rd?f=image&guid=c846682d-9fcb-4741-81b6-b681aeec99a6&tid=4644803&pid=-1571425122
+0 @N1346@ NOTE
+1 CONT Jim McGill on the Samuel B Roberts, by Eamon Fennessy
+1 CONT http://trees.ancestry.com/rd?f=document&guid=a25ea43a-383c-434b-ac8a-bcb3df9d00d8&tid=4644803&pid=-1571379675
+1 CONT
+1 CONT
+1 CONT
+1 CONT Thoughts on Jim McGill
+1 CONT http://trees.ancestry.com/rd?f=document&guid=29559b4a-fc9a-4c69-8ac4-74a31a2ee1ae&tid=4644803&pid=-1571379675
+1 CONT
+1 CONT These thoughts were posted at the online obituary for James McGill.
+1 CONT  These thoughts were posted at the online obituary for James McGill.http://www.legacy.com/BostonGlobe/GB/GuestbookView.
+1 CONC aspx?PersonId=97476225
+1 CONT http://www.legacy.com/BostonGlobe/GB/GuestbookView.aspx?PersonId=97476225
+1 CONT
+1 CONT
+1 CONT December 23, 2007 Aunt Kathleen our condolences. Uncle Jim was a great guy. Our thoughts and prayers go out to you an
+1 CONC d your family.
+1 CONT
+1 CONT The Fennessy's 
+1 CONT Kevin,Nancy,Joe,Emma and Rose    Kevin Fennessy (North Andover, MA) 
+1 CONT Contact me
+1 CONT
+1 CONT    November 22, 2007 Our family met Mr. McGill through his daughter Kathleen James, and we will always remember him wit
+1 CONC h fondness. He was truly a wonderful person. Our son Matt visited the Jameses last winter, and the McGills kindly welco
+1 CONC med him into their home. Our hearts and prayers are with the families; we wish you God's peace and comfort.    Kenny an
+1 CONC d JoAnn Barham (Longmont, CO) 
+1 CONT Contact me
+1 CONT
+1 CONT    November 8, 2007 Remembering Uncle Jim, always put a smile on my face. His stories were always intersting. One of m
+1 CONC y favorite Uncles, he'll be sorely missed. Love and prayers to Aunt Kathleen and cousins. 
+1 CONT Warm regards, Nancy (McGill) Larry,Dan and Gina Gilardi    Nancy Gilardi (Norton, MA) 
+1 CONT Contact me
+1 CONT
+1 CONT    November 7, 2007 Goodbye, Uncle Jim. You meant a great deal to me. I always enjoyed your dry sense of humor, and tal
+1 CONC king to you about history, politics, family and photography.
+1 CONT
+1 CONT You encouraged me to pursue photography a long time ago, and that hobby remains a source of joy to me today.
+1 CONT
+1 CONT Your nephew (little) Quentin    Quentin Fennessy (Austin, TX) 
+1 CONT Contact me
+1 CONT
+1 CONT    November 7, 2007 My deepest sympathy goes out to my Aunt Kathleen and cousins on the death of my Uncle Jim. I have m
+1 CONC any fond memories of Jim - especially all his great story telling and fantastic sense of humor. He always had a smile o
+1 CONC n his face and we both shared a love of playing softball. I will miss him dearly. Warm regards, Kathy (McGill) Scarpone
+1 CONC , Mike and Michaela Scarpone (of Norwood, MA)    Kathy Scarpone (Norwood, MA) 
+1 CONT Contact me
+1 CONT
+1 CONT    November 7, 2007 Truly a man of strength and humor. He made me laugh only this past summer when he graced my daughte
+1 CONC r's college graduation party. None of us shall stray far from his tree.    Patrick Joseph McGill (Providence, RI) 
+1 CONT Contact me
+1 CONT
+1 CONT    November 7, 2007 Mr. McGill,
+1 CONT Sir, I didn't know you but I would just like to say thank you for your service and sacrifice for our Country when you s
+1 CONC erved in the U.S. Navy during the Korean War. And to your family and loved ones, I wish to extend my deepest sympathy
+1 CONC .    Mike Casey (El Paso(former MA resident), TX) 
+1 CONT Contact me
+1 CONT  
+0 @N1361@ NOTE
+1 CONT Spillane Homestead
+1 CONT http://trees.ancestry.com/rd?f=image&guid=1bdbca8e-f567-41bd-aca2-335f8bc0206b&tid=4644803&pid=-1570986233
+0 @N1522@ NOTE
+1 CONT Alice Elizabeth Pierce
+1 CONT http://trees.ancestry.com/rd?f=image&guid=ed2da02e-7713-4667-b163-e8819d0143ea&tid=4644803&pid=-1571457381
+1 CONT
+1 CONT Walter enlisted in the US Navy on 21 March 1918, NYC #213-285. He attended the Naval Training Camp at Pelham Bay Park
+1 CONC , New York, and the Seaman Gunners School in Washington, DC. Walter was discharged on 20 Dec 1918, with the rank of Sea
+1 CONC man 1/C (First Class). His short enlistment might have been because WWI had just ended.
+1 CONT After he was discharged from the Navy, (as of 19 July 1919) Walter lived at 417 Kentucky Ave, SE, Washington,DC. In 192
+1 CONC 1 Walter lived at 822 Second Ave, New York City.  
+1 CONT Walter worked for his father for six months, ending in April 1923. He then worked at City National Bank for 2 months. I
+1 CONC n June 1923 he started at Gallagher's Sand Bank in Round House and worked there until August, 1924. Gallaghers was a sa
+1 CONC nd quarry. He also worked at Van Arthurs sand quarry. 
+1 CONT Walter variously supported himself and his family by painting, carrying mail in Great Neck, Long Island, the sand quarr
+1 CONC ies again, and driving a taxi from Aug 1927 to July 1928.
+1 CONT Walter joined the Port Washington Police Department on 20 Sep 1928. He retired in June 1959 from there with a rank of L
+1 CONC ieutenant. 
+1 CONT
+1 CONT Additional information about this story
+1 CONT Description
+1 CONT Info from Frances Fennessy's notes from Walter and Alice Power's diaries and Walter's life story.
+1 CONT Date
+1 CONT
+1 CONT Location
+1 CONT Long Island, New York
+1 CONT Attached to
+1 CONT 	•	Walter Leo Powers (1900 - 1960)
+0 @N1537@ NOTE
+1 CONT Robert Xavier Pierce
+1 CONT http://trees.ancestry.com/rd?f=image&guid=e84aad47-c9bc-4b8e-9426-4abf1c4ef4d0&tid=4644803&pid=-1482775265
+1 CONT
+1 CONT Robert Xavier Pierce
+1 CONT http://trees.ancestry.com/rd?f=document&guid=dced5a05-7c96-48fe-bc6e-507199fd4ad1&tid=4644803&pid=-1482775265
+1 CONT
+1 CONT From notes by Frances Fennessy and various newspaper articles and obituaries.
+1 CONT
+1 CONT Robert emigrated to the US in 1880 and was a naturalized American citizen. His occupation then was "Hostler, R.R." He o
+1 CONC wned his home free of mortgage. IN 1905, he moved his family to Roslyn, Nassau County, N.Y. He eventually moved to Por
+1 CONC t Washington, N.Y. where he lived with his daughter, Annie Dargan, at 17 South Bayles Ave. 
+1 CONT He worked for Goodwin Gallagher Sand & Gravel Corp. He retired in _____. (there is a gold retirement medal that Annie D
+1 CONC argan gave Frances Fennessy that has this date. The medal may have been lost.)
+1 CONT He was a charter member of the Port Washington Council, Knights of Columbus and a member of the Brotherhood of Locomoti
+1 CONC ve Engineers and Fireman for 45 years.
+1 CONT On 21 March 1938 he tripped while getting host out of his cellar and fell down the cellar steps. He fractured many ribs
+1 CONC . He was taken to Meadowbrook Hospital where he developed pneumonia and died on 5 April 1938. 
+1 CONT "hostler" is the analogous title for a railroad employee qualified to move locomotives while in a yard or shops complex
+1 CONC , but not on the main line. (From Wikipedia)
+0 @N1545@ NOTE
+1 CONT Patrick Power
+1 CONT http://trees.ancestry.com/rd?f=document&guid=96f7490a-9076-43da-891f-ecb1bde0092a&tid=4644803&pid=-1490747874
+1 CONT
+1 CONT Patrick Power was evidently married twice. Frances Fennessy was unable to find any record of Patrick's first marriage
+1 CONC . In 1974, Eileen Newhoff Fruhel) his grand-daughter) told Frances that our uncle Russell knew of a Sadie Powers in Bro
+1 CONC oklyn, who had married Patrick's son from his first marriage.
+1 CONT Walter Powers and Edna Newhoff said Patrick was either born on a ship or in Bombay, India where his father was in the B
+1 CONC ritish Army. 
+1 CONT
+1 CONT Additional information about this story
+1 CONT Description
+1 CONT From the notes of Frances Fennessy
+1 CONT Date
+1 CONT
+1 CONT Location
+1 CONT
+1 CONT Attached to
+1 CONT 	•	Patrick Power (1862 - 1933)
+0 @N1546@ NOTE
+1 CONT Powers / Dieters / Raynors 2007
+1 CONT http://trees.ancestry.com/rd?f=image&guid=3b48120c-ebdb-410e-b6f1-79046bf052cf&tid=4644803&pid=-1571401013
+0 @N1547@ NOTE
+1 CONT Frances Powers and Patrick Fennessy
+1 CONT http://trees.ancestry.com/rd?f=document&guid=725a8ec1-2337-4e31-9296-19a22260a529&tid=4644803&pid=-1571488471
+1 CONT
+1 CONT Frances and Patrick met when they were both working in the Washington, DC area. Frances was working in the Pentagon an
+1 CONC d Patrick was working for Honeywell. They were married on 20 Feb 1960 in Port Washington, New York, at St Peters of Alc
+1 CONC antara.
+1 CONT Their first child was Quentin Patrick, born 12 May 1961 in California. They moved to New Jersey in June 1961. Their sec
+1 CONC ond child was Duane Marie, born 16 March 1962 and who only lived for two days.  She is buried in Mahwah, New Jersey. 
+1 CONT They adopted Tracey (Therese Marie) via Catholic Charities.  Tracey was born on 8 March 1964, and was adopted on 5 Ma
+1 CONC y 1964. 
+1 CONT They  adopted Colin Pierce on 17 Dec 1965, also from Catholic Charities. Colin was born 14 October 1965.
+1 CONT They  adopted Duane Patricia on 12 Dec 1967, from the Bureau of Indian Affairs. Duane was born in Arizona and is a memb
+1 CONC er of the Papago and Mojave tribes. 
+1 CONT The family lived in several places, including Upper Saddle River, New Jersey until 1963, then Harrisburg Pennsylvania u
+1 CONC ntil 1966, then Whitemarsh Pennsylvania until 1970, then Wyncote Pennsylvania until 1975, then Plymouth Massachusetts u
+1 CONC ntil 1986, then West Roxbury Massachusetts. Francis died in 1990 while they lived in West Roxbury. Pat moved to Austi
+1 CONC n Texas in 2005.
+0 @N1548@ NOTE
+1 CONT Jim Powers in the USMC
+1 CONT http://trees.ancestry.com/rd?f=document&guid=45e8b830-ff3a-4c9a-8e91-ed232cb0897b&tid=4644803&pid=-1571384113
+0 @N1550@ NOTE
+1 CONT Walter Leo Powers Senior
+1 CONT http://trees.ancestry.com/rd?f=document&guid=c18b0b7b-1c79-4af3-92fc-e355c45ff4c9&tid=4644803&pid=-1571457599
+1 CONT
+1 CONT Walter enlisted in the US Navy on 21 March 1918, NYC #213-285. He attended the Naval Training Camp at Pelham Bay Park
+1 CONC , New York, and the Seaman Gunners School in Washington, DC. Walter was discharged on 20 Dec 1918, with the rank of Sea
+1 CONC man 1/C (First Class). His short enlistment might have been because WWI had just ended.
+1 CONT After he was discharged from the Navy, (as of 19 July 1919) Walter lived at 417 Kentucky Ave, SE, Washington,DC. In 192
+1 CONC 1 Walter lived at 822 Second Ave, New York City.  
+1 CONT Walter worked for his father for six months, ending in April 1923. He then worked at City National Bank for 2 months. I
+1 CONC n June 1923 he started at Gallagher's Sand Bank in Round House and worked there until August, 1924. Gallaghers was a sa
+1 CONC nd quarry. He also worked at Van Arthurs sand quarry. 
+1 CONT Walter variously supported himself and his family by painting, carrying mail in Great Neck, Long Island, the sand quarr
+1 CONC ies again, and driving a taxi from Aug 1927 to July 1928.
+1 CONT Walter joined the Port Washington Police Department on 20 Sep 1928. He retired in June 1959 from there with a rank of L
+1 CONC ieutenant. 
+1 CONT
+1 CONT Additional information about this story
+1 CONT Description
+1 CONT Info from Frances Fennessy's notes from Walter and Alice Power's diaries and Walter's life story.
+1 CONT Date
+1 CONT
+1 CONT Location
+1 CONT Long Island, New York
+1 CONT Attached to
+1 CONT 	•	Walter Leo Powers (1900 - 1960)
+0 @N1551@ NOTE
+1 CONT Walter Leo Powers Jr
+1 CONT http://trees.ancestry.com/rd?f=document&guid=c0437781-016c-4679-873f-a84586352561&tid=4644803&pid=-1571384551
+1 CONT
+1 CONT At the age of 6 months (on 31 August 1930), Walter won a new Chevrolet in a raffle. The Powers family kept the car unti
+1 CONC l 8 June 1937 when they sold it and bought a 1933 Ford.
+1 CONT Walt married Joan Fisher in 1953. They had six children while living in Indiana. They subsequently moved to Kansas.  Wa
+1 CONC lt and Joan divorced.
+1 CONT In 1976 Walt married Clarice Sigler.  They moved to Idaho and back to Kansas. 
+1 CONT Walt had many occupations, includin
+1 CONT 		High school teacher
+1 CONT 		coach
+1 CONT 		principal
+1 CONT 		assistant superintendent of schools (Indiana)
+1 CONT 		vice president of Psycho-Technics, publishers, Chicago
+1 CONT 		university administrator, Wichita State
+1 CONT 		school superintendent, Coeur Dalene Idaho
+1 CONT 		Owner of several health-related businesses in Derby Kansas 
+0 @N1566@ NOTE
+1 CONT The Foxy Paddy nickname was because he had red hair.
+1 CONT
+1 CONT From Frances Fennessy's notes.
+1 CONT
+1 CONT Anna and Maurice Spillane Wedding 1904, names and faces
+1 CONT http://trees.ancestry.com/rd?f=image&guid=973ca624-3213-442e-91ea-0a0becc87608&tid=4644803&pid=-1543629083
+1 CONT
+1 CONT Anna and Maurice Spillane Wedding 1904
+1 CONT http://trees.ancestry.com/rd?f=image&guid=200ca118-da9b-4fcb-8153-adbd7e9d7029&tid=4644803&pid=-1543629083
+0 @N1567@ NOTE
+1 CONT Anna and Maurice Spillane Wedding 1904, names and faces
+1 CONT http://trees.ancestry.com/rd?f=image&guid=973ca624-3213-442e-91ea-0a0becc87608&tid=4644803&pid=-1543607017
+1 CONT
+1 CONT Anna and Maurice Spillane Wedding 1904
+1 CONT http://trees.ancestry.com/rd?f=image&guid=200ca118-da9b-4fcb-8153-adbd7e9d7029&tid=4644803&pid=-1543607017
+1 CONT
+1 CONT Gabbie Spillane
+1 CONT http://trees.ancestry.com/rd?f=document&guid=ddca650c-085e-4d33-aa32-2f56c5bdbb38&tid=4644803&pid=-1543607017
+1 CONT
+1 CONT Transcribed by Quentin Fennessy from Frances Fennessy's notes, derived from interviews with Peggy Guzman and Kathleen O
+1 CONC 'Leary and from a letter from Birdie Dorney.
+1 CONT During "The Troubles," men were hiding in Gabbie's house, above the ceiling. British came looking for them. Gabbie wen
+1 CONC t outside and faced them down -- told them they couldn't come in her house. But they did and poked bayonets through cei
+1 CONC ling but didn't find the men. Kathy's father, Sonny (Patrick) Spillane, tol her stories like this and the impression sh
+1 CONC e got is that Gabbie was very brave. 
+1 CONT See Jimmy Spillane's cassette notes for more about Gabby)
+1 CONT Birdie Dorney talked about her Aunt Mary (Gabbie). Bridie always had a good time at Gabbie's house. Gabbie cooked 'love
+1 CONC ly' chicken in a bastille and made a cake for them. A Bastille was a rough wrought iron pan that you could cook anythin
+1 CONC g in - cake, fish or meat.
+1 CONT There was dancing & singing every night & "yarn letting." That's when Birdie really "felt free." Her father was very st
+1 CONC rict. Visits to Bantry opened up a real new world to her.
+1 CONT Gabbie got her nickname from her grandchildren. She was also called "Mary Paddy." 
+1 CONT The 1901 census described her home: 4 room house, thatched roof, 1 stable, 1 calf house, 1 piggery, 1 cow house, 3 wind
+1 CONC ows in front of the house. 
+1 CONT
+1 CONT When Mary’s daughter Sheila was born, Mary sent her daughter Mary Frances for a midwife - but Sheila was born before th
+1 CONC ey returned. She delivered her child alone.
+0 @N1576@ NOTE
+1 CONT 9 Whittemore St
+1 CONT http://trees.ancestry.com/rd?f=image&guid=14e4be74-bdd4-496b-beee-9e5a826ef623&tid=4644803&pid=-1571457846
+1 CONT
+1 CONT Spillane Homestead
+1 CONT http://trees.ancestry.com/rd?f=image&guid=1bdbca8e-f567-41bd-aca2-335f8bc0206b&tid=4644803&pid=-1571457846
+1 CONT
+1 CONT Mary (Spillane) and Patrick Fennessy
+1 CONT http://trees.ancestry.com/rd?f=image&guid=3c3aa47e-b167-416b-b5ce-8c3f90baa165&tid=4644803&pid=-1571457846
+1 CONT
+1 CONT The Pub on the Quay
+1 CONT http://trees.ancestry.com/rd?f=document&guid=affda8b8-2763-4989-917e-821cc1c31029&tid=4644803&pid=-1571457846
+1 CONT
+1 CONT from notes by Frances Fennessy, from Kathy O'Leary
+1 CONT Tim and Nora had a pub on the quay in Bantry. This pub was still standing in 1986, called Lynch's. This is where Mary S
+1 CONC pillane met Pat Fennessy. Mary and her sisters Nellie and Katie used to help out at the pub. British Navy would come t
+1 CONC o the harbor and the British sailors would go to the pub, where there were dances.
+0 @N1713@ NOTE
+1 CONT Transcript of a recording made by Patrick Fennessy, date unknown
+1 CONT This covers 1930 - 1951 or so
+1 CONT
+1 CONT This is Patrick Fennessy
+1 CONT I was born on June 7 1930 at 10 Levant St in Dorchester MA
+1 CONT I was born at home.
+1 CONT We moved from 10 Levant to 204 Bowdoin st to 227 Bowdoin St to 10 Harvard Ave
+1 CONT In Aug 1943 we moved to 9 Whittemore St in West Roxbury
+1 CONT
+1 CONT I went to Kindergarten on Meeting house hill in a school that I think has since been torn down but I am not sure
+1 CONT From there I went to a school one street over from the Champlain school.
+1 CONT That;’s where we started our first victory gardens - on the front lawn of  the first school
+1 CONT Then I went to the Champlain School
+1 CONT Then I wnet to Oliver Wendell Holmes School - which was across the street
+1 CONT I then went to Latin School
+1 CONT From Latin I went to English High. I graduated from English High
+1 CONT I then went back to Latin for what we called PG or Post Graduate school, so I could get into college.
+1 CONT I went to Boston University General College in 1948
+1 CONT I went through 2 years of general college - I did not graduate even though it was a 2 year college, because I hadn’t pa
+1 CONC ssed in some paper or other
+1 CONT I went to night school the next year, but got sick of school
+1 CONT I decided to go into the Air Force
+1 CONT So in November 1951 I went into the Air Froce and went down to San Antonio - I’m truying to think of the air force bas
+1 CONC e there. Lackland AFB
+1 CONT I went through basic.
+1 CONT From Basic I was sent to Keesler AFB for Electronic Fundamentals then I wnt through Radar Fundamentals
+1 CONT Ten I was sent to Lawry AFB n Denver to go through Advanced Radar, which would end me up in Strategic Air Command
+1 CONT They asked for volunteers for Guided Missiles, and I quickly volunteered.
+1 CONT I went into the 2nd class of the guided missile school
+0 @N1746@ NOTE
+1 CONT 9 lb. 14 oz., 21 inches long
+0 @N1768@ NOTE
+1 CONT Maurice Spillane was Patrick’s favorite uncle. He recalls being scared of Maurice’s wife Nora. They lived in Milton, i
+1 CONC n a nice house on a river, with a separate house for the kids.
+1 CONT
+1 CONT Maurice worked at Milton Academy. He was always busy, with 2 or more jobs. 
+1 CONT
+1 CONT Maurice was the first person Dad knew who owned a refrigerator--one with a large radiator above it.
+1 CONT
+1 CONT Maurice let Patrick stay at one of the homes he maintained, and Patrick worked at Milton Academy once.
+0 @N1769@ NOTE
+1 CONT Childhood
+1 CONT
+1 CONT Patrick attended elementary school in Dorchester. He describes it as being ‘across the street’ from the Oliver Wendel
+1 CONC l Holmes school. This was likely the Samuel de Champlain School at 22 School Street. He recalls the swings had seats ma
+1 CONC de of 1” thick pine boards and hung by heavy chains. He was hit in the head by these swings more than once. During WW I
+1 CONC I the lawns of the school were converted to Victory Gardens. He attended Oliver Wendell Holmes School for 7th to 9th gr
+1 CONC ade, at 40 School St.
+1 CONT
+1 CONT Patrick worked as assistant to the milk man when the family lived in Dorchester. The milk cart was horse drawn, and th
+1 CONC e horse knew the route. Patrick and the driver would deliver two streets worth of milk and then meet the horse and wago
+1 CONC n down the street. This was around 1938-1940, and Patrick was paid in milk.
+1 CONT
+1 CONT The family lived at 10 Harvard Ave, in a first floor apartment.  At first they were going to rent a 3rd floor apartment
+1 CONC , but Peggy and Marion objected.
+1 CONT
+1 CONT Maurice Spillane gave Patrick a standard gauge train set. This was quite large and when set up the train rain through f
+1 CONC our rooms in the apartment. These model train tracks were originally set in a concrete cellar floor in home where Mauri
+1 CONC ce worked.
+1 CONT
+1 CONT Patrick had a job delivering newspapers when the family lived in West Roxbury -- the Boston Globe. Some of Dads custome
+1 CONC rs wanted the Boston Post instead, so Dad worked out a swap of Globe for Post at the store on Mt Vernon and Centre Stre
+1 CONC et -- so his customers got just what they wanted.
+1 CONT
+1 CONT Patrick worked at Harvard Medical School for a year when he was 17. He recalls it as an interesting job, slicing up cad
+1 CONC avers to train medical students.
+0 @N1770@ NOTE
+1 CONT Patrick Joseph worked at Boston Showcase Company during the depression. When business was slow the company reduced ever
+1 CONC yones hours. Eventually everyone still had their job, but they only worked one day per week.
+1 CONT
+1 CONT Patrick Joseph started working at the Boston Navy Yard before WW II. He felt very lucky to get the job. He worked a
+1 CONC s a cabinet maker in the electric shop until he died.
+1 CONT
+1 CONT Patrick Quentin (his son) recalls that PJ had five boxes of tools--but after he died somehow only two boxes were give
+1 CONC n back to the family. The other three had disappeared.
+0 @N1771@ NOTE
+1 CONT Automobiles
+1 CONT
+1 CONT During the late 1940s Patrick would drive his mother into the Market District every Saturday for food shopping. When Pa
+1 CONC trick was driving a car with a rumble seat they would fill the rumble seat with food on the drive home.
+1 CONT
+1 CONT Patrick’s first car was a 1933 Plymouth Coupe with a rumble seat. The rumble seat would not lock shut, and it would fli
+1 CONC p open during a quick start.
+1 CONT
+1 CONT Patrick drove a 1939 Chevy for a while, borrowed from his brother John Terence.
+1 CONT
+1 CONT Patrick owned a 1942 Chrysler Town and Country sedan -- made of wood. The trunk lid was made of wood and was so heavy t
+1 CONC here were two gas cylinders to lift it and hold it up.
+1 CONT
+1 CONT Patrick owned a 1961 Lincoln sedan when the family lived in Whitemarsh, Pennsylvania. This car had rear doors that open
+1 CONC ed towards the front - known as suicide doors. This car was so bad that it convinced him to never buy another Ford prod
+1 CONC uct.
+1 CONT
+1 CONT Patrick owned a late 1940s Dodge sedan, with the spare tire mounted on the trunklid. This was added by Patrick. The tir
+1 CONC e was intended to be stored in the trunk, but Patrick mounted it on the outside.
+1 CONT
+1 CONT Patrick owned a 1939 Buick Model 40 sedan. The family (especially Sheila Fennessy Burke) referred to this car as ‘Methu
+1 CONC selah.’ Patrick owned this car until 1986, although it had not run in decades.
+1 CONT
+1 CONT Patrick’s first new car was a black 1954 VW Beetle, which cost $1495. He purchased it in Massachusetts -- the only loca
+1 CONC l dealership was way out on Route 128. He added seat belts to the car while living in Arizona. Just days later he start
+1 CONC ed to drive to Boston, and while in Illinois he was involved in an accident where another driver t-boned his VW Beetle
+1 CONC . The drivers seat was smashed, so Patrick moved the passenger seat into place and completed the drive. Patrick attribu
+1 CONC tes his survival to the seat belts he had just installed.
+1 CONT
+1 CONT In 1956 he worked for National Company, and was transferred to work in the UK. He sold his 1954 Beetle, but before th
+1 CONC e move the contract was cancelled and so was the move to the UK. Patrick purchased a replacement vehicle - a dark blu
+1 CONC e 1957 VW Beetle.
+1 CONT
+1 CONT Patrick also owned a 1963 VW Beetle in Fontana Grey until about 1974. During the time Patrick and family lived in White
+1 CONC marsh, PA, he used the Beetle to tow a custom-built lawnmower, to trim the four acre lawn. This was featured in the V
+1 CONC W Magazine ‘Its a Small World’ based on a photo and letter submitted by Frances Powers Fennessy.
+1 CONT
+1 CONT Patrick owned a 1961 Chevrolet Station Wagon, with a large-block V8 and four-speed stick transmission. This was a 348c
+1 CONC i engine with 3 two-barrel carburetors. It was tuned to require premium fuel and was quite fast.
+1 CONT
+1 CONT 1967 Plymouth Fury III station wagon, white, red interior, automatic, 383 v8 with a 2bbl carb. Three rows of seats, wit
+1 CONC h the back row facing backwards. Rust bucket, lasted until approx 1978
+1 CONT
+1 CONT 1971 Austin American, 1275cc, two doors, red, automatic transmission.
+1 CONT
+1 CONT 1973 Chevrolet Impala “police package”, white, beige interior, four door. 8 track AM/FM radio.
+1 CONT 454 V8 with a 4bbl carburetor.  Lasted until about 1980?
+1 CONT
+1 CONT 1978 Chevrolet Impala station wagon, white, 350 V8, automatic transmission
+1 CONT
+1 CONT 1981 Chevrolet Impala “police package”, black, 350 V8, automatic
+1 CONT
+1 CONT 1986 Acura Legend, dark blue, 2.5l V6, automatic
+1 CONT
+1 CONT 1987 Acura Legend, dark blue, 2.5l V6, automatic
+1 CONT
+1 CONT 2005 Honda Accord, white
+0 @N1772@ NOTE
+1 CONT Higher Education and Employment
+1 CONT
+1 CONT Patrick graduated from Boston English High School in 1946. This was a difficult time to get into college, as many WW I
+1 CONC I veterans were attending college on the GI Bill. Patrick was accepted to Boston University with the help of one of hi
+1 CONC s English High School teachers.
+1 CONT
+1 CONT He started in the General College at BU - a two year program that led to a four year program. This was created for th
+1 CONC e returning GIs. Patrick worked at a coffee shop across from BU.
+1 CONT
+1 CONT Patrick enlisted in the US Air Force during the Korean war. He lived for a time in Denver, CO, attending the Universit
+1 CONC y of Colorado for Air Force training. He describes the other enlisted men in his squadron as smart, and as officer mate
+1 CONC rial. This was the First Pilotless Bomber Squadron -- which meant a guided missile group.
+1 CONT
+1 CONT Following the Korean war, Patrick worked at Raytheon Corporation in Massachusetts, testing radar sets during the nigh
+1 CONC t shift. He tells a story about aiming the radar set across the factory and lighting up the fluorescent lights above th
+1 CONC e night watchman. Raytheon developed the microwave oven..
+1 CONT
+1 CONT Patrick worked at National Company, doing a little bit of everything. He worked at Honeywell around 1959-1960 in the Wa
+1 CONC shington DC area. 
+1 CONT
+1 CONT He worked for AMP in Harrisburg, PA, from c 1962-1967.
+1 CONT
+1 CONT He worked for J&J Associates in Burlington, MA starting in 1974. He worked at Boston Systems Office in Waltham startin
+1 CONC g around 1978.
+0 @N1774@ NOTE
+1 CONT MATADOR and the Era of Winged Missiles
+1 CONT http://www.fas.org/spp/military/program/6555th/6555C2-1.htm
+1 CONT
+1 CONT Though the Army's BUMPER launches at Cape Canaveral were followed by the first launch of a REDSTONE ballistic missile i
+1 CONC n late August 1953, aerodynamic or "winged" missiles dominated the Cape's launch schedule for most of the 1950s. That d
+1 CONC ecade witnessed the introduction of the MATADOR, SNARK, BOMARC, NAVAHO and MACE aerodynamic missiles, among which the M
+1 CONC ATADOR, with over 280 launches to its credit, stood out as the most-launched missile of its era. The MATADOR was also t
+1 CONC he Cape's first full-fledged weapon system program and its initial deployment overseas included military launch crews t
+1 CONC rained by the 6555th Guided Missile Squadron at Cape Canaveral. Follow-on testing of the missile provided refinements i
+1 CONC n its performance as well as realistic training for several MATADOR squadrons under Tactical Air Command (TAC). As a di
+1 CONC rect descendant of the MATADOR, the MACE benefited from the "lessons learned" during MATADOR R&D testing in the 1950s
+1 CONC . Ultimately, the MATADOR had a profound impact on the 6555th's organization, manpower and "blue suit" launch tradition
+1 CONC s.1
+1 CONT Under the terms of a missile contract, the contractor was responsible for development of a weapon system based on ARDC-
+1 CONC approved technical requirements. Once a missile program reached the Cape, the Air Force Missile Test Center (AFMTC) wa
+1 CONC s charged with acquiring and recording data to confirm those technical requirements were being met. Missile tests on th
+1 CONC e Eastern Test Range focused on missile performance first, but they soon provided an opportunity for military participa
+1 CONC tion in launch operations. Like its predecessors at Eglin, Holloman and Patrick, the 6555th Guided Missile Wing was giv
+1 CONC en the pivotal role of observing the contractor's operations and analyzing the results of each test. This function wa
+1 CONC s designed to minimize additional validation launches, since military witnesses could confirm the contractor's complian
+1 CONC ce with basic test objectives during the R&D portion of a missile program. With regard to "operational suitability," AF
+1 CONC MTC planned to acquire a minimum launch capability for all missiles that came its way, and it set about developing grou
+1 CONC ps of trained military personnel to assemble, check out, prepare, launch and guide missiles assigned to AFMTC for testi
+1 CONC ng purposes. For the MATADOR program, some of the 6555th Guided Missile Squadron's observers and reporters became the m
+1 CONC embers of the initial MATADOR launch cadre, and they passed their training on to the first two operational MATADOR unit
+1 CONC s -- the 1st and 69th Pilotless Bomber Squadrons (Light). This training included on-the-job factory training, missile a
+1 CONC ssembly shop training, contractor and military instruction and simulated and real MATADOR launches.2
+1 CONT MATADOR operations became a large part of the 6555th's mission in the early 1950s, but the Wing had to consider its oth
+1 CONC er agencies and tasks as well. The 4803rd Guided Missile Squadron, for example, had been launching LARKS from Cape Cana
+1 CONC veral since October 1950. That mission continued under the 6556th Guided Missile Squadron with the launch of two more L
+1 CONC ARKS in June 1951. Detachment 1 also continued to support RAZON guided bomb tests at the Eglin Air Proving Ground throu
+1 CONC gh the end of July 1951, and its 30 officers and men were transferred to Patrick for reassignment to other duties withi
+1 CONC n the 6555th Guided Missile Wing in August 1951. The 6555th Test Support Squadron was activated on 4 September 1951 t
+1 CONC o operate and maintain various types of "chase" planes and control aircraft being used to support the Wing's various gu
+1 CONC ided missile projects. In addition to its LARK operations, the 6556th Guided Missile Squadron established a FALCON cadr
+1 CONC e at Holloman Air Force Base on 31 March 1952. It also organized a RASCAL cadre at Patrick on 16 June 1952 and sent i
+1 CONC t to Holloman. (Both cadres were transferred to the Holloman Air Development Center in early September 1952.) When th
+1 CONC e 6555th Guided Missile Wing was redesignated as a Group on 1 March 1953, most of its headquarters functions were dropp
+1 CONC ed, and the 6556th Guided Missile Squadron and 6555th Test Support Squadron were discontinued. Nevertheless, the 6555t
+1 CONC h Guided Missile Wing continued to have many time-consuming tasks apart from MATADOR.3
+1 CONT FALCON MISSILE - 1952
+1 CONT RASCAL AIR-TO-SURFACE MISSILE - 1951
+1 CONT SHRIKE TEST MISSILE - 1952
+1 CONT SHRIKE IN-FLIGHT LAUNCH - 1950
+1 CONT From its inception the 6555th Guided Missile Wing had a multi-faceted mission. As Wing Commander, Colonel George M. McN
+1 CONC eese was responsible for: 1) organizing, supervising and conducting guided missile tests assigned to AFMTC, 2) developi
+1 CONC ng handling techniques and tactics, 3) training cadres for tactical missile units, and 4) submitting reports on missil
+1 CONC e research and development. Apart from the five officers and 25 airmen at Eglin, Colonel McNeese had 30 officers and 7
+1 CONC 1 airmen working on various tasks at his Headquarters in June 1951. Fifty-two officers and 410 airmen were also assigne
+1 CONC d to the 6555th's two squadrons during this period. The 6555th Guided Missile Squadron, with 33 officers and 284 airmen
+1 CONC , was in training to assist the Glenn L. Martin Company with its MATADOR launch program. The Squadron also planned to c
+1 CONC onduct operational suitability tests on the MATADOR and train the first two operational MATADOR squadrons (i.e., the 1s
+1 CONC t and 69th Pilotless Bomber Squadrons), which were activated at Patrick in October 1951 and January 1952. The 6556th Gu
+1 CONC ided Missile Squadron, commanded by Lieutenant Colonel Henry B. Sayler, had 19 officers and 126 airmen involved in LAR
+1 CONC K operations as a functional training exercise in anticipation of more advanced surface-to-air missile programs like th
+1 CONC e BOMARC. With the creation of the 6555th Test Support Squadron on September 4th and the activation of the 1st Pilotles
+1 CONC s Bomber Squadron on October 1st, the Wing had 119 officers, two warrant officers and 599 airmen assigned to its variou
+1 CONC s operations by the end of October 1951. The Wing's strength increased rapidly after the 69th Pilotless Bomber Squadron
+1 CONC 's activation on 11 January 1952. By the end of June 1952, Colonel McNeese had the following resources:4 
+1 CONT ORGANIZATION
+1 CONT OFFICERS
+1 CONT AIRMEN
+1 CONT TOTAL
+1 CONT WING HQ
+1 CONT 32
+1 CONT 132
+1 CONT 164
+1 CONT 6555 TSS
+1 CONT 8
+1 CONT 137
+1 CONT 145
+1 CONT 6555 GMS
+1 CONT 28
+1 CONT 244
+1 CONT 272
+1 CONT 6556 GMS
+1 CONT 29
+1 CONT 239
+1 CONT 268
+1 CONT 1 PBS
+1 CONT 31
+1 CONT 326
+1 CONT 357
+1 CONT 69 PBS
+1 CONT 41
+1 CONT 256
+1 CONT 297
+1 CONT TOTAL
+1 CONT 169
+1 CONT 1334
+1 CONT 1503
+1 CONT The MATADOR (B-61) program commanded most of the 6555th's attention during its first four years at Cape Canaveral, s
+1 CONC o it is only fair to begin our review of the winged missiles with the MATADOR. Between 20 June 1951 and the end of Jun
+1 CONC e 1952, 18 bright-red MATADOR "X" and "Y" experimental missiles were launched from Cape Canaveral by the Glenn L. Marti
+1 CONC n Company and the 6555th. All but one of the launches validated the MATADOR's zero-length launcher. Nine of the flight
+1 CONC s confirmed that the MATADOR's airframe was airworthy, and several of the later flights verified the usefulness of a co
+1 CONC ntrol system prototype. The 6555th Guided Missile Squadron assisted the contractor in checking out and launching 16 o
+1 CONC f those missiles, including Number 547, which was the first B-61 prepared and launched successfully by an all-militar
+1 CONC y crew on 7 December 1951. Thus, by the time the 1st and 69th Pilotless Bomber Squadrons were ready to begin training i
+1 CONC n 1952, the 6555th was prepared to provide that instruction.5
+1 CONT MATADOR LAUNCH - 18 Jul 1951
+1 CONT MATADOR ON ROADABLE LAUNCHER - 1953
+1 CONT MATADOR TRANSPORT TRAILER - 1953
+1 CONT The 6555th's MATADOR training program was divided into three phases. During the first phase, personnel assigned to prop
+1 CONC ulsion and missile assembly received 13 days of individual training, and individuals assigned to missile guidance wer
+1 CONC e given 43 days of instruction. During the second phase, individual technicians were gathered into three distinct type
+1 CONC s of teams (e.g., assembly, checkout or launch) to start working on a MATADOR missile. This phase normally took about s
+1 CONC ix weeks, but lack of training missiles and ground equipment often conspired to make this phase of training longer. I
+1 CONC n the third phase, guidance, propulsion and assembly teams were joined together as crews. Crew training was expected t
+1 CONC o last 40 days, depending on the availability of training missiles. A final phase of training -- conducted by the squad
+1 CONC rons themselves -- turned the crews into an operational squadron under its own staff officers and commander. During thi
+1 CONC s final phase, the 6555th's instructors operated in an advisory capacity only.6
+1 CONT With regard to the training actually conducted in 1952, the 1st Pilotless Bomber Squadron began its individual trainin
+1 CONC g on 16 January 1952. Its team training in assembly, propulsion and controls started February 2nd and continued throug
+1 CONC h March. (Crew training in those areas caught up with crew training in the guidance area in April.) During the crew pha
+1 CONC se, missiles were assembled and checked out using assembly line procedures. Technicians checked engine systems and engi
+1 CONC ne run-ups followed. The launch crew took over and completed a simulated launch of the missile. (Initially, training mi
+1 CONC ssiles were provided by the 6555th, but the 1st Squadron received its first training missile -- Number 553 -- in June 1
+1 CONC 952.) Due to its later activation date and a lack of training equipment, the 69th training on airborne guidance and fli
+1 CONC ght control equipment, RATO equipment and missile engine systems until April 1952. Members of the 69th's launching sect
+1 CONC ion faced even longer delays, and their individual training did not begin until early June. Both squadrons were "basica
+1 CONC lly trained" by the end of 1952, but the lack of special squadron equipment and training launches stymied efforts to ma
+1 CONC ke either squadron operational by an early date. Problems with the MATADOR's performance also delayed the deployment o
+1 CONC f both squadrons.7
+1 CONT At this point, we need to take a closer look at the MATADOR and its ground and flight support equipment. Early test ver
+1 CONC sions of the MATADOR were slightly more than 34 feet long and 23 feet from wing-tip to wing-tip, but they evolved int
+1 CONC o production models measuring 39.6 feet by 28.7 feet. In either configuration, the MATADOR could carry approximately 25
+1 CONC 0 gallons of JP-3 jet fuel, and it weighed about as much as a jet fighter of comparable size. The missile's warhead com
+1 CONC partment was designed to carry a 3,000-pound weapon, but it carried test equipment and ballast for the MATADOR's flight
+1 CONC s from Cape Canaveral. The airframe was designed to handle the combined thrust of the missile's RATO solid rocket boost
+1 CONC er and the Allison J-33-A-31 turbojet engine (i.e., 44,600 pounds of thrust). The wing and tail surfaces were aluminu
+1 CONC m alloy shells reinforced with honeycomb cores. Spoilers provided lateral control, and the MATADOR's horizontal tail wa
+1 CONC s mounted atop the vertical stabilizer to minimize buffeting at high sub-sonic speeds. The missile's zero-length launch
+1 CONC er was a 20-ton flat-bed trailer equipped with a cradle to support the MATADOR and elevate the missile to a launching a
+1 CONC ngle of 18 degrees. A transport trailer was used to carry the MATADOR and its wing as two separate pieces to be assembl
+1 CONC ed at the launch site.8
+1 CONT Two different guidance systems were under development for the MATADOR program in the early 1950s -- the SHANICLE and th
+1 CONC e MARC. The SHANICLE (Short Range Navigation Vehicle) system consisted of a microwave pulsed hyperbolic network based o
+1 CONC n principles applied in the common LORAN navigation system. The SHANICLE employed a pair of "master" and "slave" microw
+1 CONC ave ground stations to generate an azimuth for the missile's flight to the target. It used a second pair of master/slav
+1 CONC e stations to generate the distance to the target. The intersection of azimuth and distance hyperbolas defined the targ
+1 CONC et. The master stations controlled timing, synchronized the microwave signals to the slave stations and (most important
+1 CONC ly) transmitted guidance signals to the MATADOR as regular intervals during the flight. Once the missile reached its "t
+1 CONC erminal dive" point near the target area, a signal was sent to precess the MATADOR's vertical gyro, and this action sen
+1 CONC t the missile into a vertical dive toward the target.9
+0 @N1776@ NOTE
+1 CONT Kathleen was called Sheila at birth. She was christened Katherine, but called Kathleen during her childhood. She did no
+1 CONC t know she was christened until she was 18 years old. Her mother did not attend the christening -- her Aunt Katherine n
+1 CONC amed her after herself.
+0 @N1833@ NOTE
+1 CONT
+1 CONT Miss Fennessy And E. P. Bousa Planning to Wed
+1 CONT Published: New York Times, April 15, 1984
+1 CONT http://www.nytimes.com/1984/04/15/style/miss-fennessy-and-e-p-bousa-planning-to-wed.html
+1 CONT Mr. and Mrs. Eamon T. Fennessy of Upper Saddle River, N.J., have announced the engagement of their daughter Maureen Lou
+1 CONC ise Fennessy to Edward Peter Bousa, a son of Mr. and Mrs. Joseph Bousa 3d of Upper Saddle River and Popponesset Beach
+1 CONC , Mass. A September wedding is planned.
+1 CONT The future bride, a research associate at Meredith & Grew, a commercial real-estate company in Boston, graduated from t
+1 CONC he Academy of the Holy Angels in Demarest, N.J., and Wellesley College. Her father is American legislative manager fo
+1 CONC r the BOC Group, a conglomerate based in London, and chairman of the New Jersey Health Sciences Group, a pharmaceutica
+1 CONC l industry organization in Trenton.
+1 CONT Mr. Bousa, an alumnus of Williams College, is to receive a master's degree from the Harvard Graduate School of Busines
+1 CONC s Administration and to become a security analyst for the Fidelity Management and Research Company in Boston. He wa
+1 CONC s a commodities trader for the Louis Dreyfus Corporation in Stamford, Conn. His father is a sales director for the Inte
+1 CONC rnational Business Machines Corporation in White Plains.
+0 @N1835@ NOTE
+0 @N1879@ NOTE
+1 CONT Note from Kerin: Notable Fact: I located my birth mother January of 1999.
+1 CONT
+1 CONT My biological mother is:
+1 CONT Denise Ann Saulnier
+1 CONT Born: 1/6/1952  - Newton, MA
+1 CONT  
+1 CONT My biological father:
+1 CONT Edward Robert Dumont 
+1 CONT Born: 6/26/1949 -  Hyannis, MA
+0 @N1946@ NOTE
+1 CONT Notes posted to http://www.legacy.com/guestbook/bostonglobe/guestbook-entry-print.aspx?n=patrick-fennessy&pid=145722387
+1 CONC &aid=1232&aid=1232 after Patrick’s death:
+1 CONT
+1 CONT October 04, 2010
+1 CONT All of us Whittemore Street Finnegans send our heartfelt sympathies to all the Fennessy family on the occasion of the d
+1 CONC eath of your dear Dad, brother, husband, uncle and friend. What a character he was. It was so nice to see the picture o
+1 CONC f all the siblings and to see how well life appears to have been for you. Such wonderful memories. And what a family yo
+1 CONC u Fennessys are -- the best. God bless you all.
+1 CONT
+1 CONT Fondly, Paul, Dick, Kevin and Bob Finnegan
+1 CONT Paul Finnegan,
+1 CONT Boston, Massachusetts
+1 CONT The Finnegans lived next to 9 Whittemore St 
+1 CONT
+1 CONT October 02, 2010
+1 CONT My prayers and love go to you all. I wish I could be there. I am home caring for my mom, his sister in law, Alice Marie
+1 CONC . May Uncle Pat rest in peace and may we remember all that was good and let him live on in our memories. Peace
+1 CONT Liz Slattery,
+1 CONT Metairie, Louisiana
+1 CONT
+1 CONT October 01, 2010
+1 CONT Our deepest sympathy for your loss. May fond memories bring comfort at this sad time. 
+1 CONT You are in our thoughts and prayers.
+1 CONT Pax vobiscum, 
+1 CONT The Saint Margaret Parish Family, Beverly Farms, Massachusetts
+1 CONT Mary Murray,
+1 CONT Beverly Farms, Massachusetts
+1 CONT
+1 CONT September 30, 2010
+1 CONT I spent many happy days with your family when I was a teenager. My thoughts are with you all.
+1 CONT Peace,
+1 CONT Faith Small Govey
+1 CONT Faith Govey,
+1 CONT Plymouth, Massachusetts
+1 CONT
+1 CONT September 30, 2010
+1 CONT To know a good man is a Blessing ,to have had a great Dad is beyond words.My prayers are with all of you in this had Ti
+1 CONC me.
+1 CONT
+1 CONT Please accept our condolences ,the Colon Family
+1 CONT Gloria Colon,
+1 CONT woburn, Massachusetts
+1 CONT
+1 CONT September 30, 2010
+1 CONT Papa, I love & miss you very much ~ 
+1 CONT love, Walter
+1 CONT Walter Harris,
+1 CONT Austin, Texas
+1 CONT
+1 CONT September 30, 2010
+1 CONT Rest in Peace Dad, Love you miss you forever in my heart. You will always be in my thoughts. Thank you for all the fon
+1 CONC d memories ... Love you and Miss you. Duane
+1 CONT
+1 CONT September 30, 2010
+1 CONT Our thoughts and prayers are with you in your time of grief. May your memories bring you comfort.
+1 CONT Joel & Barbara Fisher,
+1 CONT Cape Canaveral, Florida
+1 CONT
+1 CONT September 30, 2010
+1 CONT Dad, you are now at peace . Your memory will live on in our hearts forever. Miss you deeply, Tracey
+1 CONT Tracey Harris,
+1 CONT Austin, Texas
+1 CONT
+1 CONT September 30, 2010
+1 CONT Goodbye, Dad. We miss you.
+1 CONT Quentin
+1 CONT Quentin Fennessy,
+1 CONT Austin, Texas
+0 @N1947@ NOTE
+1 CONT Dolores Bergun - friend from Frances’ time in a sanatarium due to TB, c 1946
+1 CONT
+1 CONT Doloris and Larry Bergun
+1 CONT 15 Wood Place, Manhasset, NY 11030 (address c 1980s)
+0 @N1948@ NOTE
+1 CONT Earl and Dolores Gill - godparents
+1 CONT address c 1975 unknown
+1 CONT
+1 CONT Ellen Gill Degrafft (daughter)
+1 CONT 19213 Wheatfield Terrace
+1 CONT Gatihersburg, MD 20879
+0 @N2046@ NOTE
+1 CONT Sheila told Quentin: Ilona is Hungarian for Helen. We had an exchange student in 1990 from Switzerland named Ilona wh
+1 CONC o later died of lymphoma so we gave Katy her name ( and my mother's).
+0 TRLR
