@@ -142,6 +142,47 @@ class Parser(object):
         with open(file_path, 'rb') as gedcom_stream:
             self.parse(gedcom_stream, strict)
 
+    def detect_source(self, lines: list) -> str:
+        """
+        Detects the source and version of the GEDCOM file based on its header.
+
+        Args:
+            lines (list): The lines from the GEDCOM file.
+
+        Returns:
+            str: The source and version of the GEDCOM file.
+        """
+        if not lines:
+            return "Unknown"
+
+        for line in lines[:10]:  # Check the first 10 lines for the source
+            if "Reunion" in line:
+                version = self._extract_version(lines, "Reunion")
+                return f"Reunion {version}"
+            elif "Ancestry.com" in line:
+                version = self._extract_version(lines, "Ancestry.com")
+                return f"Ancestry.com {version}"
+
+        return "Unknown"
+
+    def _extract_version(self, lines: list, source: str) -> str:
+        """
+        Extracts the version number for the given source.
+
+        Args:
+            lines (list): The lines from the GEDCOM file.
+            source (str): The source of the GEDCOM file ('Reunion' or 'Ancestry.com').
+
+        Returns:
+            str: The version number, or 'Unknown' if not found.
+        """
+        for line in lines[:20]:  # Check the first 20 lines for the version
+            if source == "Reunion" and line.strip().startswith("2 VERS"):
+                return line.split()[-1]
+            elif source == "Ancestry.com" and "VERS" in line:
+                return line.split()[-1]
+        return "Unknown"
+
     def parse(self, gedcom_stream, strict=True):
         """Parses a stream, or an array of lines, as GEDCOM 5.5 formatted data
         :type gedcom_stream: a file stream, or str array of lines with new line at the end
